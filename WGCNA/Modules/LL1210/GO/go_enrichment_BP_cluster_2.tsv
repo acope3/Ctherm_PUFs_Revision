@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0005975	carbohydrate metabolic process	95	22	8.21	0.00029
+GO:0016052	carbohydrate catabolic process	52	11	4.5	0.00334
+GO:0005996	monosaccharide metabolic process	12	4	1.04	0.01506
+GO:0005976	polysaccharide metabolic process	50	9	4.32	0.02297
+GO:0009057	macromolecule catabolic process	51	9	4.41	0.02594
+GO:0019318	hexose metabolic process	10	3	0.86	0.04796
+GO:0006188	IMP biosynthetic process	10	3	0.86	0.04796
+GO:0046040	IMP metabolic process	11	3	0.95	0.06191
+GO:0044265	cellular macromolecule catabolic process	11	3	0.95	0.06191
+GO:0000272	polysaccharide catabolic process	35	6	3.03	0.07375
+GO:0016051	carbohydrate biosynthetic process	19	4	1.64	0.07395
+GO:0055114	oxidation-reduction process	152	18	13.14	0.08954
+GO:0009168	purine ribonucleoside monophosphate bios...	37	6	3.2	0.09194
+GO:0009127	purine nucleoside monophosphate biosynth...	37	6	3.2	0.09194
+GO:0044262	cellular carbohydrate metabolic process	29	5	2.51	0.09749
+GO:0016053	organic acid biosynthetic process	115	14	9.94	0.10791
+GO:0009156	ribonucleoside monophosphate biosyntheti...	48	7	4.15	0.11210
+GO:0000271	polysaccharide biosynthetic process	15	3	1.3	0.13308
+GO:0044264	cellular polysaccharide metabolic proces...	25	4	2.16	0.16311
+GO:0009124	nucleoside monophosphate biosynthetic pr...	53	7	4.58	0.16545
+GO:0046394	carboxylic acid biosynthetic process	114	13	9.85	0.17313
+GO:0009110	vitamin biosynthetic process	17	3	1.47	0.17591
+GO:0042364	water-soluble vitamin biosynthetic proce...	17	3	1.47	0.17591
+GO:0006091	generation of precursor metabolites and ...	45	6	3.89	0.18581
+GO:0006073	cellular glucan metabolic process	18	3	1.56	0.19862
+GO:0019363	pyridine nucleotide biosynthetic process	18	3	1.56	0.19862
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	18	3	1.56	0.19862
+GO:0072330	monocarboxylic acid biosynthetic process	27	4	2.33	0.19896
+GO:0009152	purine ribonucleotide biosynthetic proce...	46	6	3.98	0.19961
+GO:0006413	translational initiation	10	2	0.86	0.21154
+GO:0019954	asexual reproduction	10	2	0.86	0.21154
+GO:0019692	deoxyribose phosphate metabolic process	10	2	0.86	0.21154
+GO:0072525	pyridine-containing compound biosyntheti...	19	3	1.64	0.22199
+GO:0044042	glucan metabolic process	19	3	1.64	0.22199
+GO:0009260	ribonucleotide biosynthetic process	59	7	5.1	0.24169
+GO:0006164	purine nucleotide biosynthetic process	49	6	4.24	0.24316
+GO:0051641	cellular localization	11	2	0.95	0.24480
+GO:0009082	branched-chain amino acid biosynthetic p...	11	2	0.95	0.24480
+GO:0006526	arginine biosynthetic process	11	2	0.95	0.24480
+GO:0006766	vitamin metabolic process	20	3	1.73	0.24589
+GO:0006767	water-soluble vitamin metabolic process	20	3	1.73	0.24589
+GO:0072522	purine-containing compound biosynthetic ...	50	6	4.32	0.25829
+GO:0046390	ribose phosphate biosynthetic process	61	7	5.27	0.26940
+GO:0046496	nicotinamide nucleotide metabolic proces...	21	3	1.82	0.27019
+GO:0019362	pyridine nucleotide metabolic process	21	3	1.82	0.27019
+GO:0006754	ATP biosynthetic process	21	3	1.82	0.27019
+GO:0032787	monocarboxylic acid metabolic process	51	6	4.41	0.27368
+GO:0044036	cell wall macromolecule metabolic proces...	31	4	2.68	0.27656
+GO:0030243	cellulose metabolic process	12	2	1.04	0.27825
+GO:0006096	glycolytic process	12	2	1.04	0.27825
+GO:0034637	cellular carbohydrate biosynthetic proce...	12	2	1.04	0.27825
+GO:0042866	pyruvate biosynthetic process	12	2	1.04	0.27825
+GO:0033692	cellular polysaccharide biosynthetic pro...	12	2	1.04	0.27825
+GO:0009081	branched-chain amino acid metabolic proc...	12	2	1.04	0.27825
+GO:0006525	arginine metabolic process	12	2	1.04	0.27825
+GO:0006757	ATP generation from ADP	12	2	1.04	0.27825
+GO:0051273	beta-glucan metabolic process	12	2	1.04	0.27825
+GO:0072524	pyridine-containing compound metabolic p...	22	3	1.9	0.29476
+GO:0009145	purine nucleoside triphosphate biosynthe...	22	3	1.9	0.29476
+GO:0009206	purine ribonucleoside triphosphate biosy...	22	3	1.9	0.29476
+GO:0008652	cellular amino acid biosynthetic process	84	9	7.26	0.29572
+GO:0000003	reproduction	13	2	1.12	0.31162
+GO:0006090	pyruvate metabolic process	23	3	1.99	0.31947
+GO:0009201	ribonucleoside triphosphate biosynthetic...	24	3	2.07	0.34423
+GO:0043648	dicarboxylic acid metabolic process	24	3	2.07	0.34423
+GO:0006165	nucleoside diphosphate phosphorylation	14	2	1.21	0.34468
+GO:0046031	ADP metabolic process	14	2	1.21	0.34468
+GO:0015980	energy derivation by oxidation of organi...	14	2	1.21	0.34468
+GO:0044275	cellular carbohydrate catabolic process	14	2	1.21	0.34468
+GO:0071702	organic substance transport	35	4	3.03	0.35833
+GO:0044281	small molecule metabolic process	314	29	27.14	0.36739
+GO:0051234	establishment of localization	112	11	9.68	0.37201
+GO:0009165	nucleotide biosynthetic process	79	8	6.83	0.37284
+GO:0000910	cytokinesis	15	2	1.3	0.37724
+GO:0071554	cell wall organization or biogenesis	36	4	3.11	0.37894
+GO:0006082	organic acid metabolic process	180	17	15.56	0.38258
+GO:0016310	phosphorylation	91	9	7.87	0.38623
+GO:1901293	nucleoside phosphate biosynthetic proces...	80	8	6.92	0.38683
+GO:0006733	oxidoreduction coenzyme metabolic proces...	26	3	2.25	0.39347
+GO:1901137	carbohydrate derivative biosynthetic pro...	103	10	8.9	0.39775
+GO:0009179	purine ribonucleoside diphosphate metabo...	16	2	1.38	0.40913
+GO:0042558	pteridine-containing compound metabolic ...	16	2	1.38	0.40913
+GO:0022402	cell cycle process	16	2	1.38	0.40913
+GO:0009135	purine nucleoside diphosphate metabolic ...	16	2	1.38	0.40913
+GO:0009084	glutamine family amino acid biosynthetic...	16	2	1.38	0.40913
+GO:0046939	nucleotide phosphorylation	16	2	1.38	0.40913
+GO:1901607	alpha-amino acid biosynthetic process	71	7	6.14	0.41694
+GO:0009142	nucleoside triphosphate biosynthetic pro...	27	3	2.33	0.41778
+GO:0044283	small molecule biosynthetic process	195	18	16.86	0.41856
+GO:0006796	phosphate-containing compound metabolic ...	219	20	18.93	0.43048
+GO:0046434	organophosphate catabolic process	61	6	5.27	0.43495
+GO:0033036	macromolecule localization	17	2	1.47	0.44022
+GO:0009185	ribonucleoside diphosphate metabolic pro...	17	2	1.47	0.44022
+GO:0008104	protein localization	17	2	1.47	0.44022
+GO:0006631	fatty acid metabolic process	17	2	1.47	0.44022
+GO:0045184	establishment of protein localization	17	2	1.47	0.44022
+GO:0006793	phosphorus metabolic process	222	20	19.19	0.45840
+GO:0090407	organophosphate biosynthetic process	97	9	8.39	0.46554
+GO:0006508	proteolysis	63	6	5.45	0.46730
+GO:0051188	cofactor biosynthetic process	52	5	4.5	0.47331

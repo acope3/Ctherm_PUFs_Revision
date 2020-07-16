@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006310	DNA recombination	24	4	0.78	0.0062
+GO:0000154	rRNA modification	14	3	0.45	0.0089
+GO:0018193	peptidyl-amino acid modification	27	4	0.88	0.0095
+GO:0044267	cellular protein metabolic process	190	14	6.16	0.0140
+GO:0044260	cellular macromolecule metabolic process	390	22	12.64	0.0307
+GO:0040007	growth	123	8	3.99	0.0372
+GO:0019538	protein metabolic process	249	15	8.07	0.0438
+GO:0034220	ion transmembrane transport	25	3	0.81	0.0440
+GO:0031167	rRNA methylation	11	2	0.36	0.0467
+GO:0042255	ribosome assembly	11	2	0.36	0.0467
+GO:0044403	symbiont process	12	2	0.39	0.0549
+GO:0000003	reproduction	13	2	0.42	0.0636
+GO:0022618	ribonucleoprotein complex assembly	13	2	0.42	0.0636
+GO:0043604	amide biosynthetic process	138	8	4.47	0.0670
+GO:0071826	ribonucleoprotein complex subunit organi...	14	2	0.45	0.0728
+GO:0055085	transmembrane transport	71	5	2.3	0.0737
+GO:0006807	nitrogen compound metabolic process	665	29	21.55	0.0794
+GO:0006412	translation	119	7	3.86	0.0806
+GO:0043043	peptide biosynthetic process	119	7	3.86	0.0806
+GO:0043650	dicarboxylic acid biosynthetic process	15	2	0.49	0.0823
+GO:0044238	primary metabolic process	716	30	23.2	0.0870
+GO:0006518	peptide metabolic process	122	7	3.95	0.0897
+GO:0034622	cellular protein-containing complex asse...	16	2	0.52	0.0922
+GO:0044419	interspecies interaction between organis...	16	2	0.52	0.0922
+GO:0018106	peptidyl-histidine phosphorylation	16	2	0.52	0.0922
+GO:0018202	peptidyl-histidine modification	16	2	0.52	0.0922
+GO:0043603	cellular amide metabolic process	150	8	4.86	0.0996
+GO:0044237	cellular metabolic process	725	30	23.5	0.1021
+GO:0098655	cation transmembrane transport	19	2	0.62	0.1237
+GO:0001510	RNA methylation	19	2	0.62	0.1237
+GO:0032259	methylation	60	4	1.94	0.1244
+GO:0006810	transport	109	6	3.53	0.1325
+GO:0070925	organelle assembly	20	2	0.65	0.1347
+GO:0006811	ion transport	40	3	1.3	0.1361
+GO:0051234	establishment of localization	111	6	3.6	0.1413
+GO:0043170	macromolecule metabolic process	491	24	15.91	0.1549
+GO:0071704	organic substance metabolic process	760	30	24.63	0.1803
+GO:0006418	tRNA aminoacylation for protein translat...	24	2	0.78	0.1808
+GO:0043414	macromolecule methylation	25	2	0.81	0.1927
+GO:0051704	multi-organism process	25	2	0.81	0.1927
+GO:0043648	dicarboxylic acid metabolic process	25	2	0.81	0.1927
+GO:0043038	amino acid activation	25	2	0.81	0.1927
+GO:0043039	tRNA aminoacylation	25	2	0.81	0.1927
+GO:0034641	cellular nitrogen compound metabolic pro...	499	22	16.17	0.2072
+GO:0006468	protein phosphorylation	29	2	0.94	0.2412
+GO:0009169	purine ribonucleoside monophosphate cata...	29	2	0.94	0.2412
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	2	0.94	0.2412
+GO:0009125	nucleoside monophosphate catabolic proce...	29	2	0.94	0.2412
+GO:0009128	purine nucleoside monophosphate cataboli...	29	2	0.94	0.2412
+GO:0051179	localization	132	6	4.28	0.2489
+GO:1901565	organonitrogen compound catabolic proces...	54	3	1.75	0.2529
+GO:0006812	cation transport	30	2	0.97	0.2535
+GO:0009987	cellular process	832	31	26.96	0.2641
+GO:1901564	organonitrogen compound metabolic proces...	500	20	16.2	0.2809
+GO:0046903	secretion	10	1	0.32	0.2817
+GO:0046907	intracellular transport	10	1	0.32	0.2817
+GO:0022414	reproductive process	10	1	0.32	0.2817
+GO:0006605	protein targeting	10	1	0.32	0.2817
+GO:0071806	protein transmembrane transport	10	1	0.32	0.2817
+GO:0051701	interaction with host	10	1	0.32	0.2817
+GO:0006886	intracellular protein transport	10	1	0.32	0.2817
+GO:0006820	anion transport	10	1	0.32	0.2817
+GO:0071705	nitrogen compound transport	33	2	1.07	0.2904
+GO:0044265	cellular macromolecule catabolic process	11	1	0.36	0.3052
+GO:0009266	response to temperature stimulus	11	1	0.36	0.3052
+GO:0070727	cellular macromolecule localization	11	1	0.36	0.3052
+GO:0034613	cellular protein localization	11	1	0.36	0.3052
+GO:0051649	establishment of localization in cell	11	1	0.36	0.3052
+GO:0042398	cellular modified amino acid biosyntheti...	12	1	0.39	0.3279
+GO:0071897	DNA biosynthetic process	12	1	0.39	0.3279
+GO:0006760	folic acid-containing compound metabolic...	13	1	0.42	0.3500
+GO:0051641	cellular localization	13	1	0.42	0.3500
+GO:0071702	organic substance transport	38	2	1.23	0.3514
+GO:0044271	cellular nitrogen compound biosynthetic ...	355	13	11.5	0.3518
+GO:0034645	cellular macromolecule biosynthetic proc...	239	9	7.75	0.3652
+GO:0016311	dephosphorylation	14	1	0.45	0.3713
+GO:0010467	gene expression	242	11	7.84	0.3734
+GO:0022607	cellular component assembly	68	3	2.2	0.3806
+GO:0006520	cellular amino acid metabolic process	126	5	4.08	0.3881
+GO:0009059	macromolecule biosynthetic process	244	9	7.91	0.3911
+GO:0000910	cytokinesis	15	1	0.49	0.3919
+GO:0009261	ribonucleotide catabolic process	42	2	1.36	0.3990
+GO:0009154	purine ribonucleotide catabolic process	42	2	1.36	0.3990
+GO:0009146	purine nucleoside triphosphate catabolic...	42	2	1.36	0.3990
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	2	1.36	0.3990
+GO:0009207	purine ribonucleoside triphosphate catab...	42	2	1.36	0.3990
+GO:0046130	purine ribonucleoside catabolic process	43	2	1.39	0.4107
+GO:0009143	nucleoside triphosphate catabolic proces...	43	2	1.39	0.4107
+GO:0006195	purine nucleotide catabolic process	43	2	1.39	0.4107
+GO:0006631	fatty acid metabolic process	16	1	0.52	0.4119
+GO:0042558	pteridine-containing compound metabolic ...	16	1	0.52	0.4119
+GO:0006152	purine nucleoside catabolic process	44	2	1.43	0.4223
+GO:0042454	ribonucleoside catabolic process	44	2	1.43	0.4223
+GO:0008152	metabolic process	913	32	29.59	0.4245
+GO:0022402	cell cycle process	17	1	0.55	0.4312
+GO:0034656	nucleobase-containing small molecule cat...	45	2	1.46	0.4338
+GO:0072523	purine-containing compound catabolic pro...	45	2	1.46	0.4338
+GO:0009164	nucleoside catabolic process	45	2	1.46	0.4338
+GO:0006996	organelle organization	45	2	1.46	0.4338
+GO:1901658	glycosyl compound catabolic process	45	2	1.46	0.4338

@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0009086	methionine biosynthetic process	11	2	0.2	0.016
+GO:0044272	sulfur compound biosynthetic process	31	3	0.57	0.018
+GO:0006555	methionine metabolic process	13	2	0.24	0.022
+GO:0009069	serine family amino acid metabolic proce...	14	2	0.26	0.026
+GO:0000097	sulfur amino acid biosynthetic process	15	2	0.28	0.030
+GO:0000096	sulfur amino acid metabolic process	18	2	0.33	0.042
+GO:0006790	sulfur compound metabolic process	44	3	0.81	0.044
+GO:0009067	aspartate family amino acid biosynthetic...	21	2	0.39	0.055
+GO:0009066	aspartate family amino acid metabolic pr...	26	2	0.48	0.081
+GO:0008033	tRNA processing	28	2	0.52	0.092
+GO:0017144	drug metabolic process	98	4	1.81	0.100
+GO:0007049	cell cycle	35	2	0.65	0.135
+GO:0008152	metabolic process	913	19	16.91	0.159
+GO:0055114	oxidation-reduction process	160	5	2.96	0.162
+GO:0019318	hexose metabolic process	10	1	0.19	0.171
+GO:0043094	cellular metabolic compound salvage	10	1	0.19	0.171
+GO:0006413	translational initiation	10	1	0.19	0.171
+GO:0009308	amine metabolic process	11	1	0.2	0.187
+GO:0006576	cellular biogenic amine metabolic proces...	11	1	0.2	0.187
+GO:0044106	cellular amine metabolic process	11	1	0.2	0.187
+GO:0090305	nucleic acid phosphodiester bond hydroly...	44	2	0.81	0.194
+GO:0071897	DNA biosynthetic process	12	1	0.22	0.202
+GO:0042180	cellular ketone metabolic process	12	1	0.22	0.202
+GO:0034470	ncRNA processing	47	2	0.87	0.215
+GO:1901605	alpha-amino acid metabolic process	88	3	1.63	0.219
+GO:0006096	glycolytic process	14	1	0.26	0.231
+GO:0005996	monosaccharide metabolic process	14	1	0.26	0.231
+GO:0006757	ATP generation from ADP	14	1	0.26	0.231
+GO:0042866	pyruvate biosynthetic process	14	1	0.26	0.231
+GO:0071555	cell wall organization	16	1	0.3	0.260
+GO:0008360	regulation of cell shape	16	1	0.3	0.260
+GO:0022604	regulation of cell morphogenesis	16	1	0.3	0.260
+GO:0045229	external encapsulating structure organiz...	16	1	0.3	0.260
+GO:0046031	ADP metabolic process	16	1	0.3	0.260
+GO:0071103	DNA conformation change	16	1	0.3	0.260
+GO:0006165	nucleoside diphosphate phosphorylation	16	1	0.3	0.260
+GO:0016052	carbohydrate catabolic process	55	2	1.02	0.271
+GO:0009179	purine ribonucleoside diphosphate metabo...	17	1	0.31	0.274
+GO:0009252	peptidoglycan biosynthetic process	17	1	0.31	0.274
+GO:0009135	purine nucleoside diphosphate metabolic ...	17	1	0.31	0.274
+GO:0022402	cell cycle process	17	1	0.31	0.274
+GO:0006023	aminoglycan biosynthetic process	17	1	0.31	0.274
+GO:0006024	glycosaminoglycan biosynthetic process	17	1	0.31	0.274
+GO:0006399	tRNA metabolic process	56	2	1.04	0.278
+GO:0009185	ribonucleoside diphosphate metabolic pro...	18	1	0.33	0.288
+GO:0046939	nucleotide phosphorylation	18	1	0.33	0.288
+GO:0051276	chromosome organization	18	1	0.33	0.288
+GO:0006396	RNA processing	58	2	1.07	0.292
+GO:0030203	glycosaminoglycan metabolic process	19	1	0.35	0.301
+GO:0000270	peptidoglycan metabolic process	19	1	0.35	0.301
+GO:0022603	regulation of anatomical structure morph...	19	1	0.35	0.301
+GO:0000902	cell morphogenesis	19	1	0.35	0.301
+GO:0032989	cellular component morphogenesis	19	1	0.35	0.301
+GO:0044283	small molecule biosynthetic process	200	5	3.7	0.306
+GO:0044038	cell wall macromolecule biosynthetic pro...	20	1	0.37	0.314
+GO:0070589	cellular component macromolecule biosynt...	20	1	0.37	0.314
+GO:0042364	water-soluble vitamin biosynthetic proce...	20	1	0.37	0.314
+GO:0009110	vitamin biosynthetic process	20	1	0.37	0.314
+GO:0009132	nucleoside diphosphate metabolic process	20	1	0.37	0.314
+GO:0050793	regulation of developmental process	20	1	0.37	0.314
+GO:0006022	aminoglycan metabolic process	20	1	0.37	0.314
+GO:0019363	pyridine nucleotide biosynthetic process	21	1	0.39	0.327
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	21	1	0.39	0.327
+GO:0009273	peptidoglycan-based cell wall biogenesis	21	1	0.39	0.327
+GO:0006732	coenzyme metabolic process	64	2	1.19	0.334
+GO:0006575	cellular modified amino acid metabolic p...	22	1	0.41	0.340
+GO:0006400	tRNA modification	22	1	0.41	0.340
+GO:0042546	cell wall biogenesis	22	1	0.41	0.340
+GO:0072525	pyridine-containing compound biosyntheti...	22	1	0.41	0.340
+GO:0019362	pyridine nucleotide metabolic process	23	1	0.43	0.352
+GO:0006754	ATP biosynthetic process	23	1	0.43	0.352
+GO:0046496	nicotinamide nucleotide metabolic proces...	23	1	0.43	0.352
+GO:0046394	carboxylic acid biosynthetic process	115	3	2.13	0.360
+GO:1901566	organonitrogen compound biosynthetic pro...	316	7	5.85	0.363
+GO:0009145	purine nucleoside triphosphate biosynthe...	24	1	0.44	0.365
+GO:0006766	vitamin metabolic process	24	1	0.44	0.365
+GO:0006767	water-soluble vitamin metabolic process	24	1	0.44	0.365
+GO:0009653	anatomical structure morphogenesis	24	1	0.44	0.365
+GO:0048869	cellular developmental process	24	1	0.44	0.365
+GO:0072524	pyridine-containing compound metabolic p...	24	1	0.44	0.365
+GO:0009206	purine ribonucleoside triphosphate biosy...	24	1	0.44	0.365
+GO:0016053	organic acid biosynthetic process	116	3	2.15	0.366
+GO:0006090	pyruvate metabolic process	25	1	0.46	0.377
+GO:0048856	anatomical structure development	25	1	0.46	0.377
+GO:0043043	peptide biosynthetic process	119	3	2.2	0.382
+GO:0006412	translation	119	3	2.2	0.382
+GO:1901607	alpha-amino acid biosynthetic process	71	2	1.31	0.383
+GO:0009201	ribonucleoside triphosphate biosynthetic...	26	1	0.48	0.388
+GO:0006518	peptide metabolic process	122	3	2.26	0.397
+GO:0009072	aromatic amino acid family metabolic pro...	27	1	0.5	0.400
+GO:0072528	pyrimidine-containing compound biosynthe...	27	1	0.5	0.400
+GO:0006260	DNA replication	28	1	0.52	0.411
+GO:0072330	monocarboxylic acid biosynthetic process	28	1	0.52	0.411
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	1	0.52	0.411
+GO:0034660	ncRNA metabolic process	76	2	1.41	0.417
+GO:0006520	cellular amino acid metabolic process	126	3	2.33	0.419
+GO:0009142	nucleoside triphosphate biosynthetic pro...	29	1	0.54	0.423
+GO:0032502	developmental process	29	1	0.54	0.423
+GO:0051186	cofactor metabolic process	78	2	1.44	0.430
+GO:0019752	carboxylic acid metabolic process	181	4	3.35	0.438

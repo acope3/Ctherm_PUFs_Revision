@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006364	rRNA processing	21	2	0.21	0.017
+GO:0016072	rRNA metabolic process	23	2	0.23	0.020
+GO:0034660	ncRNA metabolic process	73	3	0.72	0.029
+GO:0042254	ribosome biogenesis	34	2	0.33	0.041
+GO:0022613	ribonucleoprotein complex biogenesis	36	2	0.35	0.046
+GO:0009451	RNA modification	38	2	0.37	0.051
+GO:0016070	RNA metabolic process	159	4	1.56	0.056
+GO:0006091	generation of precursor metabolites and ...	45	2	0.44	0.069
+GO:0034470	ncRNA processing	45	2	0.44	0.069
+GO:0046034	ATP metabolic process	52	2	0.51	0.089
+GO:0032259	methylation	53	2	0.52	0.092
+GO:0051701	interaction with host	10	1	0.1	0.094
+GO:0031167	rRNA methylation	10	1	0.1	0.094
+GO:0006139	nucleobase-containing compound metabolic...	364	6	3.58	0.103
+GO:0006396	RNA processing	57	2	0.56	0.104
+GO:0006096	glycolytic process	12	1	0.12	0.112
+GO:0042866	pyruvate biosynthetic process	12	1	0.12	0.112
+GO:0006757	ATP generation from ADP	12	1	0.12	0.112
+GO:0044403	symbiont process	12	1	0.12	0.112
+GO:0000154	rRNA modification	13	1	0.13	0.121
+GO:0046031	ADP metabolic process	14	1	0.14	0.130
+GO:0006165	nucleoside diphosphate phosphorylation	14	1	0.14	0.130
+GO:0015980	energy derivation by oxidation of organi...	14	1	0.14	0.130
+GO:0009205	purine ribonucleoside triphosphate metab...	69	2	0.68	0.143
+GO:0009144	purine nucleoside triphosphate metabolic...	69	2	0.68	0.143
+GO:0009199	ribonucleoside triphosphate metabolic pr...	70	2	0.69	0.147
+GO:0009135	purine nucleoside diphosphate metabolic ...	16	1	0.16	0.147
+GO:0051260	protein homooligomerization	16	1	0.16	0.147
+GO:0044419	interspecies interaction between organis...	16	1	0.16	0.147
+GO:0046939	nucleotide phosphorylation	16	1	0.16	0.147
+GO:0009179	purine ribonucleoside diphosphate metabo...	16	1	0.16	0.147
+GO:0009167	purine ribonucleoside monophosphate meta...	71	2	0.7	0.150
+GO:0009126	purine nucleoside monophosphate metaboli...	71	2	0.7	0.150
+GO:0009185	ribonucleoside diphosphate metabolic pro...	17	1	0.17	0.156
+GO:0001510	RNA methylation	17	1	0.17	0.156
+GO:0009141	nucleoside triphosphate metabolic proces...	74	2	0.73	0.161
+GO:0046483	heterocycle metabolic process	405	6	3.98	0.161
+GO:0019363	pyridine nucleotide biosynthetic process	18	1	0.18	0.164
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	18	1	0.18	0.164
+GO:0006725	cellular aromatic compound metabolic pro...	407	6	4	0.165
+GO:0090304	nucleic acid metabolic process	230	4	2.26	0.170
+GO:0009132	nucleoside diphosphate metabolic process	19	1	0.19	0.172
+GO:0051259	protein complex oligomerization	19	1	0.19	0.172
+GO:0072525	pyridine-containing compound biosyntheti...	19	1	0.19	0.172
+GO:0010467	gene expression	232	4	2.28	0.174
+GO:1901360	organic cyclic compound metabolic proces...	415	6	4.08	0.178
+GO:0019362	pyridine nucleotide metabolic process	21	1	0.21	0.189
+GO:0006754	ATP biosynthetic process	21	1	0.21	0.189
+GO:0046496	nicotinamide nucleotide metabolic proces...	21	1	0.21	0.189
+GO:0009161	ribonucleoside monophosphate metabolic p...	83	2	0.82	0.193
+GO:0051704	multi-organism process	22	1	0.22	0.197
+GO:0009206	purine ribonucleoside triphosphate biosy...	22	1	0.22	0.197
+GO:0072524	pyridine-containing compound metabolic p...	22	1	0.22	0.197
+GO:0009145	purine nucleoside triphosphate biosynthe...	22	1	0.22	0.197
+GO:0006418	tRNA aminoacylation for protein translat...	23	1	0.23	0.205
+GO:0043414	macromolecule methylation	23	1	0.23	0.205
+GO:0006090	pyruvate metabolic process	23	1	0.23	0.205
+GO:0009201	ribonucleoside triphosphate biosynthetic...	24	1	0.24	0.213
+GO:0043038	amino acid activation	24	1	0.24	0.213
+GO:0043039	tRNA aminoacylation	24	1	0.24	0.213
+GO:0017144	drug metabolic process	89	2	0.87	0.215
+GO:0009123	nucleoside monophosphate metabolic proce...	89	2	0.87	0.215
+GO:0016310	phosphorylation	91	2	0.89	0.223
+GO:0006733	oxidoreduction coenzyme metabolic proces...	26	1	0.26	0.229
+GO:0072330	monocarboxylic acid biosynthetic process	27	1	0.27	0.237
+GO:0009142	nucleoside triphosphate biosynthetic pro...	27	1	0.27	0.237
+GO:0043412	macromolecule modification	95	2	0.93	0.238
+GO:0009150	purine ribonucleotide metabolic process	96	2	0.94	0.242
+GO:0006163	purine nucleotide metabolic process	100	2	0.98	0.257
+GO:0071705	nitrogen compound transport	30	1	0.29	0.260
+GO:0044085	cellular component biogenesis	105	2	1.03	0.276
+GO:0072521	purine-containing compound metabolic pro...	106	2	1.04	0.280
+GO:0006812	cation transport	33	1	0.32	0.282
+GO:0009259	ribonucleotide metabolic process	108	2	1.06	0.287
+GO:0006412	translation	108	2	1.06	0.287
+GO:0043043	peptide biosynthetic process	108	2	1.06	0.287
+GO:0034641	cellular nitrogen compound metabolic pro...	471	6	4.63	0.288
+GO:0071702	organic substance transport	35	1	0.34	0.296
+GO:0006518	peptide metabolic process	111	2	1.09	0.299
+GO:0019693	ribose phosphate metabolic process	112	2	1.1	0.303
+GO:0009168	purine ribonucleoside monophosphate bios...	37	1	0.36	0.311
+GO:0009127	purine nucleoside monophosphate biosynth...	37	1	0.36	0.311
+GO:0065008	regulation of biological quality	38	1	0.37	0.318
+GO:0040007	growth	120	2	1.18	0.334
+GO:0051301	cell division	41	1	0.4	0.338
+GO:0006811	ion transport	42	1	0.41	0.345
+GO:0043604	amide biosynthetic process	125	2	1.23	0.353
+GO:0065003	protein-containing complex assembly	45	1	0.44	0.365
+GO:0009152	purine ribonucleotide biosynthetic proce...	46	1	0.45	0.372
+GO:0009108	coenzyme biosynthetic process	46	1	0.45	0.372
+GO:0009156	ribonucleoside monophosphate biosyntheti...	48	1	0.47	0.384
+GO:0006164	purine nucleotide biosynthetic process	49	1	0.48	0.391
+GO:0019538	protein metabolic process	228	3	2.24	0.395
+GO:0072522	purine-containing compound biosynthetic ...	50	1	0.49	0.397
+GO:0043603	cellular amide metabolic process	137	2	1.35	0.398
+GO:0009117	nucleotide metabolic process	137	2	1.35	0.398
+GO:0006753	nucleoside phosphate metabolic process	138	2	1.36	0.402
+GO:0032787	monocarboxylic acid metabolic process	51	1	0.5	0.403
+GO:0016052	carbohydrate catabolic process	52	1	0.51	0.409
+GO:0051188	cofactor biosynthetic process	52	1	0.51	0.409

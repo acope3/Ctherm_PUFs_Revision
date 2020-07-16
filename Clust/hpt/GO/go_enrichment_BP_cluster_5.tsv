@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0051716	cellular response to stimulus	150	24	12.78	0.00084
+GO:0046677	response to antibiotic	10	4	0.85	0.00695
+GO:0018106	peptidyl-histidine phosphorylation	16	5	1.36	0.00826
+GO:0007154	cell communication	98	15	8.35	0.01416
+GO:0055114	oxidation-reduction process	160	21	13.63	0.02137
+GO:0070887	cellular response to chemical stimulus	21	5	1.79	0.02733
+GO:0033554	cellular response to stress	61	10	5.2	0.02849
+GO:0071554	cell wall organization or biogenesis	37	7	3.15	0.03192
+GO:0007165	signal transduction	80	12	6.81	0.03229
+GO:0023052	signaling	80	12	6.81	0.03229
+GO:0045229	external encapsulating structure organiz...	16	4	1.36	0.04049
+GO:0071555	cell wall organization	16	4	1.36	0.04049
+GO:0097237	cellular response to toxic substance	10	3	0.85	0.04624
+GO:0009252	peptidoglycan biosynthetic process	17	4	1.45	0.04958
+GO:0009636	response to toxic substance	17	4	1.45	0.04958
+GO:0006023	aminoglycan biosynthetic process	17	4	1.45	0.04958
+GO:0006024	glycosaminoglycan biosynthetic process	17	4	1.45	0.04958
+GO:0006935	chemotaxis	25	5	2.13	0.05442
+GO:0042221	response to chemical	62	12	5.28	0.05626
+GO:0055086	nucleobase-containing small molecule met...	166	20	14.14	0.05690
+GO:0023014	signal transduction by protein phosphory...	11	3	0.94	0.05974
+GO:0042330	taxis	26	5	2.21	0.06298
+GO:0000160	phosphorelay signal transduction system	43	7	3.66	0.06561
+GO:0009605	response to external stimulus	52	8	4.43	0.06695
+GO:0000270	peptidoglycan metabolic process	19	4	1.62	0.07086
+GO:0030203	glycosaminoglycan metabolic process	19	4	1.62	0.07086
+GO:0006950	response to stress	91	12	7.75	0.07622
+GO:1901135	carbohydrate derivative metabolic proces...	183	21	15.59	0.08011
+GO:0009117	nucleotide metabolic process	142	17	12.1	0.08171
+GO:0044038	cell wall macromolecule biosynthetic pro...	20	4	1.7	0.08300
+GO:0070589	cellular component macromolecule biosynt...	20	4	1.7	0.08300
+GO:0006022	aminoglycan metabolic process	20	4	1.7	0.08300
+GO:0006753	nucleoside phosphate metabolic process	143	17	12.18	0.08619
+GO:0006928	movement of cell or subcellular componen...	29	5	2.47	0.09297
+GO:0022900	electron transport chain	21	4	1.79	0.09610
+GO:0009273	peptidoglycan-based cell wall biogenesis	21	4	1.79	0.09610
+GO:0040011	locomotion	47	7	4	0.09693
+GO:0035556	intracellular signal transduction	47	7	4	0.09693
+GO:0006793	phosphorus metabolic process	234	28	19.93	0.09973
+GO:0042546	cell wall biogenesis	22	4	1.87	0.11011
+GO:0006974	cellular response to DNA damage stimulus	49	7	4.17	0.11525
+GO:0044036	cell wall macromolecule metabolic proces...	31	5	2.64	0.11641
+GO:0046496	nicotinamide nucleotide metabolic proces...	23	4	1.96	0.12498
+GO:0019362	pyridine nucleotide metabolic process	23	4	1.96	0.12498
+GO:0006261	DNA-dependent DNA replication	15	3	1.28	0.12883
+GO:0006796	phosphate-containing compound metabolic ...	230	27	19.59	0.13292
+GO:0072524	pyridine-containing compound metabolic p...	24	4	2.04	0.14067
+GO:0042886	amide transport	24	4	2.04	0.14067
+GO:0015833	peptide transport	24	4	2.04	0.14067
+GO:0072521	purine-containing compound metabolic pro...	112	13	9.54	0.14542
+GO:0032787	monocarboxylic acid metabolic process	52	7	4.43	0.14591
+GO:0006631	fatty acid metabolic process	16	3	1.36	0.14922
+GO:0019637	organophosphate metabolic process	166	18	14.14	0.15487
+GO:0008152	metabolic process	913	82	77.77	0.16613
+GO:0006163	purine nucleotide metabolic process	105	12	8.94	0.17185
+GO:0019693	ribose phosphate metabolic process	116	13	9.88	0.17643
+GO:0050794	regulation of cellular process	181	19	15.42	0.18273
+GO:0009161	ribonucleoside monophosphate metabolic p...	86	10	7.33	0.18726
+GO:0071806	protein transmembrane transport	10	2	0.85	0.20681
+GO:0006188	IMP biosynthetic process	10	2	0.85	0.20681
+GO:0032392	DNA geometric change	10	2	0.85	0.20681
+GO:0008033	tRNA processing	28	4	2.39	0.21021
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	4	2.39	0.21021
+GO:0072330	monocarboxylic acid biosynthetic process	28	4	2.39	0.21021
+GO:0009991	response to extracellular stimulus	19	3	1.62	0.21560
+GO:0006139	nucleobase-containing compound metabolic...	377	36	32.11	0.21836
+GO:0046483	heterocycle metabolic process	423	40	36.03	0.21869
+GO:0042364	water-soluble vitamin biosynthetic proce...	20	3	1.7	0.23900
+GO:0015031	protein transport	20	3	1.7	0.23900
+GO:0009110	vitamin biosynthetic process	20	3	1.7	0.23900
+GO:0006073	cellular glucan metabolic process	20	3	1.7	0.23900
+GO:0048583	regulation of response to stimulus	11	2	0.94	0.23949
+GO:0046040	IMP metabolic process	11	2	0.94	0.23949
+GO:0009123	nucleoside monophosphate metabolic proce...	92	10	7.84	0.24973
+GO:0045184	establishment of protein localization	21	3	1.79	0.26282
+GO:0044042	glucan metabolic process	21	3	1.79	0.26282
+GO:0019363	pyridine nucleotide biosynthetic process	21	3	1.79	0.26282
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	21	3	1.79	0.26282
+GO:0033036	macromolecule localization	21	3	1.79	0.26282
+GO:0008104	protein localization	21	3	1.79	0.26282
+GO:0050789	regulation of biological process	192	19	16.36	0.26530
+GO:0006355	regulation of transcription, DNA-templat...	62	7	5.28	0.27104
+GO:0006414	translational elongation	12	2	1.02	0.27241
+GO:1901360	organic cyclic compound metabolic proces...	433	40	36.89	0.27916
+GO:0044248	cellular catabolic process	95	10	8.09	0.28352
+GO:2001141	regulation of RNA biosynthetic process	63	7	5.37	0.28502
+GO:1903506	regulation of nucleic acid-templated tra...	63	7	5.37	0.28502
+GO:0046434	organophosphate catabolic process	63	7	5.37	0.28502
+GO:0072525	pyridine-containing compound biosyntheti...	22	3	1.87	0.28693
+GO:0006400	tRNA modification	22	3	1.87	0.28693
+GO:0001539	cilium or flagellum-dependent cell motil...	22	3	1.87	0.28693
+GO:0009167	purine ribonucleoside monophosphate meta...	74	8	6.3	0.28988
+GO:0009126	purine nucleoside monophosphate metaboli...	74	8	6.3	0.28988
+GO:0009165	nucleotide biosynthetic process	85	9	7.24	0.29308
+GO:1901136	carbohydrate derivative catabolic proces...	53	6	4.51	0.29309
+GO:0034654	nucleobase-containing compound biosynthe...	218	21	18.57	0.29460
+GO:0009056	catabolic process	129	13	10.99	0.29672
+GO:0032774	RNA biosynthetic process	75	8	6.39	0.30305
+GO:0034637	cellular carbohydrate biosynthetic proce...	13	2	1.11	0.30530
+GO:0044781	bacterial-type flagellum organization	13	2	1.11	0.30530

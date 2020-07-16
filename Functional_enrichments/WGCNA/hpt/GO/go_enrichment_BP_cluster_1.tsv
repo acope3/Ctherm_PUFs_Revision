@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0048522	positive regulation of cellular process	12	5	1.58	0.013
+GO:0031325	positive regulation of cellular metaboli...	10	4	1.31	0.032
+GO:0051248	negative regulation of protein metabolic...	10	4	1.31	0.032
+GO:0051173	positive regulation of nitrogen compound...	10	4	1.31	0.032
+GO:0032269	negative regulation of cellular protein ...	10	4	1.31	0.032
+GO:0051704	multi-organism process	25	7	3.29	0.036
+GO:0009073	aromatic amino acid family biosynthetic ...	25	7	3.29	0.036
+GO:0015980	energy derivation by oxidation of organi...	15	5	1.97	0.037
+GO:0009893	positive regulation of metabolic process	11	4	1.45	0.045
+GO:0048583	regulation of response to stimulus	11	4	1.45	0.045
+GO:0010628	positive regulation of gene expression	11	4	1.45	0.045
+GO:0010604	positive regulation of macromolecule met...	11	4	1.45	0.045
+GO:0044419	interspecies interaction between organis...	16	5	2.1	0.048
+GO:0006091	generation of precursor metabolites and ...	50	11	6.57	0.053
+GO:0009072	aromatic amino acid family metabolic pro...	27	7	3.55	0.053
+GO:0006508	proteolysis	69	14	9.07	0.057
+GO:0032268	regulation of cellular protein metabolic...	17	5	2.24	0.061
+GO:0051246	regulation of protein metabolic process	18	5	2.37	0.076
+GO:0048518	positive regulation of biological proces...	18	5	2.37	0.076
+GO:0000003	reproduction	13	4	1.71	0.079
+GO:0016311	dephosphorylation	14	4	1.84	0.100
+GO:0050790	regulation of catalytic activity	14	4	1.84	0.100
+GO:0010608	posttranscriptional regulation of gene e...	14	4	1.84	0.100
+GO:0006417	regulation of translation	14	4	1.84	0.100
+GO:0034248	regulation of cellular amide metabolic p...	14	4	1.84	0.100
+GO:0031326	regulation of cellular biosynthetic proc...	75	14	9.86	0.102
+GO:0010556	regulation of macromolecule biosynthetic...	75	14	9.86	0.102
+GO:0031327	negative regulation of cellular biosynth...	20	5	2.63	0.110
+GO:0009890	negative regulation of biosynthetic proc...	20	5	2.63	0.110
+GO:2000113	negative regulation of cellular macromol...	20	5	2.63	0.110
+GO:0010558	negative regulation of macromolecule bio...	20	5	2.63	0.110
+GO:0009889	regulation of biosynthetic process	76	14	9.99	0.111
+GO:0000910	cytokinesis	15	4	1.97	0.123
+GO:0065009	regulation of molecular function	15	4	1.97	0.123
+GO:0022900	electron transport chain	21	5	2.76	0.130
+GO:0031324	negative regulation of cellular metaboli...	27	6	3.55	0.132
+GO:0051172	negative regulation of nitrogen compound...	27	6	3.55	0.132
+GO:0046677	response to antibiotic	10	3	1.31	0.133
+GO:0019318	hexose metabolic process	10	3	1.31	0.133
+GO:0022414	reproductive process	10	3	1.31	0.133
+GO:0006413	translational initiation	10	3	1.31	0.133
+GO:0051171	regulation of nitrogen compound metaboli...	85	15	11.18	0.134
+GO:0031323	regulation of cellular metabolic process	86	15	11.31	0.145
+GO:0072527	pyrimidine-containing compound metabolic...	34	7	4.47	0.148
+GO:0006631	fatty acid metabolic process	16	4	2.1	0.148
+GO:2000112	regulation of cellular macromolecule bio...	73	13	9.6	0.149
+GO:0048523	negative regulation of cellular process	28	6	3.68	0.151
+GO:0035556	intracellular signal transduction	47	9	6.18	0.153
+GO:0006576	cellular biogenic amine metabolic proces...	11	3	1.45	0.166
+GO:0044106	cellular amine metabolic process	11	3	1.45	0.166
+GO:0009308	amine metabolic process	11	3	1.45	0.166
+GO:0080090	regulation of primary metabolic process	88	15	11.57	0.166
+GO:0009892	negative regulation of metabolic process	29	6	3.81	0.171
+GO:0010605	negative regulation of macromolecule met...	29	6	3.81	0.171
+GO:0006220	pyrimidine nucleotide metabolic process	23	5	3.02	0.174
+GO:0010629	negative regulation of gene expression	23	5	3.02	0.174
+GO:0022402	cell cycle process	17	4	2.24	0.175
+GO:0006629	lipid metabolic process	42	8	5.52	0.176
+GO:0060255	regulation of macromolecule metabolic pr...	90	15	11.83	0.190
+GO:0048519	negative regulation of biological proces...	30	6	3.94	0.191
+GO:0000160	phosphorelay signal transduction system	43	8	5.65	0.193
+GO:0042180	cellular ketone metabolic process	12	3	1.58	0.202
+GO:0017144	drug metabolic process	98	16	12.89	0.203
+GO:0044262	cellular carbohydrate metabolic process	31	6	4.08	0.213
+GO:0044272	sulfur compound biosynthetic process	31	6	4.08	0.213
+GO:0051301	cell division	38	7	5	0.223
+GO:0019222	regulation of metabolic process	93	15	12.23	0.228
+GO:0044781	bacterial-type flagellum organization	13	3	1.71	0.238
+GO:0051641	cellular localization	13	3	1.71	0.238
+GO:0010468	regulation of gene expression	80	13	10.52	0.242
+GO:0016053	organic acid biosynthetic process	116	18	15.25	0.252
+GO:0044255	cellular lipid metabolic process	40	7	5.26	0.265
+GO:0019538	protein metabolic process	249	36	32.74	0.274
+GO:0072528	pyrimidine-containing compound biosynthe...	27	5	3.55	0.276
+GO:0005996	monosaccharide metabolic process	14	3	1.84	0.276
+GO:0009273	peptidoglycan-based cell wall biogenesis	21	4	2.76	0.294
+GO:0016051	carbohydrate biosynthetic process	21	4	2.76	0.294
+GO:0008652	cellular amino acid biosynthetic process	84	13	11.04	0.303
+GO:0007049	cell cycle	35	6	4.6	0.308
+GO:2001141	regulation of RNA biosynthetic process	63	10	8.28	0.309
+GO:1903506	regulation of nucleic acid-templated tra...	63	10	8.28	0.309
+GO:0000097	sulfur amino acid biosynthetic process	15	3	1.97	0.314
+GO:0030030	cell projection organization	15	3	1.97	0.314
+GO:0044275	cellular carbohydrate catabolic process	15	3	1.97	0.314
+GO:0019219	regulation of nucleobase-containing comp...	71	11	9.34	0.325
+GO:0006400	tRNA modification	22	4	2.89	0.326
+GO:0042546	cell wall biogenesis	22	4	2.89	0.326
+GO:0006518	peptide metabolic process	122	18	16.04	0.331
+GO:0046394	carboxylic acid biosynthetic process	115	17	15.12	0.335
+GO:1901566	organonitrogen compound biosynthetic pro...	316	44	41.55	0.347
+GO:0000271	polysaccharide biosynthetic process	16	3	2.1	0.353
+GO:0046031	ADP metabolic process	16	3	2.1	0.353
+GO:0071555	cell wall organization	16	3	2.1	0.353
+GO:0045229	external encapsulating structure organiz...	16	3	2.1	0.353
+GO:0006790	sulfur compound metabolic process	44	7	5.79	0.355
+GO:0051252	regulation of RNA metabolic process	66	10	8.68	0.365
+GO:0006082	organic acid metabolic process	184	26	24.19	0.371
+GO:0009057	macromolecule catabolic process	52	8	6.84	0.374
+GO:0032787	monocarboxylic acid metabolic process	52	8	6.84	0.374
+GO:0009167	purine ribonucleoside monophosphate meta...	74	11	9.73	0.379

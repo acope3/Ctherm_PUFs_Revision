@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0009167	purine ribonucleoside monophosphate meta...	74	4	0.82	0.0066
+GO:1901135	carbohydrate derivative metabolic proces...	183	6	2.03	0.0082
+GO:1901136	carbohydrate derivative catabolic proces...	53	3	0.59	0.0179
+GO:0009150	purine ribonucleotide metabolic process	101	4	1.12	0.0198
+GO:0046034	ATP metabolic process	55	3	0.61	0.0198
+GO:0006163	purine nucleotide metabolic process	105	4	1.17	0.0226
+GO:0072521	purine-containing compound metabolic pro...	112	4	1.24	0.0281
+GO:0046434	organophosphate catabolic process	63	3	0.7	0.0285
+GO:0009259	ribonucleotide metabolic process	113	4	1.26	0.0290
+GO:0006090	pyruvate metabolic process	25	2	0.28	0.0295
+GO:0019693	ribose phosphate metabolic process	116	4	1.29	0.0316
+GO:0009169	purine ribonucleoside monophosphate cata...	29	2	0.32	0.0389
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	2	0.32	0.0389
+GO:0009125	nucleoside monophosphate catabolic proce...	29	2	0.32	0.0389
+GO:0009128	purine nucleoside monophosphate cataboli...	29	2	0.32	0.0389
+GO:0009205	purine ribonucleoside triphosphate metab...	72	3	0.8	0.0404
+GO:0009144	purine nucleoside triphosphate metabolic...	72	3	0.8	0.0404
+GO:0006812	cation transport	30	2	0.33	0.0414
+GO:0009199	ribonucleoside triphosphate metabolic pr...	73	3	0.81	0.0419
+GO:0009141	nucleoside triphosphate metabolic proces...	77	3	0.86	0.0480
+GO:0009117	nucleotide metabolic process	142	4	1.58	0.0608
+GO:0009168	purine ribonucleoside monophosphate bios...	39	2	0.43	0.0668
+GO:0009127	purine nucleoside monophosphate biosynth...	39	2	0.43	0.0668
+GO:0006811	ion transport	40	2	0.44	0.0698
+GO:0009154	purine ribonucleotide catabolic process	42	2	0.47	0.0761
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	2	0.47	0.0761
+GO:0009207	purine ribonucleoside triphosphate catab...	42	2	0.47	0.0761
+GO:0009261	ribonucleotide catabolic process	42	2	0.47	0.0761
+GO:0009146	purine nucleoside triphosphate catabolic...	42	2	0.47	0.0761
+GO:0006195	purine nucleotide catabolic process	43	2	0.48	0.0794
+GO:0009143	nucleoside triphosphate catabolic proces...	43	2	0.48	0.0794
+GO:0046130	purine ribonucleoside catabolic process	43	2	0.48	0.0794
+GO:0042454	ribonucleoside catabolic process	44	2	0.49	0.0826
+GO:0006152	purine nucleoside catabolic process	44	2	0.49	0.0826
+GO:0009164	nucleoside catabolic process	45	2	0.5	0.0859
+GO:0072523	purine-containing compound catabolic pro...	45	2	0.5	0.0859
+GO:0034656	nucleobase-containing small molecule cat...	45	2	0.5	0.0859
+GO:1901658	glycosyl compound catabolic process	45	2	0.5	0.0859
+GO:0017144	drug metabolic process	98	3	1.09	0.0872
+GO:0006974	cellular response to DNA damage stimulus	49	2	0.54	0.0996
+GO:0009156	ribonucleoside monophosphate biosyntheti...	50	2	0.56	0.1031
+GO:0090407	organophosphate biosynthetic process	106	3	1.18	0.1051
+GO:0008299	isoprenoid biosynthetic process	10	1	0.11	0.1061
+GO:0006188	IMP biosynthetic process	10	1	0.11	0.1061
+GO:0006720	isoprenoid metabolic process	10	1	0.11	0.1061
+GO:0009152	purine ribonucleotide biosynthetic proce...	51	2	0.57	0.1067
+GO:0032787	monocarboxylic acid metabolic process	52	2	0.58	0.1103
+GO:0046040	IMP metabolic process	11	1	0.12	0.1162
+GO:0031167	rRNA methylation	11	1	0.12	0.1162
+GO:0006164	purine nucleotide biosynthetic process	54	2	0.6	0.1175
+GO:1901565	organonitrogen compound catabolic proces...	54	2	0.6	0.1175
+GO:0009124	nucleoside monophosphate biosynthetic pr...	55	2	0.61	0.1212
+GO:0072522	purine-containing compound biosynthetic ...	56	2	0.62	0.1249
+GO:0015672	monovalent inorganic cation transport	12	1	0.13	0.1261
+GO:0044282	small molecule catabolic process	57	2	0.63	0.1287
+GO:0046128	purine ribonucleoside metabolic process	58	2	0.64	0.1325
+GO:0009166	nucleotide catabolic process	59	2	0.66	0.1363
+GO:1901292	nucleoside phosphate catabolic process	59	2	0.66	0.1363
+GO:0042278	purine nucleoside metabolic process	59	2	0.66	0.1363
+GO:0033554	cellular response to stress	61	2	0.68	0.1440
+GO:0000154	rRNA modification	14	1	0.16	0.1456
+GO:0008654	phospholipid biosynthetic process	14	1	0.16	0.1456
+GO:0030001	metal ion transport	15	1	0.17	0.1552
+GO:0006644	phospholipid metabolic process	15	1	0.17	0.1552
+GO:0009260	ribonucleotide biosynthetic process	64	2	0.71	0.1557
+GO:1901575	organic substance catabolic process	126	3	1.4	0.1558
+GO:0019637	organophosphate metabolic process	166	6	1.84	0.1613
+GO:0046390	ribose phosphate biosynthetic process	66	2	0.73	0.1636
+GO:0009056	catabolic process	129	3	1.43	0.1641
+GO:0045934	negative regulation of nucleobase-contai...	16	1	0.18	0.1648
+GO:0044270	cellular nitrogen compound catabolic pro...	72	2	0.8	0.1880
+GO:0046700	heterocycle catabolic process	72	2	0.8	0.1880
+GO:0034655	nucleobase-containing compound catabolic...	72	2	0.8	0.1880
+GO:1901361	organic cyclic compound catabolic proces...	73	2	0.81	0.1921
+GO:0019439	aromatic compound catabolic process	73	2	0.81	0.1921
+GO:0001510	RNA methylation	19	1	0.21	0.1927
+GO:0009119	ribonucleoside metabolic process	74	2	0.82	0.1962
+GO:0034654	nucleobase-containing compound biosynthe...	218	4	2.42	0.2094
+GO:0051716	cellular response to stimulus	150	3	1.67	0.2259
+GO:0006364	rRNA processing	23	1	0.26	0.2287
+GO:0006754	ATP biosynthetic process	23	1	0.26	0.2287
+GO:0009206	purine ribonucleoside triphosphate biosy...	24	1	0.27	0.2374
+GO:0009145	purine nucleoside triphosphate biosynthe...	24	1	0.27	0.2374
+GO:0006310	DNA recombination	24	1	0.27	0.2374
+GO:1901657	glycosyl compound metabolic process	84	2	0.93	0.2382
+GO:0009116	nucleoside metabolic process	84	2	0.93	0.2382
+GO:0009165	nucleotide biosynthetic process	85	2	0.94	0.2425
+GO:0034404	nucleobase-containing small molecule bio...	85	2	0.94	0.2425
+GO:0034220	ion transmembrane transport	25	1	0.28	0.2461
+GO:0016072	rRNA metabolic process	25	1	0.28	0.2461
+GO:0006935	chemotaxis	25	1	0.28	0.2461
+GO:0043414	macromolecule methylation	25	1	0.28	0.2461
+GO:1901293	nucleoside phosphate biosynthetic proces...	86	2	0.96	0.2467
+GO:0042330	taxis	26	1	0.29	0.2547
+GO:0009201	ribonucleoside triphosphate biosynthetic...	26	1	0.29	0.2547
+GO:0051172	negative regulation of nitrogen compound...	27	1	0.3	0.2632
+GO:0031324	negative regulation of cellular metaboli...	27	1	0.3	0.2632
+GO:0006950	response to stress	91	2	1.01	0.2681
+GO:0048523	negative regulation of cellular process	28	1	0.31	0.2716
+GO:0010605	negative regulation of macromolecule met...	29	1	0.32	0.2799

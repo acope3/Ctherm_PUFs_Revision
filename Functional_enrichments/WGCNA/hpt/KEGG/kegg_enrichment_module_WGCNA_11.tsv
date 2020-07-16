@@ -1,0 +1,5 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00009	Citrate cycle (TCA cycle, Krebs cycle)	1/6	10/317	0.176246414163011	0.311956473796996	0.311956473796996	Clo1313_0641	1
+M00374	Dicarboxylate-hydroxybutyrate cycle	1/6	11/317	0.192345832778717	0.311956473796996	0.311956473796996	Clo1313_0641	1
+M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	1/6	14/317	0.239079480200237	0.311956473796996	0.311956473796996	Clo1313_0641	1
+M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	1/6	19/317	0.311956473796996	0.311956473796996	0.311956473796996	Clo1313_0641	1

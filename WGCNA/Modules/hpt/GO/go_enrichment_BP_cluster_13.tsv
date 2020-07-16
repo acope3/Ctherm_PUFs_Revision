@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0032268	regulation of cellular protein metabolic...	17	3	0.41	0.0067
+GO:0009116	nucleoside metabolic process	84	6	2.02	0.0120
+GO:1901657	glycosyl compound metabolic process	84	6	2.02	0.0120
+GO:0034404	nucleobase-containing small molecule bio...	85	6	2.05	0.0127
+GO:0006400	tRNA modification	22	3	0.53	0.0141
+GO:0009261	ribonucleotide catabolic process	42	4	1.01	0.0159
+GO:0009154	purine ribonucleotide catabolic process	42	4	1.01	0.0159
+GO:0009146	purine nucleoside triphosphate catabolic...	42	4	1.01	0.0159
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	4	1.01	0.0159
+GO:0009207	purine ribonucleoside triphosphate catab...	42	4	1.01	0.0159
+GO:0046130	purine ribonucleoside catabolic process	43	4	1.04	0.0172
+GO:0009143	nucleoside triphosphate catabolic proces...	43	4	1.04	0.0172
+GO:0006195	purine nucleotide catabolic process	43	4	1.04	0.0172
+GO:0006152	purine nucleoside catabolic process	44	4	1.06	0.0186
+GO:0042454	ribonucleoside catabolic process	44	4	1.06	0.0186
+GO:0034656	nucleobase-containing small molecule cat...	45	4	1.08	0.0201
+GO:0072523	purine-containing compound catabolic pro...	45	4	1.08	0.0201
+GO:0009164	nucleoside catabolic process	45	4	1.08	0.0201
+GO:1901658	glycosyl compound catabolic process	45	4	1.08	0.0201
+GO:0034470	ncRNA processing	47	4	1.13	0.0233
+GO:0008033	tRNA processing	28	3	0.67	0.0272
+GO:0009119	ribonucleoside metabolic process	74	5	1.78	0.0279
+GO:1901136	carbohydrate derivative catabolic proces...	53	4	1.28	0.0346
+GO:1901565	organonitrogen compound catabolic proces...	54	4	1.3	0.0368
+GO:0034248	regulation of cellular amide metabolic p...	14	2	0.34	0.0425
+GO:0006417	regulation of translation	14	2	0.34	0.0425
+GO:0010608	posttranscriptional regulation of gene e...	14	2	0.34	0.0425
+GO:1901069	guanosine-containing compound catabolic ...	14	2	0.34	0.0425
+GO:0044282	small molecule catabolic process	57	4	1.37	0.0437
+GO:0046128	purine ribonucleoside metabolic process	58	4	1.4	0.0462
+GO:0006396	RNA processing	58	4	1.4	0.0462
+GO:0046039	GTP metabolic process	15	2	0.36	0.0483
+GO:0009166	nucleotide catabolic process	59	4	1.42	0.0487
+GO:1901292	nucleoside phosphate catabolic process	59	4	1.42	0.0487
+GO:0042278	purine nucleoside metabolic process	59	4	1.42	0.0487
+GO:0046434	organophosphate catabolic process	63	4	1.52	0.0597
+GO:0009451	RNA modification	40	3	0.96	0.0678
+GO:1901068	guanosine-containing compound metabolic ...	20	2	0.48	0.0812
+GO:0055085	transmembrane transport	71	4	1.71	0.0854
+GO:0034655	nucleobase-containing compound catabolic...	72	4	1.73	0.0890
+GO:0044270	cellular nitrogen compound catabolic pro...	72	4	1.73	0.0890
+GO:0009144	purine nucleoside triphosphate metabolic...	72	4	1.73	0.0890
+GO:0046700	heterocycle catabolic process	72	4	1.73	0.0890
+GO:0009205	purine ribonucleoside triphosphate metab...	72	4	1.73	0.0890
+GO:0055086	nucleobase-containing small molecule met...	166	7	4	0.0899
+GO:0019439	aromatic compound catabolic process	73	4	1.76	0.0926
+GO:1901361	organic cyclic compound catabolic proces...	73	4	1.76	0.0926
+GO:0009199	ribonucleoside triphosphate metabolic pr...	73	4	1.76	0.0926
+GO:0034660	ncRNA metabolic process	76	4	1.83	0.1039
+GO:0009141	nucleoside triphosphate metabolic proces...	77	4	1.85	0.1078
+GO:0015833	peptide transport	24	2	0.58	0.1113
+GO:0042886	amide transport	24	2	0.58	0.1113
+GO:0006810	transport	109	5	2.62	0.1127
+GO:0051234	establishment of localization	111	5	2.67	0.1195
+GO:0034654	nucleobase-containing compound biosynthe...	218	8	5.25	0.1340
+GO:1901135	carbohydrate derivative metabolic proces...	183	7	4.41	0.1351
+GO:0031324	negative regulation of cellular metaboli...	27	2	0.65	0.1355
+GO:0051172	negative regulation of nitrogen compound...	27	2	0.65	0.1355
+GO:0018193	peptidyl-amino acid modification	27	2	0.65	0.1355
+GO:0019438	aromatic compound biosynthetic process	256	9	6.16	0.1385
+GO:0048523	negative regulation of cellular process	28	2	0.67	0.1438
+GO:0006399	tRNA metabolic process	56	3	1.35	0.1478
+GO:0009892	negative regulation of metabolic process	29	2	0.7	0.1523
+GO:0009169	purine ribonucleoside monophosphate cata...	29	2	0.7	0.1523
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	2	0.7	0.1523
+GO:0009125	nucleoside monophosphate catabolic proce...	29	2	0.7	0.1523
+GO:0009128	purine nucleoside monophosphate cataboli...	29	2	0.7	0.1523
+GO:0010605	negative regulation of macromolecule met...	29	2	0.7	0.1523
+GO:1901362	organic cyclic compound biosynthetic pro...	264	9	6.36	0.1603
+GO:0009163	nucleoside biosynthetic process	30	2	0.72	0.1608
+GO:1901659	glycosyl compound biosynthetic process	30	2	0.72	0.1608
+GO:0048519	negative regulation of biological proces...	30	2	0.72	0.1608
+GO:0032259	methylation	60	3	1.44	0.1714
+GO:1901575	organic substance catabolic process	126	5	3.03	0.1773
+GO:0071705	nitrogen compound transport	33	2	0.79	0.1870
+GO:0044248	cellular catabolic process	95	4	2.29	0.1890
+GO:0009056	catabolic process	129	5	3.11	0.1901
+GO:0044283	small molecule biosynthetic process	200	7	4.81	0.1905
+GO:0051179	localization	132	5	3.18	0.2032
+GO:0022411	cellular component disassembly	10	1	0.24	0.2171
+GO:0051248	negative regulation of protein metabolic...	10	1	0.24	0.2171
+GO:0022414	reproductive process	10	1	0.24	0.2171
+GO:0032269	negative regulation of cellular protein ...	10	1	0.24	0.2171
+GO:0032984	protein-containing complex disassembly	10	1	0.24	0.2171
+GO:0009150	purine ribonucleotide metabolic process	101	4	2.43	0.2199
+GO:0043412	macromolecule modification	102	4	2.46	0.2252
+GO:0051301	cell division	38	2	0.91	0.2318
+GO:0071702	organic substance transport	38	2	0.91	0.2318
+GO:0030031	cell projection assembly	11	1	0.26	0.2361
+GO:0006163	purine nucleotide metabolic process	105	4	2.53	0.2413
+GO:0009117	nucleotide metabolic process	142	5	3.42	0.2493
+GO:0006753	nucleoside phosphate metabolic process	143	5	3.44	0.2541
+GO:0071897	DNA biosynthetic process	12	1	0.29	0.2547
+GO:0018130	heterocycle biosynthetic process	255	8	6.14	0.2549
+GO:0006139	nucleobase-containing compound metabolic...	377	11	9.08	0.2726
+GO:0044781	bacterial-type flagellum organization	13	1	0.31	0.2728
+GO:0000003	reproduction	13	1	0.31	0.2728
+GO:0006541	glutamine metabolic process	13	1	0.31	0.2728
+GO:0000160	phosphorelay signal transduction system	43	2	1.04	0.2774
+GO:0072521	purine-containing compound metabolic pro...	112	4	2.7	0.2799

@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0046914	transition metal ion binding	71	5	1.97	0.042
+GO:0010181	FMN binding	14	2	0.39	0.055
+GO:0004175	endopeptidase activity	17	2	0.47	0.078
+GO:0016407	acetyltransferase activity	18	2	0.5	0.086
+GO:0016301	kinase activity	67	4	1.86	0.109
+GO:0016810	hydrolase activity, acting on carbon-nit...	26	2	0.72	0.160
+GO:0016747	transferase activity, transferring acyl ...	27	2	0.75	0.170
+GO:0016772	transferase activity, transferring phosp...	109	5	3.02	0.177
+GO:0140110	transcription regulator activity	28	2	0.78	0.180
+GO:0001882	nucleoside binding	55	3	1.52	0.192
+GO:0032549	ribonucleoside binding	55	3	1.52	0.192
+GO:0070011	peptidase activity, acting on L-amino ac...	31	2	0.86	0.211
+GO:0016746	transferase activity, transferring acyl ...	32	2	0.89	0.221
+GO:0016655	oxidoreductase activity, acting on NAD(P...	10	1	0.28	0.246
+GO:0030145	manganese ion binding	10	1	0.28	0.246
+GO:0050136	NADH dehydrogenase (quinone) activity	10	1	0.28	0.246
+GO:0008137	NADH dehydrogenase (ubiquinone) activity	10	1	0.28	0.246
+GO:0008649	rRNA methyltransferase activity	10	1	0.28	0.246
+GO:0034062	5'-3' RNA polymerase activity	11	1	0.3	0.267
+GO:0097747	RNA polymerase activity	11	1	0.3	0.267
+GO:0003954	NADH dehydrogenase activity	11	1	0.3	0.267
+GO:0003899	DNA-directed 5'-3' RNA polymerase activi...	11	1	0.3	0.267
+GO:0097367	carbohydrate derivative binding	293	10	8.12	0.277
+GO:0030246	carbohydrate binding	38	2	1.05	0.284
+GO:0043565	sequence-specific DNA binding	13	1	0.36	0.307
+GO:0140102	catalytic activity, acting on a rRNA	13	1	0.36	0.307
+GO:0016831	carboxy-lyase activity	13	1	0.36	0.307
+GO:0015078	proton transmembrane transporter activit...	13	1	0.36	0.307
+GO:0016740	transferase activity	303	10	8.39	0.317
+GO:0140098	catalytic activity, acting on RNA	72	3	1.99	0.321
+GO:0008270	zinc ion binding	42	2	1.16	0.326
+GO:0008173	RNA methyltransferase activity	14	1	0.39	0.327
+GO:0005506	iron ion binding	14	1	0.39	0.327
+GO:0008080	N-acetyltransferase activity	15	1	0.42	0.346
+GO:0015077	monovalent inorganic cation transmembran...	15	1	0.42	0.346
+GO:0016410	N-acyltransferase activity	15	1	0.42	0.346
+GO:0008233	peptidase activity	44	2	1.22	0.347
+GO:0016798	hydrolase activity, acting on glycosyl b...	45	2	1.25	0.357
+GO:0016866	intramolecular transferase activity	16	1	0.44	0.364
+GO:0016836	hydro-lyase activity	16	1	0.44	0.364
+GO:0016853	isomerase activity	46	2	1.27	0.367
+GO:0016769	transferase activity, transferring nitro...	17	1	0.47	0.382
+GO:0016651	oxidoreductase activity, acting on NAD(P...	17	1	0.47	0.382
+GO:0008483	transaminase activity	17	1	0.47	0.382
+GO:0060089	molecular transducer activity	17	1	0.47	0.382
+GO:0032553	ribonucleotide binding	284	9	7.87	0.384
+GO:0050662	coenzyme binding	81	3	2.24	0.392
+GO:0008757	S-adenosylmethionine-dependent methyltra...	18	1	0.5	0.399
+GO:0000049	tRNA binding	18	1	0.5	0.399
+GO:0008168	methyltransferase activity	52	2	1.44	0.428
+GO:0003700	DNA-binding transcription factor activit...	20	1	0.55	0.433
+GO:0001883	purine nucleoside binding	53	2	1.47	0.437
+GO:0032550	purine ribonucleoside binding	53	2	1.47	0.437
+GO:0043168	anion binding	333	10	9.23	0.446
+GO:0030248	cellulose binding	21	1	0.58	0.449
+GO:0036094	small molecule binding	371	11	10.28	0.458
+GO:0046872	metal ion binding	230	7	6.37	0.460
+GO:0016830	carbon-carbon lyase activity	22	1	0.61	0.464
+GO:0030247	polysaccharide binding	23	1	0.64	0.479
+GO:0001871	pattern binding	23	1	0.64	0.479
+GO:0004386	helicase activity	23	1	0.64	0.479
+GO:0022890	inorganic cation transmembrane transport...	23	1	0.64	0.479
+GO:0016835	carbon-oxygen lyase activity	23	1	0.64	0.479
+GO:0043169	cation binding	235	7	6.51	0.485
+GO:0008324	cation transmembrane transporter activit...	24	1	0.66	0.494
+GO:0016875	ligase activity, forming carbon-oxygen b...	24	1	0.66	0.494
+GO:0004812	aminoacyl-tRNA ligase activity	24	1	0.66	0.494
+GO:0016741	transferase activity, transferring one-c...	59	2	1.63	0.494
+GO:0043167	ion binding	487	14	13.49	0.496
+GO:0016829	lyase activity	60	2	1.66	0.503
+GO:0070279	vitamin B6 binding	26	1	0.72	0.522
+GO:0030170	pyridoxal phosphate binding	26	1	0.72	0.522
+GO:0003677	DNA binding	140	4	3.88	0.557
+GO:1901363	heterocyclic compound binding	539	15	14.93	0.562
+GO:0097159	organic cyclic compound binding	539	15	14.93	0.562
+GO:0015318	inorganic molecular entity transmembrane...	29	1	0.8	0.562
+GO:0016614	oxidoreductase activity, acting on CH-OH...	29	1	0.8	0.562
+GO:0016616	oxidoreductase activity, acting on the C...	29	1	0.8	0.562
+GO:0015075	ion transmembrane transporter activity	30	1	0.83	0.574
+GO:0003824	catalytic activity	861	24	23.85	0.575
+GO:1901265	nucleoside phosphate binding	327	9	9.06	0.578
+GO:0000166	nucleotide binding	327	9	9.06	0.578
+GO:0016787	hydrolase activity	332	9	9.2	0.600
+GO:0005525	GTP binding	33	1	0.91	0.610
+GO:0019842	vitamin binding	33	1	0.91	0.610
+GO:0035639	purine ribonucleoside triphosphate bindi...	262	7	7.26	0.615
+GO:0016879	ligase activity, forming carbon-nitrogen...	35	1	0.97	0.632
+GO:0032555	purine ribonucleotide binding	268	7	7.42	0.642
+GO:0016874	ligase activity	77	2	2.13	0.643
+GO:0005515	protein binding	78	2	2.16	0.650
+GO:0017076	purine nucleotide binding	270	7	7.48	0.650
+GO:0016779	nucleotidyltransferase activity	37	1	1.03	0.652
+GO:0005524	ATP binding	234	6	6.48	0.657
+GO:0032559	adenyl ribonucleotide binding	235	6	6.51	0.662
+GO:0030554	adenyl nucleotide binding	237	6	6.57	0.670
+GO:0019843	rRNA binding	39	1	1.08	0.672
+GO:0004553	hydrolase activity, hydrolyzing O-glycos...	40	1	1.11	0.681
+GO:0016773	phosphotransferase activity, alcohol gro...	41	1	1.14	0.691
+GO:0140101	catalytic activity, acting on a tRNA	41	1	1.14	0.691
+GO:0008144	drug binding	280	7	7.76	0.692

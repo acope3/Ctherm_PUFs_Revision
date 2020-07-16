@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0090305	nucleic acid phosphodiester bond hydroly...	42	2	0.37	0.050
+GO:0042255	ribosome assembly	10	1	0.09	0.085
+GO:0006081	cellular aldehyde metabolic process	10	1	0.09	0.085
+GO:0008299	isoprenoid biosynthetic process	10	1	0.09	0.085
+GO:0006720	isoprenoid metabolic process	10	1	0.09	0.085
+GO:0044265	cellular macromolecule catabolic process	11	1	0.1	0.094
+GO:0042180	cellular ketone metabolic process	12	1	0.11	0.102
+GO:0022618	ribonucleoprotein complex assembly	12	1	0.11	0.102
+GO:0008654	phospholipid biosynthetic process	12	1	0.11	0.102
+GO:0070925	organelle assembly	13	1	0.11	0.110
+GO:0071826	ribonucleoprotein complex subunit organi...	13	1	0.11	0.110
+GO:0006644	phospholipid metabolic process	13	1	0.11	0.110
+GO:0034622	cellular protein-containing complex asse...	15	1	0.13	0.126
+GO:0051704	multi-organism process	22	1	0.19	0.179
+GO:0006090	pyruvate metabolic process	23	1	0.2	0.187
+GO:0016072	rRNA metabolic process	23	1	0.2	0.187
+GO:0006733	oxidoreduction coenzyme metabolic proces...	26	1	0.23	0.208
+GO:0008610	lipid biosynthetic process	30	1	0.27	0.237
+GO:0006412	translation	108	2	0.95	0.246
+GO:0043043	peptide biosynthetic process	108	2	0.95	0.246
+GO:0006518	peptide metabolic process	111	2	0.98	0.256
+GO:0042254	ribosome biogenesis	34	1	0.3	0.264
+GO:0022613	ribonucleoprotein complex biogenesis	36	1	0.32	0.278
+GO:0006996	organelle organization	37	1	0.33	0.284
+GO:0040007	growth	120	2	1.06	0.288
+GO:0044255	cellular lipid metabolic process	38	1	0.34	0.291
+GO:0006629	lipid metabolic process	40	1	0.35	0.304
+GO:0043604	amide biosynthetic process	125	2	1.11	0.305
+GO:0051301	cell division	41	1	0.36	0.310
+GO:0019538	protein metabolic process	228	3	2.02	0.326
+GO:0009605	response to external stimulus	44	1	0.39	0.329
+GO:0065003	protein-containing complex assembly	45	1	0.4	0.335
+GO:0009108	coenzyme biosynthetic process	46	1	0.41	0.342
+GO:0043603	cellular amide metabolic process	137	2	1.21	0.347
+GO:0009057	macromolecule catabolic process	51	1	0.45	0.372
+GO:0032787	monocarboxylic acid metabolic process	51	1	0.45	0.372
+GO:0051188	cofactor biosynthetic process	52	1	0.46	0.377
+GO:0043933	protein-containing complex subunit organ...	55	1	0.49	0.395
+GO:0055114	oxidation-reduction process	152	2	1.34	0.398
+GO:0006732	coenzyme metabolic process	58	1	0.51	0.411
+GO:0022607	cellular component assembly	62	1	0.55	0.433
+GO:0006508	proteolysis	63	1	0.56	0.439
+GO:0044267	cellular protein metabolic process	173	2	1.53	0.469
+GO:0044270	cellular nitrogen compound catabolic pro...	70	1	0.62	0.475
+GO:0046700	heterocycle catabolic process	70	1	0.62	0.475
+GO:0034655	nucleobase-containing compound catabolic...	70	1	0.62	0.475
+GO:0019439	aromatic compound catabolic process	71	1	0.63	0.480
+GO:1901361	organic cyclic compound catabolic proces...	71	1	0.63	0.480
+GO:0051186	cofactor metabolic process	72	1	0.64	0.485
+GO:0034660	ncRNA metabolic process	73	1	0.65	0.490
+GO:0006950	response to stress	82	1	0.72	0.532
+GO:0016310	phosphorylation	91	1	0.8	0.571
+GO:0044248	cellular catabolic process	92	1	0.81	0.575
+GO:0090407	organophosphate biosynthetic process	97	1	0.86	0.595
+GO:0006796	phosphate-containing compound metabolic ...	219	2	1.94	0.609
+GO:0006793	phosphorus metabolic process	222	2	1.96	0.617
+GO:0044085	cellular component biogenesis	105	1	0.93	0.626
+GO:0034645	cellular macromolecule biosynthetic proc...	227	2	2.01	0.631
+GO:0090304	nucleic acid metabolic process	230	2	2.03	0.639
+GO:0009059	macromolecule biosynthetic process	232	2	2.05	0.645
+GO:0010467	gene expression	232	2	2.05	0.645
+GO:0043170	macromolecule metabolic process	465	4	4.11	0.655
+GO:0016043	cellular component organization	115	1	1.02	0.662
+GO:1901575	organic substance catabolic process	122	1	1.08	0.685
+GO:0044260	cellular macromolecule metabolic process	369	3	3.26	0.692
+GO:0009056	catabolic process	125	1	1.11	0.694
+GO:0071840	cellular component organization or bioge...	145	1	1.28	0.751
+GO:1901566	organonitrogen compound biosynthetic pro...	292	2	2.58	0.781
+GO:0019637	organophosphate metabolic process	158	1	1.4	0.782
+GO:0016070	RNA metabolic process	159	1	1.41	0.785
+GO:1901135	carbohydrate derivative metabolic proces...	172	1	1.52	0.812
+GO:0050896	response to stimulus	172	1	1.52	0.812
+GO:0019752	carboxylic acid metabolic process	178	1	1.57	0.824
+GO:0043436	oxoacid metabolic process	179	1	1.58	0.826
+GO:0006082	organic acid metabolic process	180	1	1.59	0.828
+GO:0044249	cellular biosynthetic process	445	3	3.93	0.833
+GO:1901576	organic substance biosynthetic process	453	3	4	0.844
+GO:0044271	cellular nitrogen compound biosynthetic ...	332	2	2.94	0.848
+GO:0044283	small molecule biosynthetic process	195	1	1.72	0.854
+GO:0008152	metabolic process	863	7	7.63	0.855
+GO:0009987	cellular process	775	6	6.85	0.856
+GO:0009058	biosynthetic process	462	3	4.08	0.857
+GO:1901564	organonitrogen compound metabolic proces...	465	3	4.11	0.861
+GO:0044238	primary metabolic process	682	5	6.03	0.861
+GO:0044237	cellular metabolic process	684	5	6.05	0.864
+GO:0034641	cellular nitrogen compound metabolic pro...	471	3	4.16	0.869
+GO:0006139	nucleobase-containing compound metabolic...	364	2	3.22	0.889
+GO:0071704	organic substance metabolic process	719	5	6.36	0.910
+GO:0006807	nitrogen compound metabolic process	626	4	5.53	0.917
+GO:0046483	heterocycle metabolic process	405	2	3.58	0.929
+GO:0006725	cellular aromatic compound metabolic pro...	407	2	3.6	0.930
+GO:1901360	organic cyclic compound metabolic proces...	415	2	3.67	0.936
+GO:0044281	small molecule metabolic process	314	1	2.78	0.964
+GO:0008150	biological_process	1018	9	9	1.000
+GO:0000003	reproduction	13	0	0.11	1.000
+GO:0000096	sulfur amino acid metabolic process	17	0	0.15	1.000
+GO:0000097	sulfur amino acid biosynthetic process	14	0	0.12	1.000
+GO:0000105	histidine biosynthetic process	10	0	0.09	1.000
+GO:0000154	rRNA modification	13	0	0.11	1.000
+GO:0000160	phosphorelay signal transduction system	38	0	0.34	1.000

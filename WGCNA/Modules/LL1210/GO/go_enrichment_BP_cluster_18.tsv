@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0055114	oxidation-reduction process	152	8	2.99	0.0053
+GO:0043414	macromolecule methylation	23	3	0.45	0.0089
+GO:0097237	cellular response to toxic substance	10	2	0.2	0.0150
+GO:0009636	response to toxic substance	17	2	0.33	0.0418
+GO:0070887	cellular response to chemical stimulus	19	2	0.37	0.0514
+GO:0009628	response to abiotic stimulus	19	2	0.37	0.0514
+GO:0006950	response to stress	82	4	1.61	0.0701
+GO:0006260	DNA replication	26	2	0.51	0.0899
+GO:0008033	tRNA processing	28	2	0.55	0.1022
+GO:0010467	gene expression	232	7	4.56	0.1480
+GO:0031167	rRNA methylation	10	1	0.2	0.1807
+GO:0022411	cellular component disassembly	10	1	0.2	0.1807
+GO:0031325	positive regulation of cellular metaboli...	10	1	0.2	0.1807
+GO:0009266	response to temperature stimulus	10	1	0.2	0.1807
+GO:0046677	response to antibiotic	10	1	0.2	0.1807
+GO:0008299	isoprenoid biosynthetic process	10	1	0.2	0.1807
+GO:0006720	isoprenoid metabolic process	10	1	0.2	0.1807
+GO:0052803	imidazole-containing compound metabolic ...	10	1	0.2	0.1807
+GO:0051173	positive regulation of nitrogen compound...	10	1	0.2	0.1807
+GO:0006547	histidine metabolic process	10	1	0.2	0.1807
+GO:0032984	protein-containing complex disassembly	10	1	0.2	0.1807
+GO:0000105	histidine biosynthetic process	10	1	0.2	0.1807
+GO:0009893	positive regulation of metabolic process	11	1	0.22	0.1970
+GO:0071897	DNA biosynthetic process	11	1	0.22	0.1970
+GO:0010628	positive regulation of gene expression	11	1	0.22	0.1970
+GO:0042592	homeostatic process	11	1	0.22	0.1970
+GO:2000142	regulation of DNA-templated transcriptio...	11	1	0.22	0.1970
+GO:0010604	positive regulation of macromolecule met...	11	1	0.22	0.1970
+GO:0009082	branched-chain amino acid biosynthetic p...	11	1	0.22	0.1970
+GO:0009086	methionine biosynthetic process	11	1	0.22	0.1970
+GO:0043254	regulation of protein complex assembly	11	1	0.22	0.1970
+GO:0010468	regulation of gene expression	81	3	1.59	0.2085
+GO:0006979	response to oxidative stress	12	1	0.24	0.2129
+GO:0008654	phospholipid biosynthetic process	12	1	0.24	0.2129
+GO:0006352	DNA-templated transcription, initiation	12	1	0.24	0.2129
+GO:0044403	symbiont process	12	1	0.24	0.2129
+GO:0048522	positive regulation of cellular process	12	1	0.24	0.2129
+GO:0009081	branched-chain amino acid metabolic proc...	12	1	0.24	0.2129
+GO:0034470	ncRNA processing	45	2	0.88	0.2201
+GO:0050790	regulation of catalytic activity	13	1	0.26	0.2286
+GO:0006760	folic acid-containing compound metabolic...	13	1	0.26	0.2286
+GO:0000154	rRNA modification	13	1	0.26	0.2286
+GO:0006555	methionine metabolic process	13	1	0.26	0.2286
+GO:0000003	reproduction	13	1	0.26	0.2286
+GO:0006644	phospholipid metabolic process	13	1	0.26	0.2286
+GO:0050896	response to stimulus	172	5	3.38	0.2387
+GO:0065009	regulation of molecular function	14	1	0.28	0.2439
+GO:0000097	sulfur amino acid biosynthetic process	14	1	0.28	0.2439
+GO:0060255	regulation of macromolecule metabolic pr...	90	3	1.77	0.2568
+GO:0071496	cellular response to external stimulus	15	1	0.29	0.2590
+GO:0000910	cytokinesis	15	1	0.29	0.2590
+GO:0031668	cellular response to extracellular stimu...	15	1	0.29	0.2590
+GO:0009991	response to extracellular stimulus	15	1	0.29	0.2590
+GO:0044087	regulation of cellular component biogene...	15	1	0.29	0.2590
+GO:0051716	cellular response to stimulus	135	4	2.65	0.2683
+GO:0019222	regulation of metabolic process	93	3	1.83	0.2734
+GO:0044419	interspecies interaction between organis...	16	1	0.31	0.2737
+GO:0022402	cell cycle process	16	1	0.31	0.2737
+GO:0042558	pteridine-containing compound metabolic ...	16	1	0.31	0.2737
+GO:0034645	cellular macromolecule biosynthetic proc...	227	6	4.46	0.2754
+GO:0090304	nucleic acid metabolic process	230	6	4.52	0.2866
+GO:0050789	regulation of biological process	184	5	3.61	0.2868
+GO:0033554	cellular response to stress	54	2	1.06	0.2872
+GO:0001510	RNA methylation	17	1	0.33	0.2882
+GO:0000096	sulfur amino acid metabolic process	17	1	0.33	0.2882
+GO:0030001	metal ion transport	17	1	0.33	0.2882
+GO:0048518	positive regulation of biological proces...	17	1	0.33	0.2882
+GO:0009059	macromolecule biosynthetic process	232	6	4.56	0.2942
+GO:0006464	cellular protein modification process	55	2	1.08	0.2947
+GO:0036211	protein modification process	55	2	1.08	0.2947
+GO:0006399	tRNA metabolic process	55	2	1.08	0.2947
+GO:0043933	protein-containing complex subunit organ...	55	2	1.08	0.2947
+GO:0006396	RNA processing	57	2	1.12	0.3096
+GO:0042221	response to chemical	57	2	1.12	0.3096
+GO:0071840	cellular component organization or bioge...	145	4	2.85	0.3151
+GO:0044085	cellular component biogenesis	105	3	2.06	0.3409
+GO:0065007	biological regulation	197	5	3.87	0.3415
+GO:0006364	rRNA processing	21	1	0.41	0.3435
+GO:0009067	aspartate family amino acid biosynthetic...	21	1	0.41	0.3435
+GO:0022607	cellular component assembly	62	2	1.22	0.3469
+GO:0006355	regulation of transcription, DNA-templat...	63	2	1.24	0.3543
+GO:0051704	multi-organism process	22	1	0.43	0.3567
+GO:0006575	cellular modified amino acid metabolic p...	22	1	0.43	0.3567
+GO:0006400	tRNA modification	22	1	0.43	0.3567
+GO:2001141	regulation of RNA biosynthetic process	64	2	1.26	0.3616
+GO:1903506	regulation of nucleic acid-templated tra...	64	2	1.26	0.3616
+GO:0044272	sulfur compound biosynthetic process	23	1	0.45	0.3696
+GO:0006310	DNA recombination	23	1	0.45	0.3696
+GO:0016072	rRNA metabolic process	23	1	0.45	0.3696
+GO:0016070	RNA metabolic process	159	4	3.12	0.3823
+GO:0051252	regulation of RNA metabolic process	67	2	1.32	0.3836
+GO:0009066	aspartate family amino acid metabolic pr...	25	1	0.49	0.3947
+GO:0016043	cellular component organization	115	3	2.26	0.3975
+GO:0018193	peptidyl-amino acid modification	26	1	0.51	0.4069
+GO:0009073	aromatic amino acid family biosynthetic ...	26	1	0.51	0.4069
+GO:1901607	alpha-amino acid biosynthetic process	71	2	1.39	0.4125
+GO:0019219	regulation of nucleobase-containing comp...	72	2	1.41	0.4196
+GO:0006351	transcription, DNA-templated	72	2	1.41	0.4196
+GO:0009058	biosynthetic process	462	10	9.08	0.4216
+GO:0040007	growth	120	3	2.36	0.4256

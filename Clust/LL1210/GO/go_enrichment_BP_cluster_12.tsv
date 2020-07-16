@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0046434	organophosphate catabolic process	61	5	1.8	0.029
+GO:0071897	DNA biosynthetic process	11	2	0.32	0.039
+GO:0034655	nucleobase-containing compound catabolic...	70	5	2.06	0.049
+GO:0044270	cellular nitrogen compound catabolic pro...	70	5	2.06	0.049
+GO:0046700	heterocycle catabolic process	70	5	2.06	0.049
+GO:0019439	aromatic compound catabolic process	71	5	2.09	0.052
+GO:1901361	organic cyclic compound catabolic proces...	71	5	2.09	0.052
+GO:0070925	organelle assembly	13	2	0.38	0.054
+GO:0016311	dephosphorylation	13	2	0.38	0.054
+GO:1901136	carbohydrate derivative catabolic proces...	52	4	1.53	0.062
+GO:0006464	cellular protein modification process	55	4	1.62	0.073
+GO:0036211	protein modification process	55	4	1.62	0.073
+GO:0042254	ribosome biogenesis	34	3	1	0.075
+GO:0009166	nucleotide catabolic process	57	4	1.68	0.082
+GO:1901292	nucleoside phosphate catabolic process	57	4	1.68	0.082
+GO:0022613	ribonucleoprotein complex biogenesis	36	3	1.06	0.086
+GO:0006364	rRNA processing	21	2	0.62	0.125
+GO:0044248	cellular catabolic process	92	5	2.71	0.126
+GO:0009605	response to external stimulus	44	3	1.3	0.136
+GO:1901575	organic substance catabolic process	122	6	3.6	0.139
+GO:0043412	macromolecule modification	95	5	2.8	0.140
+GO:0034470	ncRNA processing	45	3	1.33	0.143
+GO:0016072	rRNA metabolic process	23	2	0.68	0.145
+GO:0009056	catabolic process	125	6	3.68	0.152
+GO:0034654	nucleobase-containing compound biosynthe...	212	9	6.25	0.152
+GO:0006796	phosphate-containing compound metabolic ...	219	9	6.45	0.176
+GO:0018193	peptidyl-amino acid modification	26	2	0.77	0.177
+GO:1901137	carbohydrate derivative biosynthetic pro...	103	5	3.04	0.179
+GO:0006793	phosphorus metabolic process	222	9	6.54	0.187
+GO:0006468	protein phosphorylation	27	2	0.8	0.187
+GO:0008033	tRNA processing	28	2	0.83	0.198
+GO:0034404	nucleobase-containing small molecule bio...	81	4	2.39	0.211
+GO:0008610	lipid biosynthetic process	30	2	0.88	0.220
+GO:0019693	ribose phosphate metabolic process	112	5	3.3	0.227
+GO:1901135	carbohydrate derivative metabolic proces...	172	7	5.07	0.232
+GO:0006396	RNA processing	57	3	1.68	0.233
+GO:0044267	cellular protein metabolic process	173	7	5.1	0.236
+GO:0032984	protein-containing complex disassembly	10	1	0.29	0.260
+GO:0046049	UMP metabolic process	10	1	0.29	0.260
+GO:0022411	cellular component disassembly	10	1	0.29	0.260
+GO:0051701	interaction with host	10	1	0.29	0.260
+GO:0009173	pyrimidine ribonucleoside monophosphate ...	10	1	0.29	0.260
+GO:0042255	ribosome assembly	10	1	0.29	0.260
+GO:0046390	ribose phosphate biosynthetic process	61	3	1.8	0.266
+GO:0040007	growth	120	5	3.54	0.274
+GO:0040011	locomotion	35	2	1.03	0.276
+GO:0018130	heterocycle biosynthetic process	245	9	7.22	0.281
+GO:0044265	cellular macromolecule catabolic process	11	1	0.32	0.282
+GO:0051641	cellular localization	11	1	0.32	0.282
+GO:0019438	aromatic compound biosynthetic process	246	9	7.25	0.286
+GO:0006996	organelle organization	37	2	1.09	0.298
+GO:0044403	symbiont process	12	1	0.35	0.303
+GO:0008654	phospholipid biosynthetic process	12	1	0.35	0.303
+GO:0006096	glycolytic process	12	1	0.35	0.303
+GO:0034637	cellular carbohydrate biosynthetic proce...	12	1	0.35	0.303
+GO:0042866	pyruvate biosynthetic process	12	1	0.35	0.303
+GO:0033692	cellular polysaccharide biosynthetic pro...	12	1	0.35	0.303
+GO:0022618	ribonucleoprotein complex assembly	12	1	0.35	0.303
+GO:0006757	ATP generation from ADP	12	1	0.35	0.303
+GO:0051179	localization	125	5	3.68	0.304
+GO:0005975	carbohydrate metabolic process	95	4	2.8	0.305
+GO:0044255	cellular lipid metabolic process	38	2	1.12	0.309
+GO:0019637	organophosphate metabolic process	158	6	4.66	0.317
+GO:0090407	organophosphate biosynthetic process	97	4	2.86	0.318
+GO:1901362	organic cyclic compound biosynthetic pro...	254	9	7.49	0.322
+GO:0071826	ribonucleoprotein complex subunit organi...	13	1	0.38	0.324
+GO:0006644	phospholipid metabolic process	13	1	0.38	0.324
+GO:0006629	lipid metabolic process	40	2	1.18	0.332
+GO:0009144	purine nucleoside triphosphate metabolic...	69	3	2.03	0.332
+GO:0009205	purine ribonucleoside triphosphate metab...	69	3	2.03	0.332
+GO:0009199	ribonucleoside triphosphate metabolic pr...	70	3	2.06	0.341
+GO:1901069	guanosine-containing compound catabolic ...	14	1	0.41	0.344
+GO:0006165	nucleoside diphosphate phosphorylation	14	1	0.41	0.344
+GO:0046031	ADP metabolic process	14	1	0.41	0.344
+GO:0009218	pyrimidine ribonucleotide metabolic proc...	14	1	0.41	0.344
+GO:0006807	nitrogen compound metabolic process	626	20	18.45	0.349
+GO:0055085	transmembrane transport	71	3	2.09	0.349
+GO:0019538	protein metabolic process	228	8	6.72	0.352
+GO:0009261	ribonucleotide catabolic process	42	2	1.24	0.354
+GO:0009154	purine ribonucleotide catabolic process	42	2	1.24	0.354
+GO:0009146	purine nucleoside triphosphate catabolic...	42	2	1.24	0.354
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	2	1.24	0.354
+GO:0009207	purine ribonucleoside triphosphate catab...	42	2	1.24	0.354
+GO:0090304	nucleic acid metabolic process	230	8	6.78	0.362
+GO:0046039	GTP metabolic process	15	1	0.44	0.364
+GO:0001539	cilium or flagellum-dependent cell motil...	15	1	0.44	0.364
+GO:0009991	response to extracellular stimulus	15	1	0.44	0.364
+GO:0034622	cellular protein-containing complex asse...	15	1	0.44	0.364
+GO:0045892	negative regulation of transcription, DN...	15	1	0.44	0.364
+GO:1903507	negative regulation of nucleic acid-temp...	15	1	0.44	0.364
+GO:0009129	pyrimidine nucleoside monophosphate meta...	15	1	0.44	0.364
+GO:1902679	negative regulation of RNA biosynthetic ...	15	1	0.44	0.364
+GO:0046131	pyrimidine ribonucleoside metabolic proc...	15	1	0.44	0.364
+GO:0043650	dicarboxylic acid biosynthetic process	15	1	0.44	0.364
+GO:0071496	cellular response to external stimulus	15	1	0.44	0.364
+GO:0000271	polysaccharide biosynthetic process	15	1	0.44	0.364
+GO:0031668	cellular response to extracellular stimu...	15	1	0.44	0.364
+GO:0009143	nucleoside triphosphate catabolic proces...	43	2	1.27	0.365
+GO:0046130	purine ribonucleoside catabolic process	43	2	1.27	0.365
+GO:0006195	purine nucleotide catabolic process	43	2	1.27	0.365

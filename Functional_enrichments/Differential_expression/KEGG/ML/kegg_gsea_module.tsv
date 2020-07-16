@@ -1,0 +1,2 @@
+ID	Description	setSize	enrichmentScore	NES	pvalue	p.adjust	qvalues	rank	leading_edge	core_enrichment
+M00026	Histidine biosynthesis, PRPP => histidine	11	0.744893511323357	1.77937449918315	0.00426439232409382	0.0298507462686567	0.0269330041521715	59	tags=18%, list=3%, signal=18%	Clo1313_0425/Clo1313_0424

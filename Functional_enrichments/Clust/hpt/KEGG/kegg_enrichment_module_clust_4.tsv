@@ -1,0 +1,3 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00022	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	3/16	10/317	0.0102440143829147	0.0204880287658295	0.0107831730346471	Clo1313_1366/Clo1313_1491/Clo1313_1340	3
+M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	1/16	19/317	0.637203096167259	0.637203096167259	0.335370050614347	Clo1313_0949	1

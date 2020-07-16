@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0000160	phosphorelay signal transduction system	38	4	0.78	0.0063
+GO:0009987	cellular process	775	21	15.99	0.0075
+GO:0019954	asexual reproduction	10	2	0.21	0.0165
+GO:0000003	reproduction	13	2	0.27	0.0276
+GO:0015980	energy derivation by oxidation of organi...	14	2	0.29	0.0318
+GO:0016051	carbohydrate biosynthetic process	19	2	0.39	0.0561
+GO:0006928	movement of cell or subcellular componen...	20	2	0.41	0.0616
+GO:0007049	cell cycle	34	2	0.7	0.1532
+GO:0009266	response to temperature stimulus	10	1	0.21	0.1889
+GO:0051701	interaction with host	10	1	0.21	0.1889
+GO:0019318	hexose metabolic process	10	1	0.21	0.1889
+GO:2000112	regulation of cellular macromolecule bio...	74	3	1.53	0.1916
+GO:0031326	regulation of cellular biosynthetic proc...	76	3	1.57	0.2024
+GO:0010556	regulation of macromolecule biosynthetic...	76	3	1.57	0.2024
+GO:0051301	cell division	41	2	0.85	0.2058
+GO:0046129	purine ribonucleoside biosynthetic proce...	11	1	0.23	0.2058
+GO:0071973	bacterial-type flagellum-dependent cell ...	11	1	0.23	0.2058
+GO:0071897	DNA biosynthetic process	11	1	0.23	0.2058
+GO:0006414	translational elongation	11	1	0.23	0.2058
+GO:0042451	purine nucleoside biosynthetic process	11	1	0.23	0.2058
+GO:0009889	regulation of biosynthetic process	77	3	1.59	0.2079
+GO:0015672	monovalent inorganic cation transport	12	1	0.25	0.2224
+GO:0005996	monosaccharide metabolic process	12	1	0.25	0.2224
+GO:0034637	cellular carbohydrate biosynthetic proce...	12	1	0.25	0.2224
+GO:0044403	symbiont process	12	1	0.25	0.2224
+GO:0033692	cellular polysaccharide biosynthetic pro...	12	1	0.25	0.2224
+GO:0010468	regulation of gene expression	81	3	1.67	0.2301
+GO:0006091	generation of precursor metabolites and ...	45	2	0.93	0.2367
+GO:0050790	regulation of catalytic activity	13	1	0.27	0.2386
+GO:0097588	archaeal or bacterial-type flagellum-dep...	13	1	0.27	0.2386
+GO:0098660	inorganic ion transmembrane transport	13	1	0.27	0.2386
+GO:0098662	inorganic cation transmembrane transport	13	1	0.27	0.2386
+GO:0070925	organelle assembly	13	1	0.27	0.2386
+GO:0009069	serine family amino acid metabolic proce...	13	1	0.27	0.2386
+GO:0051179	localization	125	4	2.58	0.2515
+GO:0051171	regulation of nitrogen compound metaboli...	85	3	1.75	0.2529
+GO:0034248	regulation of cellular amide metabolic p...	14	1	0.29	0.2545
+GO:0065009	regulation of molecular function	14	1	0.29	0.2545
+GO:0006417	regulation of translation	14	1	0.29	0.2545
+GO:0000097	sulfur amino acid biosynthetic process	14	1	0.29	0.2545
+GO:0010608	posttranscriptional regulation of gene e...	14	1	0.29	0.2545
+GO:0031323	regulation of cellular metabolic process	86	3	1.77	0.2586
+GO:0044237	cellular metabolic process	684	16	14.11	0.2625
+GO:1902679	negative regulation of RNA biosynthetic ...	15	1	0.31	0.2701
+GO:0000910	cytokinesis	15	1	0.31	0.2701
+GO:0045892	negative regulation of transcription, DN...	15	1	0.31	0.2701
+GO:0000271	polysaccharide biosynthetic process	15	1	0.31	0.2701
+GO:0001539	cilium or flagellum-dependent cell motil...	15	1	0.31	0.2701
+GO:0018106	peptidyl-histidine phosphorylation	15	1	0.31	0.2701
+GO:1903507	negative regulation of nucleic acid-temp...	15	1	0.31	0.2701
+GO:0018202	peptidyl-histidine modification	15	1	0.31	0.2701
+GO:0080090	regulation of primary metabolic process	88	3	1.82	0.2702
+GO:0060255	regulation of macromolecule metabolic pr...	90	3	1.86	0.2818
+GO:0051674	localization of cell	16	1	0.33	0.2854
+GO:0044419	interspecies interaction between organis...	16	1	0.33	0.2854
+GO:0032268	regulation of cellular protein metabolic...	16	1	0.33	0.2854
+GO:0009179	purine ribonucleoside diphosphate metabo...	16	1	0.33	0.2854
+GO:0022402	cell cycle process	16	1	0.33	0.2854
+GO:0048870	cell motility	16	1	0.33	0.2854
+GO:0009135	purine nucleoside diphosphate metabolic ...	16	1	0.33	0.2854
+GO:0051253	negative regulation of RNA metabolic pro...	16	1	0.33	0.2854
+GO:0016310	phosphorylation	91	3	1.88	0.2877
+GO:0019222	regulation of metabolic process	93	3	1.92	0.2994
+GO:0032259	methylation	53	2	1.09	0.2995
+GO:0051246	regulation of protein metabolic process	17	1	0.35	0.3004
+GO:0009185	ribonucleoside diphosphate metabolic pro...	17	1	0.35	0.3004
+GO:0001510	RNA methylation	17	1	0.35	0.3004
+GO:0000096	sulfur amino acid metabolic process	17	1	0.35	0.3004
+GO:0006073	cellular glucan metabolic process	18	1	0.37	0.3150
+GO:0034645	cellular macromolecule biosynthetic proc...	227	6	4.68	0.3191
+GO:0044042	glucan metabolic process	19	1	0.39	0.3294
+GO:0098655	cation transmembrane transport	19	1	0.39	0.3294
+GO:0009132	nucleoside diphosphate metabolic process	19	1	0.39	0.3294
+GO:0045934	negative regulation of nucleobase-contai...	19	1	0.39	0.3294
+GO:0009628	response to abiotic stimulus	19	1	0.39	0.3294
+GO:0046128	purine ribonucleoside metabolic process	57	2	1.18	0.3309
+GO:0044260	cellular macromolecule metabolic process	369	9	7.61	0.3361
+GO:0042278	purine nucleoside metabolic process	58	2	1.2	0.3387
+GO:0009059	macromolecule biosynthetic process	232	6	4.79	0.3394
+GO:0006935	chemotaxis	20	1	0.41	0.3435
+GO:0006754	ATP biosynthetic process	21	1	0.43	0.3573
+GO:0042330	taxis	21	1	0.43	0.3573
+GO:1901068	guanosine-containing compound metabolic ...	21	1	0.43	0.3573
+GO:0022607	cellular component assembly	62	2	1.28	0.3696
+GO:0051704	multi-organism process	22	1	0.45	0.3709
+GO:0009145	purine nucleoside triphosphate biosynthe...	22	1	0.45	0.3709
+GO:0006400	tRNA modification	22	1	0.45	0.3709
+GO:0009206	purine ribonucleoside triphosphate biosy...	22	1	0.45	0.3709
+GO:0006355	regulation of transcription, DNA-templat...	63	2	1.3	0.3773
+GO:0043414	macromolecule methylation	23	1	0.47	0.3841
+GO:0031327	negative regulation of cellular biosynth...	23	1	0.47	0.3841
+GO:0010558	negative regulation of macromolecule bio...	23	1	0.47	0.3841
+GO:0009890	negative regulation of biosynthetic proc...	23	1	0.47	0.3841
+GO:0044272	sulfur compound biosynthetic process	23	1	0.47	0.3841
+GO:2000113	negative regulation of cellular macromol...	23	1	0.47	0.3841
+GO:2001141	regulation of RNA biosynthetic process	64	2	1.32	0.3849
+GO:1903506	regulation of nucleic acid-templated tra...	64	2	1.32	0.3849
+GO:0009201	ribonucleoside triphosphate biosynthetic...	24	1	0.5	0.3971
+GO:0034220	ion transmembrane transport	24	1	0.5	0.3971
+GO:0006810	transport	110	3	2.27	0.4002

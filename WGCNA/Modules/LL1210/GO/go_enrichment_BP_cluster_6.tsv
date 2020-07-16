@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006310	DNA recombination	23	6	0.9	0.00015
+GO:0006796	phosphate-containing compound metabolic ...	219	14	8.61	0.03203
+GO:0006793	phosphorus metabolic process	222	14	8.72	0.03574
+GO:0046049	UMP metabolic process	10	2	0.39	0.05550
+GO:0009173	pyrimidine ribonucleoside monophosphate ...	10	2	0.39	0.05550
+GO:0006220	pyrimidine nucleotide metabolic process	23	3	0.9	0.05770
+GO:0009119	ribonucleoside metabolic process	73	6	2.87	0.06009
+GO:0009086	methionine biosynthetic process	11	2	0.43	0.06618
+GO:0009066	aspartate family amino acid metabolic pr...	25	3	0.98	0.07100
+GO:0055086	nucleobase-containing small molecule met...	158	10	6.21	0.07687
+GO:0009220	pyrimidine ribonucleotide biosynthetic p...	12	2	0.47	0.07748
+GO:0042180	cellular ketone metabolic process	12	2	0.47	0.07748
+GO:0006733	oxidoreduction coenzyme metabolic proces...	26	3	1.02	0.07813
+GO:0042455	ribonucleoside biosynthetic process	27	3	1.06	0.08556
+GO:0046132	pyrimidine ribonucleoside biosynthetic p...	13	2	0.51	0.08935
+GO:0046134	pyrimidine nucleoside biosynthetic proce...	13	2	0.51	0.08935
+GO:0006555	methionine metabolic process	13	2	0.51	0.08935
+GO:0016311	dephosphorylation	13	2	0.51	0.08935
+GO:0034404	nucleobase-containing small molecule bio...	81	6	3.18	0.09064
+GO:1901659	glycosyl compound biosynthetic process	28	3	1.1	0.09329
+GO:0009163	nucleoside biosynthetic process	28	3	1.1	0.09329
+GO:1901657	glycosyl compound metabolic process	82	6	3.22	0.09498
+GO:0009116	nucleoside metabolic process	82	6	3.22	0.09498
+GO:0000097	sulfur amino acid biosynthetic process	14	2	0.55	0.10171
+GO:0009218	pyrimidine ribonucleotide metabolic proc...	14	2	0.55	0.10171
+GO:0009130	pyrimidine nucleoside monophosphate bios...	14	2	0.55	0.10171
+GO:0072527	pyrimidine-containing compound metabolic...	30	3	1.18	0.10959
+GO:0009129	pyrimidine nucleoside monophosphate meta...	15	2	0.59	0.11453
+GO:0046131	pyrimidine ribonucleoside metabolic proc...	15	2	0.59	0.11453
+GO:0044036	cell wall macromolecule metabolic proces...	31	3	1.22	0.11813
+GO:0006213	pyrimidine nucleoside metabolic process	16	2	0.63	0.12773
+GO:0016310	phosphorylation	91	6	3.58	0.13903
+GO:0000096	sulfur amino acid metabolic process	17	2	0.67	0.14129
+GO:0016052	carbohydrate catabolic process	52	4	2.04	0.14225
+GO:0006139	nucleobase-containing compound metabolic...	364	21	14.3	0.14776
+GO:0019637	organophosphate metabolic process	158	9	6.21	0.15326
+GO:0000272	polysaccharide catabolic process	35	3	1.38	0.15464
+GO:0019363	pyridine nucleotide biosynthetic process	18	2	0.71	0.15514
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	18	2	0.71	0.15514
+GO:0009117	nucleotide metabolic process	137	8	5.38	0.15753
+GO:0006753	nucleoside phosphate metabolic process	138	8	5.42	0.16234
+GO:0071554	cell wall organization or biogenesis	36	3	1.41	0.16429
+GO:0006399	tRNA metabolic process	55	4	2.16	0.16487
+GO:0072525	pyridine-containing compound biosyntheti...	19	2	0.75	0.16926
+GO:0006221	pyrimidine nucleotide biosynthetic proce...	19	2	0.75	0.16926
+GO:0098655	cation transmembrane transport	19	2	0.75	0.16926
+GO:0006732	coenzyme metabolic process	58	4	2.28	0.18874
+GO:0046496	nicotinamide nucleotide metabolic proces...	21	2	0.83	0.19810
+GO:0009067	aspartate family amino acid biosynthetic...	21	2	0.83	0.19810
+GO:0019362	pyridine nucleotide metabolic process	21	2	0.83	0.19810
+GO:0009056	catabolic process	125	7	4.91	0.21060
+GO:0072524	pyridine-containing compound metabolic p...	22	2	0.86	0.21275
+GO:0006400	tRNA modification	22	2	0.86	0.21275
+GO:1901135	carbohydrate derivative metabolic proces...	172	9	6.76	0.22084
+GO:0009161	ribonucleoside monophosphate metabolic p...	83	5	3.26	0.22137
+GO:0044281	small molecule metabolic process	314	15	12.34	0.22253
+GO:0006090	pyruvate metabolic process	23	2	0.9	0.22752
+GO:0006418	tRNA aminoacylation for protein translat...	23	2	0.9	0.22752
+GO:0044272	sulfur compound biosynthetic process	23	2	0.9	0.22752
+GO:0043038	amino acid activation	24	2	0.94	0.24237
+GO:0043039	tRNA aminoacylation	24	2	0.94	0.24237
+GO:0072528	pyrimidine-containing compound biosynthe...	24	2	0.94	0.24237
+GO:0034220	ion transmembrane transport	24	2	0.94	0.24237
+GO:0019752	carboxylic acid metabolic process	178	9	6.99	0.25320
+GO:0043436	oxoacid metabolic process	179	9	7.03	0.25877
+GO:0006082	organic acid metabolic process	180	9	7.07	0.26437
+GO:0017144	drug metabolic process	89	5	3.5	0.26705
+GO:0009123	nucleoside monophosphate metabolic proce...	89	5	3.5	0.26705
+GO:0009108	coenzyme biosynthetic process	46	3	1.81	0.26877
+GO:0044248	cellular catabolic process	92	5	3.61	0.29074
+GO:0009156	ribonucleoside monophosphate biosyntheti...	48	3	1.89	0.29077
+GO:0046483	heterocycle metabolic process	405	21	15.91	0.29882
+GO:0008033	tRNA processing	28	2	1.1	0.30204
+GO:0006725	cellular aromatic compound metabolic pro...	407	21	15.99	0.30750
+GO:0051186	cofactor metabolic process	72	4	2.83	0.31185
+GO:0005976	polysaccharide metabolic process	50	3	1.96	0.31294
+GO:0005975	carbohydrate metabolic process	95	5	3.73	0.31486
+GO:0009169	purine ribonucleoside monophosphate cata...	29	2	1.14	0.31691
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	2	1.14	0.31691
+GO:0044262	cellular carbohydrate metabolic process	29	2	1.14	0.31691
+GO:0009125	nucleoside monophosphate catabolic proce...	29	2	1.14	0.31691
+GO:0009128	purine nucleoside monophosphate cataboli...	29	2	1.14	0.31691
+GO:0034660	ncRNA metabolic process	73	4	2.87	0.32110
+GO:0032787	monocarboxylic acid metabolic process	51	3	2	0.32406
+GO:0009057	macromolecule catabolic process	51	3	2	0.32406
+GO:0090407	organophosphate biosynthetic process	97	5	3.81	0.33112
+GO:0006720	isoprenoid metabolic process	10	1	0.39	0.33147
+GO:0006413	translational initiation	10	1	0.39	0.33147
+GO:0008299	isoprenoid biosynthetic process	10	1	0.39	0.33147
+GO:0006081	cellular aldehyde metabolic process	10	1	0.39	0.33147
+GO:0019954	asexual reproduction	10	1	0.39	0.33147
+GO:0051188	cofactor biosynthetic process	52	3	2.04	0.33519
+GO:0046034	ATP metabolic process	52	3	2.04	0.33519
+GO:1901360	organic cyclic compound metabolic proces...	415	21	16.31	0.34314
+GO:1901575	organic substance catabolic process	122	6	4.79	0.34403
+GO:0009124	nucleoside monophosphate biosynthetic pr...	53	3	2.08	0.34633
+GO:0044283	small molecule biosynthetic process	195	9	7.66	0.35295
+GO:0043254	regulation of protein complex assembly	11	1	0.43	0.35800
+GO:0006414	translational elongation	11	1	0.43	0.35800
+GO:0009082	branched-chain amino acid biosynthetic p...	11	1	0.43	0.35800

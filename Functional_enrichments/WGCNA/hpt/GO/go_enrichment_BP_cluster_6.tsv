@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0009110	vitamin biosynthetic process	20	3	0.61	0.021
+GO:0042364	water-soluble vitamin biosynthetic proce...	20	3	0.61	0.021
+GO:0006766	vitamin metabolic process	24	3	0.73	0.034
+GO:0006767	water-soluble vitamin metabolic process	24	3	0.73	0.034
+GO:0006188	IMP biosynthetic process	10	2	0.31	0.035
+GO:0006526	arginine biosynthetic process	11	2	0.34	0.042
+GO:0046040	IMP metabolic process	11	2	0.34	0.042
+GO:0006525	arginine metabolic process	12	2	0.37	0.049
+GO:0009084	glutamine family amino acid biosynthetic...	16	2	0.49	0.083
+GO:0051188	cofactor biosynthetic process	61	4	1.86	0.110
+GO:0016310	phosphorylation	100	5	3.06	0.183
+GO:0009064	glutamine family amino acid metabolic pr...	26	2	0.79	0.187
+GO:0072528	pyrimidine-containing compound biosynthe...	27	2	0.82	0.198
+GO:0051186	cofactor metabolic process	78	4	2.38	0.210
+GO:0090407	organophosphate biosynthetic process	106	5	3.24	0.216
+GO:0009108	coenzyme biosynthetic process	53	3	1.62	0.217
+GO:0008152	metabolic process	913	30	27.9	0.223
+GO:0044272	sulfur compound biosynthetic process	31	2	0.95	0.244
+GO:0044283	small molecule biosynthetic process	200	8	6.11	0.255
+GO:0006796	phosphate-containing compound metabolic ...	230	9	7.03	0.255
+GO:0008299	isoprenoid biosynthetic process	10	1	0.31	0.268
+GO:0009112	nucleobase metabolic process	10	1	0.31	0.268
+GO:0043094	cellular metabolic compound salvage	10	1	0.31	0.268
+GO:0006720	isoprenoid metabolic process	10	1	0.31	0.268
+GO:0019318	hexose metabolic process	10	1	0.31	0.268
+GO:0006793	phosphorus metabolic process	234	9	7.15	0.273
+GO:0072527	pyrimidine-containing compound metabolic...	34	2	1.04	0.279
+GO:0006355	regulation of transcription, DNA-templat...	62	3	1.89	0.293
+GO:1903506	regulation of nucleic acid-templated tra...	63	3	1.92	0.302
+GO:2001141	regulation of RNA biosynthetic process	63	3	1.92	0.302
+GO:0006732	coenzyme metabolic process	64	3	1.96	0.310
+GO:0042180	cellular ketone metabolic process	12	1	0.37	0.312
+GO:0043254	regulation of protein complex assembly	12	1	0.37	0.312
+GO:0006414	translational elongation	12	1	0.37	0.312
+GO:2000142	regulation of DNA-templated transcriptio...	12	1	0.37	0.312
+GO:0051252	regulation of RNA metabolic process	66	3	2.02	0.328
+GO:0006352	DNA-templated transcription, initiation	13	1	0.4	0.333
+GO:0042451	purine nucleoside biosynthetic process	13	1	0.4	0.333
+GO:0044781	bacterial-type flagellum organization	13	1	0.4	0.333
+GO:0046129	purine ribonucleoside biosynthetic proce...	13	1	0.4	0.333
+GO:0009168	purine ribonucleoside monophosphate bios...	39	2	1.19	0.336
+GO:0009127	purine nucleoside monophosphate biosynth...	39	2	1.19	0.336
+GO:0017144	drug metabolic process	98	4	2.99	0.351
+GO:0006508	proteolysis	69	3	2.11	0.354
+GO:0016311	dephosphorylation	14	1	0.43	0.354
+GO:0008654	phospholipid biosynthetic process	14	1	0.43	0.354
+GO:0005996	monosaccharide metabolic process	14	1	0.43	0.354
+GO:0055114	oxidation-reduction process	160	6	4.89	0.362
+GO:0006351	transcription, DNA-templated	70	3	2.14	0.362
+GO:1901607	alpha-amino acid biosynthetic process	71	3	2.17	0.371
+GO:0019219	regulation of nucleobase-containing comp...	71	3	2.17	0.371
+GO:0097659	nucleic acid-templated transcription	71	3	2.17	0.371
+GO:0030030	cell projection organization	15	1	0.46	0.374
+GO:0006644	phospholipid metabolic process	15	1	0.46	0.374
+GO:2000112	regulation of cellular macromolecule bio...	73	3	2.23	0.388
+GO:0006790	sulfur compound metabolic process	44	2	1.34	0.393
+GO:0044087	regulation of cellular component biogene...	16	1	0.49	0.393
+GO:0032774	RNA biosynthetic process	75	3	2.29	0.405
+GO:0031326	regulation of cellular biosynthetic proc...	75	3	2.29	0.405
+GO:0010556	regulation of macromolecule biosynthetic...	75	3	2.29	0.405
+GO:0009889	regulation of biosynthetic process	76	3	2.32	0.414
+GO:0010468	regulation of gene expression	80	3	2.44	0.448
+GO:0001510	RNA methylation	19	1	0.58	0.448
+GO:0009156	ribonucleoside monophosphate biosyntheti...	50	2	1.53	0.458
+GO:1901068	guanosine-containing compound metabolic ...	20	1	0.61	0.465
+GO:0010467	gene expression	242	8	7.39	0.467
+GO:0009152	purine ribonucleotide biosynthetic proce...	51	2	1.56	0.469
+GO:0008652	cellular amino acid biosynthetic process	84	3	2.57	0.481
+GO:0016051	carbohydrate biosynthetic process	21	1	0.64	0.482
+GO:0022900	electron transport chain	21	1	0.64	0.482
+GO:0051171	regulation of nitrogen compound metaboli...	85	3	2.6	0.489
+GO:0031323	regulation of cellular metabolic process	86	3	2.63	0.497
+GO:0006400	tRNA modification	22	1	0.67	0.498
+GO:0006164	purine nucleotide biosynthetic process	54	2	1.65	0.499
+GO:0009124	nucleoside monophosphate biosynthetic pr...	55	2	1.68	0.509
+GO:1901605	alpha-amino acid metabolic process	88	3	2.69	0.513
+GO:0080090	regulation of primary metabolic process	88	3	2.69	0.513
+GO:1901566	organonitrogen compound biosynthetic pro...	316	10	9.66	0.514
+GO:0072522	purine-containing compound biosynthetic ...	56	2	1.71	0.519
+GO:0006310	DNA recombination	24	1	0.73	0.529
+GO:0060255	regulation of macromolecule metabolic pr...	90	3	2.75	0.529
+GO:0040007	growth	123	4	3.76	0.530
+GO:0018130	heterocycle biosynthetic process	255	8	7.79	0.534
+GO:0006090	pyruvate metabolic process	25	1	0.76	0.544
+GO:0051704	multi-organism process	25	1	0.76	0.544
+GO:0043414	macromolecule methylation	25	1	0.76	0.544
+GO:0009073	aromatic amino acid family biosynthetic ...	25	1	0.76	0.544
+GO:0019222	regulation of metabolic process	93	3	2.84	0.552
+GO:0032259	methylation	60	2	1.83	0.558
+GO:0009058	biosynthetic process	489	15	14.94	0.560
+GO:0009072	aromatic amino acid family metabolic pro...	27	1	0.82	0.572
+GO:0018193	peptidyl-amino acid modification	27	1	0.82	0.572
+GO:1901362	organic cyclic compound biosynthetic pro...	264	8	8.07	0.579
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	1	0.86	0.585
+GO:0008033	tRNA processing	28	1	0.86	0.585
+GO:0019637	organophosphate metabolic process	166	5	5.07	0.590
+GO:0009260	ribonucleotide biosynthetic process	64	2	1.96	0.594
+GO:0042455	ribonucleoside biosynthetic process	29	1	0.89	0.598
+GO:0009163	nucleoside biosynthetic process	30	1	0.92	0.611
+GO:1901659	glycosyl compound biosynthetic process	30	1	0.92	0.611

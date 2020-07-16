@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006720	isoprenoid metabolic process	10	2	0.27	0.027
+GO:0008299	isoprenoid biosynthetic process	10	2	0.27	0.027
+GO:0051649	establishment of localization in cell	11	2	0.3	0.033
+GO:0009081	branched-chain amino acid metabolic proc...	12	2	0.32	0.039
+GO:0051641	cellular localization	13	2	0.35	0.045
+GO:0009057	macromolecule catabolic process	52	4	1.4	0.046
+GO:0008654	phospholipid biosynthetic process	14	2	0.38	0.052
+GO:0016311	dephosphorylation	14	2	0.38	0.052
+GO:0071705	nitrogen compound transport	33	3	0.89	0.055
+GO:0090407	organophosphate biosynthetic process	106	6	2.85	0.057
+GO:0006644	phospholipid metabolic process	15	2	0.4	0.059
+GO:0019637	organophosphate metabolic process	166	8	4.46	0.063
+GO:0071103	DNA conformation change	16	2	0.43	0.066
+GO:0022604	regulation of cell morphogenesis	16	2	0.43	0.066
+GO:0008360	regulation of cell shape	16	2	0.43	0.066
+GO:0006796	phosphate-containing compound metabolic ...	230	10	6.18	0.068
+GO:0006793	phosphorus metabolic process	234	10	6.28	0.076
+GO:0071702	organic substance transport	38	3	1.02	0.078
+GO:0051276	chromosome organization	18	2	0.48	0.082
+GO:0032989	cellular component morphogenesis	19	2	0.51	0.090
+GO:0000902	cell morphogenesis	19	2	0.51	0.090
+GO:0022603	regulation of anatomical structure morph...	19	2	0.51	0.090
+GO:0050793	regulation of developmental process	20	2	0.54	0.098
+GO:0015031	protein transport	20	2	0.54	0.098
+GO:0006629	lipid metabolic process	42	3	1.13	0.099
+GO:0016043	cellular component organization	124	6	3.33	0.105
+GO:0033036	macromolecule localization	21	2	0.56	0.107
+GO:0008104	protein localization	21	2	0.56	0.107
+GO:0045184	establishment of protein localization	21	2	0.56	0.107
+GO:0006996	organelle organization	45	3	1.21	0.116
+GO:0015833	peptide transport	24	2	0.64	0.134
+GO:0042886	amide transport	24	2	0.64	0.134
+GO:0048869	cellular developmental process	24	2	0.64	0.134
+GO:0009653	anatomical structure morphogenesis	24	2	0.64	0.134
+GO:0006090	pyruvate metabolic process	25	2	0.67	0.143
+GO:0034220	ion transmembrane transport	25	2	0.67	0.143
+GO:0048856	anatomical structure development	25	2	0.67	0.143
+GO:0006259	DNA metabolic process	78	4	2.09	0.151
+GO:0009152	purine ribonucleotide biosynthetic proce...	51	3	1.37	0.153
+GO:0043604	amide biosynthetic process	138	6	3.71	0.155
+GO:0032787	monocarboxylic acid metabolic process	52	3	1.4	0.160
+GO:0009108	coenzyme biosynthetic process	53	3	1.42	0.166
+GO:0009117	nucleotide metabolic process	142	6	3.81	0.171
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	2	0.75	0.171
+GO:0006164	purine nucleotide biosynthetic process	54	3	1.45	0.173
+GO:0006753	nucleoside phosphate metabolic process	143	6	3.84	0.175
+GO:0032502	developmental process	29	2	0.78	0.181
+GO:0044238	primary metabolic process	716	22	19.23	0.184
+GO:0072522	purine-containing compound biosynthetic ...	56	3	1.5	0.187
+GO:0009165	nucleotide biosynthetic process	85	4	2.28	0.189
+GO:1901293	nucleoside phosphate biosynthetic proces...	86	4	2.31	0.194
+GO:0043603	cellular amide metabolic process	150	6	4.03	0.205
+GO:0006412	translation	119	5	3.2	0.207
+GO:0043043	peptide biosynthetic process	119	5	3.2	0.207
+GO:0008610	lipid biosynthetic process	32	2	0.86	0.211
+GO:0051188	cofactor biosynthetic process	61	3	1.64	0.222
+GO:0006518	peptide metabolic process	122	5	3.28	0.223
+GO:0071840	cellular component organization or bioge...	155	6	4.16	0.227
+GO:0040007	growth	123	5	3.3	0.228
+GO:0046903	secretion	10	1	0.27	0.239
+GO:0046907	intracellular transport	10	1	0.27	0.239
+GO:0071806	protein transmembrane transport	10	1	0.27	0.239
+GO:0006605	protein targeting	10	1	0.27	0.239
+GO:0006188	IMP biosynthetic process	10	1	0.27	0.239
+GO:0034030	ribonucleoside bisphosphate biosynthetic...	10	1	0.27	0.239
+GO:0034033	purine nucleoside bisphosphate biosynthe...	10	1	0.27	0.239
+GO:0043094	cellular metabolic compound salvage	10	1	0.27	0.239
+GO:0033866	nucleoside bisphosphate biosynthetic pro...	10	1	0.27	0.239
+GO:0006886	intracellular protein transport	10	1	0.27	0.239
+GO:0046677	response to antibiotic	10	1	0.27	0.239
+GO:0006820	anion transport	10	1	0.27	0.239
+GO:1901575	organic substance catabolic process	126	5	3.38	0.243
+GO:0009260	ribonucleotide biosynthetic process	64	3	1.72	0.244
+GO:0006732	coenzyme metabolic process	64	3	1.72	0.244
+GO:0044248	cellular catabolic process	95	4	2.55	0.247
+GO:0051128	regulation of cellular component organiz...	36	2	0.97	0.251
+GO:0046390	ribose phosphate biosynthetic process	66	3	1.77	0.259
+GO:0009056	catabolic process	129	5	3.46	0.259
+GO:0051275	beta-glucan catabolic process	11	1	0.3	0.260
+GO:0046040	IMP metabolic process	11	1	0.3	0.260
+GO:0009251	glucan catabolic process	11	1	0.3	0.260
+GO:0030245	cellulose catabolic process	11	1	0.3	0.260
+GO:0034613	cellular protein localization	11	1	0.3	0.260
+GO:0044265	cellular macromolecule catabolic process	11	1	0.3	0.260
+GO:0070727	cellular macromolecule localization	11	1	0.3	0.260
+GO:0042255	ribosome assembly	11	1	0.3	0.260
+GO:0044247	cellular polysaccharide catabolic proces...	11	1	0.3	0.260
+GO:0009082	branched-chain amino acid biosynthetic p...	11	1	0.3	0.260
+GO:0065008	regulation of biological quality	38	2	1.02	0.272
+GO:0005975	carbohydrate metabolic process	100	4	2.69	0.278
+GO:0055086	nucleobase-containing small molecule met...	166	6	4.46	0.280
+GO:0033875	ribonucleoside bisphosphate metabolic pr...	12	1	0.32	0.280
+GO:0034032	purine nucleoside bisphosphate metabolic...	12	1	0.32	0.280
+GO:0015672	monovalent inorganic cation transport	12	1	0.32	0.280
+GO:0042398	cellular modified amino acid biosyntheti...	12	1	0.32	0.280
+GO:0042180	cellular ketone metabolic process	12	1	0.32	0.280
+GO:0033865	nucleoside bisphosphate metabolic proces...	12	1	0.32	0.280
+GO:0009168	purine ribonucleoside monophosphate bios...	39	2	1.05	0.282
+GO:0009127	purine nucleoside monophosphate biosynth...	39	2	1.05	0.282
+GO:0009150	purine ribonucleotide metabolic process	101	4	2.71	0.284

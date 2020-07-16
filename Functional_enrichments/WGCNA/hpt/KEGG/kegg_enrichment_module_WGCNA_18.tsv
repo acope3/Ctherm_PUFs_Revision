@@ -1,0 +1,4 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00022	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	1/9	10/317	0.253421129503111	0.337586903918377	0.337586903918377	Clo1313_1492	1
+M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	1/9	11/317	0.275307806488363	0.337586903918377	0.337586903918377	Clo1313_1012	1
+M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	1/9	14/317	0.337586903918377	0.337586903918377	0.337586903918377	Clo1313_0489	1

@@ -1,0 +1,4 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00003	Gluconeogenesis, oxaloacetate => fructose-6P	1/10	10/317	0.277660703220543	0.367696590103905	0.367696590103905	Clo1313_2095	1
+M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	1/10	11/317	0.301189670542349	0.367696590103905	0.367696590103905	Clo1313_1010	1
+M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	1/10	14/317	0.367696590103905	0.367696590103905	0.367696590103905	Clo1313_2095	1

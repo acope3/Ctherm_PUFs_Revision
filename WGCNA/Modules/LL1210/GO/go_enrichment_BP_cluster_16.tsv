@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0043650	dicarboxylic acid biosynthetic process	15	2	0.35	0.046
+GO:0006281	DNA repair	36	3	0.85	0.049
+GO:0040007	growth	120	6	2.83	0.053
+GO:0043604	amide biosynthetic process	125	6	2.95	0.063
+GO:0090305	nucleic acid phosphodiester bond hydroly...	42	3	0.99	0.072
+GO:0006974	cellular response to DNA damage stimulus	45	3	1.06	0.085
+GO:0043603	cellular amide metabolic process	137	6	3.23	0.091
+GO:0050896	response to stimulus	172	7	4.06	0.094
+GO:0044267	cellular protein metabolic process	173	7	4.08	0.096
+GO:0006412	translation	108	5	2.55	0.101
+GO:0043043	peptide biosynthetic process	108	5	2.55	0.101
+GO:0043648	dicarboxylic acid metabolic process	24	2	0.57	0.107
+GO:0006518	peptide metabolic process	111	5	2.62	0.111
+GO:0006950	response to stress	82	4	1.93	0.121
+GO:0033554	cellular response to stress	54	3	1.27	0.130
+GO:0043170	macromolecule metabolic process	465	14	10.96	0.146
+GO:0019538	protein metabolic process	228	8	5.38	0.146
+GO:0048523	negative regulation of cellular process	29	2	0.68	0.147
+GO:0051172	negative regulation of nitrogen compound...	29	2	0.68	0.147
+GO:0031324	negative regulation of cellular metaboli...	29	2	0.68	0.147
+GO:0009059	macromolecule biosynthetic process	232	8	5.47	0.158
+GO:0048519	negative regulation of biological proces...	31	2	0.73	0.164
+GO:0010605	negative regulation of macromolecule met...	31	2	0.73	0.164
+GO:0009892	negative regulation of metabolic process	31	2	0.73	0.164
+GO:0051716	cellular response to stimulus	135	5	3.18	0.203
+GO:0022411	cellular component disassembly	10	1	0.24	0.213
+GO:0006413	translational initiation	10	1	0.24	0.213
+GO:0051701	interaction with host	10	1	0.24	0.213
+GO:0032984	protein-containing complex disassembly	10	1	0.24	0.213
+GO:0044260	cellular macromolecule metabolic process	369	11	8.7	0.218
+GO:0000160	phosphorelay signal transduction system	38	2	0.9	0.225
+GO:1901566	organonitrogen compound biosynthetic pro...	292	9	6.88	0.226
+GO:0071973	bacterial-type flagellum-dependent cell ...	11	1	0.26	0.232
+GO:0006807	nitrogen compound metabolic process	626	17	14.76	0.232
+GO:0019219	regulation of nucleobase-containing comp...	72	3	1.7	0.238
+GO:0042398	cellular modified amino acid biosyntheti...	12	1	0.28	0.250
+GO:0044403	symbiont process	12	1	0.28	0.250
+GO:0006259	DNA metabolic process	74	3	1.74	0.251
+GO:0035556	intracellular signal transduction	41	2	0.97	0.251
+GO:0050789	regulation of biological process	184	6	4.34	0.256
+GO:0097588	archaeal or bacterial-type flagellum-dep...	13	1	0.31	0.268
+GO:0006760	folic acid-containing compound metabolic...	13	1	0.31	0.268
+GO:0050790	regulation of catalytic activity	13	1	0.31	0.268
+GO:0044238	primary metabolic process	682	18	16.08	0.272
+GO:0034645	cellular macromolecule biosynthetic proc...	227	7	5.35	0.275
+GO:0034641	cellular nitrogen compound metabolic pro...	471	13	11.1	0.281
+GO:0009987	cellular process	775	20	18.27	0.286
+GO:0010608	posttranscriptional regulation of gene e...	14	1	0.33	0.286
+GO:0006417	regulation of translation	14	1	0.33	0.286
+GO:0034248	regulation of cellular amide metabolic p...	14	1	0.33	0.286
+GO:0065009	regulation of molecular function	14	1	0.33	0.286
+GO:0009152	purine ribonucleotide biosynthetic proce...	46	2	1.08	0.296
+GO:0000271	polysaccharide biosynthetic process	15	1	0.35	0.303
+GO:0009991	response to extracellular stimulus	15	1	0.35	0.303
+GO:0071496	cellular response to external stimulus	15	1	0.35	0.303
+GO:0031668	cellular response to extracellular stimu...	15	1	0.35	0.303
+GO:0001539	cilium or flagellum-dependent cell motil...	15	1	0.35	0.303
+GO:0006261	DNA-dependent DNA replication	15	1	0.35	0.303
+GO:0065007	biological regulation	197	6	4.64	0.313
+GO:0042558	pteridine-containing compound metabolic ...	16	1	0.38	0.319
+GO:0044419	interspecies interaction between organis...	16	1	0.38	0.319
+GO:0051674	localization of cell	16	1	0.38	0.319
+GO:0048870	cell motility	16	1	0.38	0.319
+GO:0032268	regulation of cellular protein metabolic...	16	1	0.38	0.319
+GO:0006164	purine nucleotide biosynthetic process	49	2	1.16	0.323
+GO:0051171	regulation of nitrogen compound metaboli...	85	3	2	0.324
+GO:0007154	cell communication	86	3	2.03	0.331
+GO:0031323	regulation of cellular metabolic process	86	3	2.03	0.331
+GO:0072522	purine-containing compound biosynthetic ...	50	2	1.18	0.332
+GO:0048518	positive regulation of biological proces...	17	1	0.4	0.336
+GO:0009110	vitamin biosynthetic process	17	1	0.4	0.336
+GO:0051246	regulation of protein metabolic process	17	1	0.4	0.336
+GO:0042364	water-soluble vitamin biosynthetic proce...	17	1	0.4	0.336
+GO:0080090	regulation of primary metabolic process	88	3	2.07	0.344
+GO:0006725	cellular aromatic compound metabolic pro...	407	11	9.6	0.348
+GO:0060255	regulation of macromolecule metabolic pr...	90	3	2.12	0.358
+GO:0016310	phosphorylation	91	3	2.15	0.364
+GO:1901576	organic substance biosynthetic process	453	12	10.68	0.365
+GO:0016051	carbohydrate biosynthetic process	19	1	0.45	0.367
+GO:0045934	negative regulation of nucleobase-contai...	19	1	0.45	0.367
+GO:0044271	cellular nitrogen compound biosynthetic ...	332	9	7.83	0.375
+GO:0036211	protein modification process	55	2	1.3	0.376
+GO:0006464	cellular protein modification process	55	2	1.3	0.376
+GO:1901360	organic cyclic compound metabolic proces...	415	11	9.78	0.378
+GO:0019222	regulation of metabolic process	93	3	2.19	0.378
+GO:0006928	movement of cell or subcellular componen...	20	1	0.47	0.382
+GO:0006766	vitamin metabolic process	20	1	0.47	0.382
+GO:0006767	water-soluble vitamin metabolic process	20	1	0.47	0.382
+GO:0050794	regulation of cellular process	173	5	4.08	0.387
+GO:0006754	ATP biosynthetic process	21	1	0.5	0.397
+GO:0022900	electron transport chain	21	1	0.5	0.397
+GO:0009058	biosynthetic process	462	12	10.89	0.398
+GO:1901564	organonitrogen compound metabolic proces...	465	12	10.96	0.410
+GO:0009260	ribonucleotide biosynthetic process	59	2	1.39	0.410
+GO:0051704	multi-organism process	22	1	0.52	0.412
+GO:0009206	purine ribonucleoside triphosphate biosy...	22	1	0.52	0.412
+GO:0009145	purine nucleoside triphosphate biosynthe...	22	1	0.52	0.412
+GO:0006575	cellular modified amino acid metabolic p...	22	1	0.52	0.412
+GO:0071704	organic substance metabolic process	719	18	16.95	0.413
+GO:0009890	negative regulation of biosynthetic proc...	23	1	0.54	0.426

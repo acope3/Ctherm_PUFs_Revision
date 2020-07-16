@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0071103	DNA conformation change	16	4	1.02	0.015
+GO:0000096	sulfur amino acid metabolic process	17	4	1.09	0.019
+GO:0051276	chromosome organization	18	4	1.15	0.023
+GO:0008033	tRNA processing	28	5	1.79	0.028
+GO:0006928	movement of cell or subcellular componen...	20	4	1.28	0.034
+GO:0009069	serine family amino acid metabolic proce...	13	3	0.83	0.045
+GO:0006220	pyrimidine nucleotide metabolic process	23	4	1.47	0.053
+GO:0051674	localization of cell	16	3	1.02	0.077
+GO:0048870	cell motility	16	3	1.02	0.077
+GO:0006996	organelle organization	37	5	2.36	0.081
+GO:0009451	RNA modification	38	5	2.43	0.089
+GO:0006508	proteolysis	63	7	4.02	0.099
+GO:0006221	pyrimidine nucleotide biosynthetic proce...	19	3	1.21	0.116
+GO:0072527	pyrimidine-containing compound metabolic...	30	4	1.92	0.119
+GO:0006399	tRNA metabolic process	55	6	3.51	0.132
+GO:0006396	RNA processing	57	6	3.64	0.149
+GO:0006414	translational elongation	11	2	0.7	0.152
+GO:0034470	ncRNA processing	45	5	2.87	0.153
+GO:0006400	tRNA modification	22	3	1.4	0.161
+GO:0009220	pyrimidine ribonucleotide biosynthetic p...	12	2	0.77	0.176
+GO:0006807	nitrogen compound metabolic process	626	44	39.97	0.177
+GO:0009119	ribonucleoside metabolic process	73	7	4.66	0.177
+GO:0006790	sulfur compound metabolic process	35	4	2.23	0.179
+GO:0040011	locomotion	35	4	2.23	0.179
+GO:0006281	DNA repair	36	4	2.3	0.193
+GO:0072528	pyrimidine-containing compound biosynthe...	24	3	1.53	0.194
+GO:0046132	pyrimidine ribonucleoside biosynthetic p...	13	2	0.83	0.199
+GO:0046134	pyrimidine nucleoside biosynthetic proce...	13	2	0.83	0.199
+GO:0006555	methionine metabolic process	13	2	0.83	0.199
+GO:1901069	guanosine-containing compound catabolic ...	14	2	0.89	0.223
+GO:0000097	sulfur amino acid biosynthetic process	14	2	0.89	0.223
+GO:0015980	energy derivation by oxidation of organi...	14	2	0.89	0.223
+GO:0009218	pyrimidine ribonucleotide metabolic proc...	14	2	0.89	0.223
+GO:0046039	GTP metabolic process	15	2	0.96	0.248
+GO:0001539	cilium or flagellum-dependent cell motil...	15	2	0.96	0.248
+GO:0046131	pyrimidine ribonucleoside metabolic proc...	15	2	0.96	0.248
+GO:0033554	cellular response to stress	54	5	3.45	0.258
+GO:1901657	glycosyl compound metabolic process	82	7	5.24	0.263
+GO:0009116	nucleoside metabolic process	82	7	5.24	0.263
+GO:0006213	pyrimidine nucleoside metabolic process	16	2	1.02	0.272
+GO:0022402	cell cycle process	16	2	1.02	0.272
+GO:0044419	interspecies interaction between organis...	16	2	1.02	0.272
+GO:0009261	ribonucleotide catabolic process	42	4	2.68	0.278
+GO:0009154	purine ribonucleotide catabolic process	42	4	2.68	0.278
+GO:0009146	purine nucleoside triphosphate catabolic...	42	4	2.68	0.278
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	4	2.68	0.278
+GO:0009207	purine ribonucleoside triphosphate catab...	42	4	2.68	0.278
+GO:0009143	nucleoside triphosphate catabolic proces...	43	4	2.75	0.292
+GO:0046130	purine ribonucleoside catabolic process	43	4	2.75	0.292
+GO:0006195	purine nucleotide catabolic process	43	4	2.75	0.292
+GO:0046128	purine ribonucleoside metabolic process	57	5	3.64	0.296
+GO:0006152	purine nucleoside catabolic process	44	4	2.81	0.307
+GO:0042454	ribonucleoside catabolic process	44	4	2.81	0.307
+GO:0042278	purine nucleoside metabolic process	58	5	3.7	0.309
+GO:0043170	macromolecule metabolic process	465	32	29.69	0.320
+GO:0034660	ncRNA metabolic process	73	6	4.66	0.320
+GO:0072523	purine-containing compound catabolic pro...	45	4	2.87	0.322
+GO:1901658	glycosyl compound catabolic process	45	4	2.87	0.322
+GO:0034656	nucleobase-containing small molecule cat...	45	4	2.87	0.322
+GO:0009164	nucleoside catabolic process	45	4	2.87	0.322
+GO:0006974	cellular response to DNA damage stimulus	45	4	2.87	0.322
+GO:0006259	DNA metabolic process	74	6	4.72	0.332
+GO:0009141	nucleoside triphosphate metabolic proces...	74	6	4.72	0.332
+GO:1901068	guanosine-containing compound metabolic ...	21	2	1.34	0.393
+GO:0043412	macromolecule modification	95	7	6.07	0.404
+GO:0051704	multi-organism process	22	2	1.4	0.416
+GO:0034404	nucleobase-containing small molecule bio...	81	6	5.17	0.416
+GO:1901136	carbohydrate derivative catabolic proces...	52	4	3.32	0.428
+GO:0006310	DNA recombination	23	2	1.47	0.438
+GO:0044272	sulfur compound biosynthetic process	23	2	1.47	0.438
+GO:1901565	organonitrogen compound catabolic proces...	54	4	3.45	0.458
+GO:0009199	ribonucleoside triphosphate metabolic pr...	70	5	4.47	0.468
+GO:0009066	aspartate family amino acid metabolic pr...	25	2	1.6	0.482
+GO:0046049	UMP metabolic process	10	1	0.64	0.485
+GO:0051701	interaction with host	10	1	0.64	0.485
+GO:0009173	pyrimidine ribonucleoside monophosphate ...	10	1	0.64	0.485
+GO:0006413	translational initiation	10	1	0.64	0.485
+GO:0097237	cellular response to toxic substance	10	1	0.64	0.485
+GO:0019954	asexual reproduction	10	1	0.64	0.485
+GO:0032392	DNA geometric change	10	1	0.64	0.485
+GO:0019692	deoxyribose phosphate metabolic process	10	1	0.64	0.485
+GO:0044282	small molecule catabolic process	56	4	3.58	0.487
+GO:1901605	alpha-amino acid metabolic process	87	6	5.56	0.487
+GO:0019538	protein metabolic process	228	15	14.56	0.497
+GO:0009166	nucleotide catabolic process	57	4	3.64	0.501
+GO:1901292	nucleoside phosphate catabolic process	57	4	3.64	0.501
+GO:0051716	cellular response to stimulus	135	9	8.62	0.502
+GO:0009064	glutamine family amino acid metabolic pr...	26	2	1.66	0.504
+GO:0009987	cellular process	775	50	49.48	0.507
+GO:0090305	nucleic acid phosphodiester bond hydroly...	42	3	2.68	0.511
+GO:0090304	nucleic acid metabolic process	230	15	14.69	0.513
+GO:0043254	regulation of protein complex assembly	11	1	0.7	0.518
+GO:0042592	homeostatic process	11	1	0.7	0.518
+GO:0071973	bacterial-type flagellum-dependent cell ...	11	1	0.7	0.518
+GO:0051641	cellular localization	11	1	0.7	0.518
+GO:0009086	methionine biosynthetic process	11	1	0.7	0.518
+GO:2000142	regulation of DNA-templated transcriptio...	11	1	0.7	0.518
+GO:0009142	nucleoside triphosphate biosynthetic pro...	27	2	1.72	0.524
+GO:0042455	ribonucleoside biosynthetic process	27	2	1.72	0.524
+GO:0010467	gene expression	232	15	14.81	0.528

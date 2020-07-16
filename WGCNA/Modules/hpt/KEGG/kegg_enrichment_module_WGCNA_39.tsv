@@ -1,0 +1,6 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00003	Gluconeogenesis, oxaloacetate => fructose-6P	1/4	10/317	0.120883000256847	0.20753666750514	0.20753666750514	Clo1313_2090	1
+M00009	Citrate cycle (TCA cycle, Krebs cycle)	1/4	10/317	0.120883000256847	0.20753666750514	0.20753666750514	Clo1313_1354	1
+M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	1/4	14/317	0.166029334004112	0.20753666750514	0.20753666750514	Clo1313_2090	1
+M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	1/4	14/317	0.166029334004112	0.20753666750514	0.20753666750514	Clo1313_1354	1
+M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	1/4	19/317	0.219990497145638	0.219990497145638	0.219990497145638	Clo1313_1354	1

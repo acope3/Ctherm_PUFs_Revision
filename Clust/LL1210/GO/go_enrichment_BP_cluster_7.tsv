@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006526	arginine biosynthetic process	11	3	0.27	0.0019
+GO:0016070	RNA metabolic process	159	7	3.9	0.0804
+GO:0006364	rRNA processing	21	2	0.52	0.0915
+GO:0042330	taxis	21	2	0.52	0.0915
+GO:0034470	ncRNA processing	45	3	1.11	0.0941
+GO:0034660	ncRNA metabolic process	73	4	1.79	0.0977
+GO:0016072	rRNA metabolic process	23	2	0.56	0.1070
+GO:0032259	methylation	53	3	1.3	0.1366
+GO:0006396	RNA processing	57	3	1.4	0.1601
+GO:0016310	phosphorylation	91	4	2.23	0.1779
+GO:0010467	gene expression	232	8	5.7	0.1891
+GO:0042254	ribosome biogenesis	34	2	0.83	0.2018
+GO:0040011	locomotion	35	2	0.86	0.2110
+GO:0071554	cell wall organization or biogenesis	36	2	0.88	0.2202
+GO:0022613	ribonucleoprotein complex biogenesis	36	2	0.88	0.2202
+GO:0031167	rRNA methylation	10	1	0.25	0.2210
+GO:0009112	nucleobase metabolic process	10	1	0.25	0.2210
+GO:0051173	positive regulation of nitrogen compound...	10	1	0.25	0.2210
+GO:0031325	positive regulation of cellular metaboli...	10	1	0.25	0.2210
+GO:0019318	hexose metabolic process	10	1	0.25	0.2210
+GO:0009451	RNA modification	38	2	0.93	0.2387
+GO:0010604	positive regulation of macromolecule met...	11	1	0.27	0.2403
+GO:0009893	positive regulation of metabolic process	11	1	0.27	0.2403
+GO:0009086	methionine biosynthetic process	11	1	0.27	0.2403
+GO:0010628	positive regulation of gene expression	11	1	0.27	0.2403
+GO:0042592	homeostatic process	11	1	0.27	0.2403
+GO:0044085	cellular component biogenesis	105	4	2.58	0.2525
+GO:0006351	transcription, DNA-templated	72	3	1.77	0.2574
+GO:0048522	positive regulation of cellular process	12	1	0.29	0.2592
+GO:0006352	DNA-templated transcription, initiation	12	1	0.29	0.2592
+GO:0005996	monosaccharide metabolic process	12	1	0.29	0.2592
+GO:0097659	nucleic acid-templated transcription	73	3	1.79	0.2642
+GO:0000154	rRNA modification	13	1	0.32	0.2776
+GO:0009069	serine family amino acid metabolic proce...	13	1	0.32	0.2776
+GO:0006555	methionine metabolic process	13	1	0.32	0.2776
+GO:0046132	pyrimidine ribonucleoside biosynthetic p...	13	1	0.32	0.2776
+GO:0050790	regulation of catalytic activity	13	1	0.32	0.2776
+GO:0046134	pyrimidine nucleoside biosynthetic proce...	13	1	0.32	0.2776
+GO:0032774	RNA biosynthetic process	77	3	1.89	0.2919
+GO:0009605	response to external stimulus	44	2	1.08	0.2946
+GO:0000097	sulfur amino acid biosynthetic process	14	1	0.34	0.2956
+GO:0015980	energy derivation by oxidation of organi...	14	1	0.34	0.2956
+GO:0065009	regulation of molecular function	14	1	0.34	0.2956
+GO:0046131	pyrimidine ribonucleoside metabolic proc...	15	1	0.37	0.3131
+GO:0090304	nucleic acid metabolic process	230	7	5.65	0.3276
+GO:0006213	pyrimidine nucleoside metabolic process	16	1	0.39	0.3302
+GO:0051260	protein homooligomerization	16	1	0.39	0.3302
+GO:0001510	RNA methylation	17	1	0.42	0.3469
+GO:0000096	sulfur amino acid metabolic process	17	1	0.42	0.3469
+GO:0048518	positive regulation of biological proces...	17	1	0.42	0.3469
+GO:1901136	carbohydrate derivative catabolic proces...	52	2	1.28	0.3686
+GO:0051259	protein complex oligomerization	19	1	0.47	0.3792
+GO:0016051	carbohydrate biosynthetic process	19	1	0.47	0.3792
+GO:0006935	chemotaxis	20	1	0.49	0.3947
+GO:0006399	tRNA metabolic process	55	2	1.35	0.3957
+GO:0009067	aspartate family amino acid biosynthetic...	21	1	0.52	0.4099
+GO:0022900	electron transport chain	21	1	0.52	0.4099
+GO:0009273	peptidoglycan-based cell wall biogenesis	21	1	0.52	0.4099
+GO:0005975	carbohydrate metabolic process	95	3	2.33	0.4177
+GO:0042546	cell wall biogenesis	22	1	0.54	0.4247
+GO:0006400	tRNA modification	22	1	0.54	0.4247
+GO:0044272	sulfur compound biosynthetic process	23	1	0.56	0.4391
+GO:0006418	tRNA aminoacylation for protein translat...	23	1	0.56	0.4391
+GO:0006090	pyruvate metabolic process	23	1	0.56	0.4391
+GO:0043414	macromolecule methylation	23	1	0.56	0.4391
+GO:0072528	pyrimidine-containing compound biosynthe...	24	1	0.59	0.4532
+GO:0043038	amino acid activation	24	1	0.59	0.4532
+GO:0043039	tRNA aminoacylation	24	1	0.59	0.4532
+GO:0006355	regulation of transcription, DNA-templat...	63	2	1.55	0.4656
+GO:0006508	proteolysis	63	2	1.55	0.4656
+GO:0009066	aspartate family amino acid metabolic pr...	25	1	0.61	0.4670
+GO:1903506	regulation of nucleic acid-templated tra...	64	2	1.57	0.4741
+GO:2001141	regulation of RNA biosynthetic process	64	2	1.57	0.4741
+GO:0050789	regulation of biological process	184	5	4.52	0.4820
+GO:0071840	cellular component organization or bioge...	145	4	3.56	0.4868
+GO:0042455	ribonucleoside biosynthetic process	27	1	0.66	0.4935
+GO:0051252	regulation of RNA metabolic process	67	2	1.65	0.4990
+GO:0009163	nucleoside biosynthetic process	28	1	0.69	0.5063
+GO:1901659	glycosyl compound biosynthetic process	28	1	0.69	0.5063
+GO:0008033	tRNA processing	28	1	0.69	0.5063
+GO:0072527	pyrimidine-containing compound metabolic...	30	1	0.74	0.5309
+GO:0008610	lipid biosynthetic process	30	1	0.74	0.5309
+GO:0007165	signal transduction	71	2	1.74	0.5310
+GO:0023052	signaling	71	2	1.74	0.5310
+GO:0019219	regulation of nucleobase-containing comp...	72	2	1.77	0.5389
+GO:0044036	cell wall macromolecule metabolic proces...	31	1	0.76	0.5428
+GO:0044237	cellular metabolic process	684	18	16.8	0.5468
+GO:0065007	biological regulation	197	5	4.84	0.5487
+GO:2000112	regulation of cellular macromolecule bio...	74	2	1.82	0.5542
+GO:0009987	cellular process	775	20	19.03	0.5549
+GO:0031326	regulation of cellular biosynthetic proc...	76	2	1.87	0.5693
+GO:0010556	regulation of macromolecule biosynthetic...	76	2	1.87	0.5693
+GO:0009889	regulation of biosynthetic process	77	2	1.89	0.5767
+GO:0040007	growth	120	3	2.95	0.5809
+GO:0000272	polysaccharide catabolic process	35	1	0.86	0.5874
+GO:0006790	sulfur compound metabolic process	35	1	0.86	0.5874
+GO:1901575	organic substance catabolic process	122	3	3	0.5929
+GO:0010468	regulation of gene expression	81	2	1.99	0.6054
+GO:0009056	catabolic process	125	3	3.07	0.6104
+GO:0065008	regulation of biological quality	38	1	0.93	0.6181

@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Rank in elimKS	classicKS	elimKS	weight01KS
+GO:0040011	locomotion	50	28	12.6	335	3.2e-05	0.69378	0.89830
+GO:0097588	archaeal or bacterial-type flagellum-dep...	22	15	5.54	66	0.00015	0.09163	0.09163
+GO:0001539	cilium or flagellum-dependent cell motil...	25	16	6.3	109	0.00028	0.18159	0.62433
+GO:0006935	chemotaxis	25	15	6.3	1	0.00048	0.00048	0.00048
+GO:0048870	cell motility	26	16	6.55	193	0.00054	0.39151	0.90994
+GO:0051674	localization of cell	27	16	6.8	255	0.00102	0.51762	0.89852
+GO:0071973	bacterial-type flagellum-dependent cell ...	20	13	5.04	2	0.00105	0.00105	0.00105
+GO:0042330	taxis	26	15	6.55	538	0.00117	0.96643	0.96643
+GO:0006928	movement of cell or subcellular componen...	32	18	8.06	175	0.00124	0.34426	0.58521
+GO:0046390	ribose phosphate biosynthetic process	68	21	17.14	133	0.00273	0.24255	0.24255
+GO:0072522	purine-containing compound biosynthetic ...	58	18	14.62	132	0.00337	0.24153	0.49117
+GO:0009201	ribonucleoside triphosphate biosynthetic...	26	7	6.55	96	0.00426	0.15178	0.15178
+GO:0009260	ribonucleotide biosynthetic process	66	20	16.63	3	0.00475	0.00475	0.99611
+GO:0006164	purine nucleotide biosynthetic process	56	17	14.11	4	0.00599	0.00599	0.06902
+GO:0009156	ribonucleoside monophosphate biosyntheti...	50	13	12.6	5	0.00775	0.00775	0.76737
+GO:0006576	cellular biogenic amine metabolic proces...	11	5	2.77	6	0.00809	0.00809	0.16373
+GO:0009308	amine metabolic process	11	5	2.77	696	0.00809	1.00000	1.00000
+GO:0044106	cellular amine metabolic process	11	5	2.77	697	0.00809	1.00000	1.00000
+GO:0009145	purine nucleoside triphosphate biosynthe...	24	6	6.05	698	0.00880	1.00000	1.00000
+GO:0009206	purine ribonucleoside triphosphate biosy...	24	6	6.05	7	0.00880	0.00880	0.62556
+GO:0009092	homoserine metabolic process	5	4	1.26	8	0.01040	0.01040	0.01040
+GO:0016054	organic acid catabolic process	6	5	1.51	9	0.01059	0.01059	1.00000
+GO:0046395	carboxylic acid catabolic process	6	5	1.51	10	0.01059	0.01059	0.01059
+GO:0007165	signal transduction	94	33	23.69	11	0.01175	0.01175	0.00019
+GO:0023052	signaling	94	33	23.69	12	0.01175	0.01175	1.00000
+GO:0006754	ATP biosynthetic process	23	6	5.8	13	0.01258	0.01258	0.71415
+GO:0006633	fatty acid biosynthetic process	12	6	3.02	14	0.01261	0.01261	0.01261
+GO:0009152	purine ribonucleotide biosynthetic proce...	53	16	13.36	15	0.01375	0.01375	0.25298
+GO:0009142	nucleoside triphosphate biosynthetic pro...	29	7	7.31	322	0.01616	0.66088	1.00000
+GO:0051716	cellular response to stimulus	169	54	42.59	16	0.01666	0.01666	0.25574
+GO:0007154	cell communication	112	38	28.22	17	0.01786	0.01786	0.23767
+GO:0009124	nucleoside monophosphate biosynthetic pr...	55	14	13.86	447	0.02263	0.88395	1.00000
+GO:0009185	ribonucleoside diphosphate metabolic pro...	19	6	4.79	18	0.02364	0.02364	0.24683
+GO:0009127	purine nucleoside monophosphate biosynth...	39	10	9.83	19	0.02491	0.02491	1.00000
+GO:0009168	purine ribonucleoside monophosphate bios...	39	10	9.83	20	0.02491	0.02491	0.18670
+GO:0009165	nucleotide biosynthetic process	87	23	21.92	486	0.02967	0.93657	0.85293
+GO:0071554	cell wall organization or biogenesis	43	11	10.84	21	0.03044	0.03044	1.00000
+GO:0009135	purine nucleoside diphosphate metabolic ...	18	5	4.54	22	0.03294	0.03294	1.00000
+GO:0009179	purine ribonucleoside diphosphate metabo...	18	5	4.54	23	0.03294	0.03294	0.49228
+GO:0046939	nucleotide phosphorylation	18	6	4.54	24	0.03294	0.03294	0.49228
+GO:0006084	acetyl-CoA metabolic process	7	4	1.76	25	0.03300	0.03300	1.00000
+GO:0006085	acetyl-CoA biosynthetic process	7	4	1.76	26	0.03300	0.03300	0.03032
+GO:0006637	acyl-CoA metabolic process	7	4	1.76	27	0.03300	0.03300	1.00000
+GO:0035384	thioester biosynthetic process	7	4	1.76	28	0.03300	0.03300	1.00000
+GO:0071616	acyl-CoA biosynthetic process	7	4	1.76	29	0.03300	0.03300	1.00000
+GO:0048583	regulation of response to stimulus	11	3	2.77	30	0.03442	0.03442	0.53957
+GO:0009064	glutamine family amino acid metabolic pr...	26	8	6.55	31	0.03448	0.03448	1.00000
+GO:0009220	pyrimidine ribonucleotide biosynthetic p...	12	4	3.02	32	0.03556	0.03556	0.24976
+GO:0015985	energy coupled proton transport, down el...	7	3	1.76	33	0.03616	0.03616	0.23509
+GO:1902600	proton transmembrane transport	7	3	1.76	34	0.03616	0.03616	1.00000
+GO:0042455	ribonucleoside biosynthetic process	29	10	7.31	35	0.03714	0.03714	0.73155
+GO:0009605	response to external stimulus	55	20	13.86	441	0.03737	0.88005	0.62352
+GO:0009132	nucleoside diphosphate metabolic process	21	6	5.29	36	0.04053	0.04053	0.92124
+GO:1901293	nucleoside phosphate biosynthetic proces...	88	23	22.18	491	0.04245	0.93984	1.00000
+GO:0006165	nucleoside diphosphate phosphorylation	16	5	4.03	37	0.04349	0.04349	0.39393
+GO:0046031	ADP metabolic process	16	5	4.03	38	0.04349	0.04349	0.43549
+GO:0080134	regulation of response to stress	7	2	1.76	39	0.04531	0.04531	0.04531
+GO:0055114	oxidation-reduction process	176	53	44.35	40	0.04779	0.04779	0.03167
+GO:0090407	organophosphate biosynthetic process	111	31	27.97	429	0.04791	0.86163	0.38017
+GO:0009084	glutamine family amino acid biosynthetic...	16	5	4.03	41	0.04932	0.04932	0.17645
+GO:0009309	amine biosynthetic process	8	2	2.02	42	0.04967	0.04967	1.00000
+GO:0042401	cellular biogenic amine biosynthetic pro...	8	2	2.02	43	0.04967	0.04967	0.08823
+GO:0035383	thioester metabolic process	8	5	2.02	44	0.04994	0.04994	0.27023
+GO:0098754	detoxification	10	4	2.52	45	0.05374	0.05374	0.26839
+GO:0015986	ATP synthesis coupled proton transport	6	2	1.51	46	0.05823	0.05823	0.05823
+GO:1901137	carbohydrate derivative biosynthetic pro...	117	28	29.48	440	0.05839	0.87937	0.73492
+GO:0044036	cell wall macromolecule metabolic proces...	36	10	9.07	47	0.06118	0.06118	0.24755
+GO:0019319	hexose biosynthetic process	5	1	1.26	48	0.06350	0.06350	0.06350
+GO:0046364	monosaccharide biosynthetic process	5	1	1.26	49	0.06350	0.06350	1.00000
+GO:0009163	nucleoside biosynthetic process	30	10	7.56	50	0.06808	0.06808	0.99974
+GO:1901659	glycosyl compound biosynthetic process	30	10	7.56	51	0.06808	0.06808	1.00000
+GO:0033865	nucleoside bisphosphate metabolic proces...	14	7	3.53	52	0.07006	0.07006	1.00000
+GO:0033875	ribonucleoside bisphosphate metabolic pr...	14	7	3.53	53	0.07006	0.07006	0.62503
+GO:0034032	purine nucleoside bisphosphate metabolic...	14	7	3.53	54	0.07006	0.07006	0.62503
+GO:0098662	inorganic cation transmembrane transport	14	6	3.53	55	0.07174	0.07174	0.33229
+GO:0098869	cellular oxidant detoxification	9	3	2.27	56	0.07214	0.07214	0.07214
+GO:1990748	cellular detoxification	9	3	2.27	57	0.07214	0.07214	1.00000
+GO:0009423	chorismate biosynthetic process	6	3	1.51	58	0.07592	0.07592	0.07592
+GO:0072511	divalent inorganic cation transport	7	4	1.76	59	0.08436	0.08436	0.08436
+GO:0032787	monocarboxylic acid metabolic process	60	21	15.12	60	0.08493	0.08493	0.31752
+GO:0006096	glycolytic process	14	4	3.53	61	0.08774	0.08774	0.08774
+GO:0006757	ATP generation from ADP	14	4	3.53	62	0.08774	0.08774	1.00000
+GO:0042866	pyruvate biosynthetic process	14	4	3.53	63	0.08774	0.08774	1.00000
+GO:0006586	indolalkylamine metabolic process	7	3	1.76	64	0.08960	0.08960	1.00000
+GO:0042430	indole-containing compound metabolic pro...	7	3	1.76	65	0.08960	0.08960	1.00000
+GO:0000272	polysaccharide catabolic process	49	18	12.35	67	0.09199	0.09199	0.05770
+GO:0046132	pyrimidine ribonucleoside biosynthetic p...	13	4	3.28	68	0.09317	0.09317	0.65343
+GO:0046134	pyrimidine nucleoside biosynthetic proce...	13	4	3.28	69	0.09317	0.09317	1.00000
+GO:0006541	glutamine metabolic process	13	5	3.28	70	0.09490	0.09490	0.09490
+GO:0050896	response to stimulus	214	63	53.93	267	0.09540	0.54275	0.79551
+GO:0033866	nucleoside bisphosphate biosynthetic pro...	12	6	3.02	71	0.09800	0.09800	1.00000
+GO:0034030	ribonucleoside bisphosphate biosynthetic...	12	6	3.02	72	0.09800	0.09800	1.00000
+GO:0034033	purine nucleoside bisphosphate biosynthe...	12	6	3.02	73	0.09800	0.09800	1.00000
+GO:0048584	positive regulation of response to stimu...	5	2	1.26	74	0.09894	0.09894	0.09894
+GO:0009069	serine family amino acid metabolic proce...	15	6	3.78	75	0.10164	0.10164	1.00000
+GO:0006090	pyruvate metabolic process	27	9	6.8	76	0.10760	0.10760	0.73777
+GO:0006022	aminoglycan metabolic process	24	4	6.05	77	0.10782	0.10782	0.73050
+GO:0042451	purine nucleoside biosynthetic process	13	5	3.28	78	0.10796	0.10796	1.00000
+GO:0046129	purine ribonucleoside biosynthetic proce...	13	5	3.28	79	0.10796	0.10796	0.10796
+GO:0016052	carbohydrate catabolic process	70	23	17.64	80	0.11113	0.11113	0.54821

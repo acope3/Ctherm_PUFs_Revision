@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0045934	negative regulation of nucleobase-contai...	16	2	0.22	0.019
+GO:0042221	response to chemical	62	3	0.86	0.050
+GO:0051172	negative regulation of nitrogen compound...	27	2	0.38	0.052
+GO:0031324	negative regulation of cellular metaboli...	27	2	0.38	0.052
+GO:0048523	negative regulation of cellular process	28	2	0.39	0.055
+GO:0055114	oxidation-reduction process	160	5	2.22	0.058
+GO:0009892	negative regulation of metabolic process	29	2	0.4	0.059
+GO:0010605	negative regulation of macromolecule met...	29	2	0.4	0.059
+GO:0006812	cation transport	30	2	0.42	0.063
+GO:0048519	negative regulation of biological proces...	30	2	0.42	0.063
+GO:0006811	ion transport	40	2	0.56	0.104
+GO:0008299	isoprenoid biosynthetic process	10	1	0.14	0.131
+GO:0046677	response to antibiotic	10	1	0.14	0.131
+GO:0009112	nucleobase metabolic process	10	1	0.14	0.131
+GO:0006720	isoprenoid metabolic process	10	1	0.14	0.131
+GO:0030031	cell projection assembly	11	1	0.15	0.143
+GO:0009308	amine metabolic process	11	1	0.15	0.143
+GO:0009266	response to temperature stimulus	11	1	0.15	0.143
+GO:0006576	cellular biogenic amine metabolic proces...	11	1	0.15	0.143
+GO:0044106	cellular amine metabolic process	11	1	0.15	0.143
+GO:1903507	negative regulation of nucleic acid-temp...	12	1	0.17	0.155
+GO:1902679	negative regulation of RNA biosynthetic ...	12	1	0.17	0.155
+GO:0045892	negative regulation of transcription, DN...	12	1	0.17	0.155
+GO:0015672	monovalent inorganic cation transport	12	1	0.17	0.155
+GO:0042180	cellular ketone metabolic process	12	1	0.17	0.155
+GO:0009605	response to external stimulus	52	2	0.72	0.160
+GO:0006979	response to oxidative stress	13	1	0.18	0.167
+GO:0051253	negative regulation of RNA metabolic pro...	13	1	0.18	0.167
+GO:0044781	bacterial-type flagellum organization	13	1	0.18	0.167
+GO:0098662	inorganic cation transmembrane transport	13	1	0.18	0.167
+GO:0008654	phospholipid biosynthetic process	14	1	0.19	0.179
+GO:0050790	regulation of catalytic activity	14	1	0.19	0.179
+GO:0098660	inorganic ion transmembrane transport	14	1	0.19	0.179
+GO:0006810	transport	109	3	1.51	0.187
+GO:0030030	cell projection organization	15	1	0.21	0.190
+GO:0030001	metal ion transport	15	1	0.21	0.190
+GO:0065009	regulation of molecular function	15	1	0.21	0.190
+GO:0006644	phospholipid metabolic process	15	1	0.21	0.190
+GO:0051234	establishment of localization	111	3	1.54	0.194
+GO:0042558	pteridine-containing compound metabolic ...	16	1	0.22	0.202
+GO:0033554	cellular response to stress	61	2	0.85	0.206
+GO:0009636	response to toxic substance	17	1	0.24	0.213
+GO:0071496	cellular response to external stimulus	18	1	0.25	0.224
+GO:0031668	cellular response to extracellular stimu...	18	1	0.25	0.224
+GO:0098655	cation transmembrane transport	19	1	0.26	0.235
+GO:0009991	response to extracellular stimulus	19	1	0.26	0.235
+GO:0022607	cellular component assembly	68	2	0.94	0.243
+GO:0015031	protein transport	20	1	0.28	0.246
+GO:2000113	negative regulation of cellular macromol...	20	1	0.28	0.246
+GO:0009890	negative regulation of biosynthetic proc...	20	1	0.28	0.246
+GO:0070925	organelle assembly	20	1	0.28	0.246
+GO:0010558	negative regulation of macromolecule bio...	20	1	0.28	0.246
+GO:0031327	negative regulation of cellular biosynth...	20	1	0.28	0.246
+GO:0045184	establishment of protein localization	21	1	0.29	0.257
+GO:0033036	macromolecule localization	21	1	0.29	0.257
+GO:0008104	protein localization	21	1	0.29	0.257
+GO:0070887	cellular response to chemical stimulus	21	1	0.29	0.257
+GO:0019219	regulation of nucleobase-containing comp...	71	2	0.99	0.259
+GO:0051179	localization	132	3	1.83	0.274
+GO:0010629	negative regulation of gene expression	23	1	0.32	0.277
+GO:0009628	response to abiotic stimulus	23	1	0.32	0.277
+GO:0015833	peptide transport	24	1	0.33	0.288
+GO:0006766	vitamin metabolic process	24	1	0.33	0.288
+GO:0006767	water-soluble vitamin metabolic process	24	1	0.33	0.288
+GO:0042886	amide transport	24	1	0.33	0.288
+GO:0044281	small molecule metabolic process	329	6	4.57	0.291
+GO:0006090	pyruvate metabolic process	25	1	0.35	0.298
+GO:0034220	ion transmembrane transport	25	1	0.35	0.298
+GO:0006935	chemotaxis	25	1	0.35	0.298
+GO:0009073	aromatic amino acid family biosynthetic ...	25	1	0.35	0.298
+GO:0042330	taxis	26	1	0.36	0.308
+GO:0018193	peptidyl-amino acid modification	27	1	0.38	0.318
+GO:0009072	aromatic amino acid family metabolic pro...	27	1	0.38	0.318
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	1	0.39	0.327
+GO:0009116	nucleoside metabolic process	84	2	1.17	0.328
+GO:1901657	glycosyl compound metabolic process	84	2	1.17	0.328
+GO:0051171	regulation of nitrogen compound metaboli...	85	2	1.18	0.333
+GO:0009125	nucleoside monophosphate catabolic proce...	29	1	0.4	0.337
+GO:0009128	purine nucleoside monophosphate cataboli...	29	1	0.4	0.337
+GO:0009169	purine ribonucleoside monophosphate cata...	29	1	0.4	0.337
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	1	0.4	0.337
+GO:0031323	regulation of cellular metabolic process	86	2	1.19	0.338
+GO:0051716	cellular response to stimulus	150	3	2.08	0.347
+GO:0080090	regulation of primary metabolic process	88	2	1.22	0.349
+GO:0060255	regulation of macromolecule metabolic pr...	90	2	1.25	0.360
+GO:0006950	response to stress	91	2	1.26	0.365
+GO:0008610	lipid biosynthetic process	32	1	0.44	0.365
+GO:0071705	nitrogen compound transport	33	1	0.46	0.374
+GO:0019222	regulation of metabolic process	93	2	1.29	0.375
+GO:0072527	pyrimidine-containing compound metabolic...	34	1	0.47	0.383
+GO:0007049	cell cycle	35	1	0.49	0.392
+GO:0007154	cell communication	98	2	1.36	0.401
+GO:0017144	drug metabolic process	98	2	1.36	0.401
+GO:0005975	carbohydrate metabolic process	100	2	1.39	0.412
+GO:0071702	organic substance transport	38	1	0.53	0.418
+GO:0051301	cell division	38	1	0.53	0.418
+GO:0044255	cellular lipid metabolic process	40	1	0.56	0.434
+GO:0009261	ribonucleotide catabolic process	42	1	0.58	0.451
+GO:0009146	purine nucleoside triphosphate catabolic...	42	1	0.58	0.451
+GO:0006629	lipid metabolic process	42	1	0.58	0.451

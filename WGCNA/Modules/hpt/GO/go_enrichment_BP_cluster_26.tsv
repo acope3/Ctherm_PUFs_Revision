@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0023014	signal transduction by protein phosphory...	11	3	0.21	0.00095
+GO:0008654	phospholipid biosynthetic process	14	3	0.27	0.00201
+GO:0018106	peptidyl-histidine phosphorylation	16	3	0.31	0.00302
+GO:0009066	aspartate family amino acid metabolic pr...	26	3	0.51	0.01236
+GO:0071554	cell wall organization or biogenesis	37	3	0.72	0.03218
+GO:0071555	cell wall organization	16	2	0.31	0.03669
+GO:0045229	external encapsulating structure organiz...	16	2	0.31	0.03669
+GO:0000160	phosphorelay signal transduction system	43	3	0.84	0.04741
+GO:0035556	intracellular signal transduction	47	3	0.91	0.05925
+GO:0009067	aspartate family amino acid biosynthetic...	21	2	0.41	0.06057
+GO:0019362	pyridine nucleotide metabolic process	23	2	0.45	0.07129
+GO:0009628	response to abiotic stimulus	23	2	0.45	0.07129
+GO:0046496	nicotinamide nucleotide metabolic proces...	23	2	0.45	0.07129
+GO:0009605	response to external stimulus	52	3	1.01	0.07587
+GO:0072524	pyridine-containing compound metabolic p...	24	2	0.47	0.07688
+GO:0040007	growth	123	5	2.39	0.08042
+GO:0043648	dicarboxylic acid metabolic process	25	2	0.49	0.08260
+GO:0006935	chemotaxis	25	2	0.49	0.08260
+GO:1901605	alpha-amino acid metabolic process	88	4	1.71	0.08443
+GO:0042330	taxis	26	2	0.51	0.08845
+GO:0006733	oxidoreduction coenzyme metabolic proces...	28	2	0.54	0.10052
+GO:0042221	response to chemical	62	3	1.21	0.11463
+GO:0044036	cell wall macromolecule metabolic proces...	31	2	0.6	0.11945
+GO:0006464	cellular protein modification process	60	5	1.17	0.15106
+GO:0036211	protein modification process	60	5	1.17	0.15106
+GO:0051128	regulation of cellular component organiz...	36	2	0.7	0.15281
+GO:1901607	alpha-amino acid biosynthetic process	71	3	1.38	0.15493
+GO:0018193	peptidyl-amino acid modification	27	4	0.52	0.17186
+GO:0046394	carboxylic acid biosynthetic process	115	4	2.24	0.17699
+GO:0008299	isoprenoid biosynthetic process	10	1	0.19	0.17897
+GO:0046677	response to antibiotic	10	1	0.19	0.17897
+GO:0022411	cellular component disassembly	10	1	0.19	0.17897
+GO:0019318	hexose metabolic process	10	1	0.19	0.17897
+GO:0009225	nucleotide-sugar metabolic process	10	1	0.19	0.17897
+GO:0006720	isoprenoid metabolic process	10	1	0.19	0.17897
+GO:0043094	cellular metabolic compound salvage	10	1	0.19	0.17897
+GO:0032984	protein-containing complex disassembly	10	1	0.19	0.17897
+GO:0016053	organic acid biosynthetic process	116	4	2.26	0.18098
+GO:0009266	response to temperature stimulus	11	1	0.21	0.19508
+GO:0044265	cellular macromolecule catabolic process	11	1	0.21	0.19508
+GO:0009082	branched-chain amino acid biosynthetic p...	11	1	0.21	0.19508
+GO:0009086	methionine biosynthetic process	11	1	0.21	0.19508
+GO:0048583	regulation of response to stimulus	11	1	0.21	0.19508
+GO:0009081	branched-chain amino acid metabolic proc...	12	1	0.23	0.21089
+GO:0006414	translational elongation	12	1	0.23	0.21089
+GO:0008652	cellular amino acid biosynthetic process	84	3	1.63	0.21999
+GO:0006520	cellular amino acid metabolic process	126	4	2.45	0.22257
+GO:0006555	methionine metabolic process	13	1	0.25	0.22641
+GO:0033692	cellular polysaccharide biosynthetic pro...	13	1	0.25	0.22641
+GO:0034637	cellular carbohydrate biosynthetic proce...	13	1	0.25	0.22641
+GO:0040011	locomotion	47	2	0.91	0.23134
+GO:0005996	monosaccharide metabolic process	14	1	0.27	0.24163
+GO:0016311	dephosphorylation	14	1	0.27	0.24163
+GO:0009069	serine family amino acid metabolic proce...	14	1	0.27	0.24163
+GO:0050790	regulation of catalytic activity	14	1	0.27	0.24163
+GO:0051260	protein homooligomerization	15	1	0.29	0.25657
+GO:0065009	regulation of molecular function	15	1	0.29	0.25657
+GO:0000097	sulfur amino acid biosynthetic process	15	1	0.29	0.25657
+GO:1901564	organonitrogen compound metabolic proces...	500	13	9.72	0.26034
+GO:0005976	polysaccharide metabolic process	51	2	0.99	0.26081
+GO:0019752	carboxylic acid metabolic process	181	5	3.52	0.26759
+GO:0009057	macromolecule catabolic process	52	2	1.01	0.26821
+GO:0000271	polysaccharide biosynthetic process	16	1	0.31	0.27123
+GO:0008360	regulation of cell shape	16	1	0.31	0.27123
+GO:0022604	regulation of cell morphogenesis	16	1	0.31	0.27123
+GO:0006631	fatty acid metabolic process	16	1	0.31	0.27123
+GO:0043436	oxoacid metabolic process	182	5	3.54	0.27158
+GO:0006082	organic acid metabolic process	184	5	3.58	0.27961
+GO:0009252	peptidoglycan biosynthetic process	17	1	0.33	0.28562
+GO:0006023	aminoglycan biosynthetic process	17	1	0.33	0.28562
+GO:0006024	glycosaminoglycan biosynthetic process	17	1	0.33	0.28562
+GO:0016052	carbohydrate catabolic process	55	2	1.07	0.29042
+GO:0043933	protein-containing complex subunit organ...	56	2	1.09	0.29783
+GO:0048518	positive regulation of biological proces...	18	1	0.35	0.29973
+GO:0051259	protein complex oligomerization	18	1	0.35	0.29973
+GO:0000096	sulfur amino acid metabolic process	18	1	0.35	0.29973
+GO:0005975	carbohydrate metabolic process	100	3	1.94	0.30690
+GO:0030203	glycosaminoglycan metabolic process	19	1	0.37	0.31358
+GO:0000270	peptidoglycan metabolic process	19	1	0.37	0.31358
+GO:0022603	regulation of anatomical structure morph...	19	1	0.37	0.31358
+GO:0000902	cell morphogenesis	19	1	0.37	0.31358
+GO:0009991	response to extracellular stimulus	19	1	0.37	0.31358
+GO:0032989	cellular component morphogenesis	19	1	0.37	0.31358
+GO:0044038	cell wall macromolecule biosynthetic pro...	20	1	0.39	0.32716
+GO:0070589	cellular component macromolecule biosynt...	20	1	0.39	0.32716
+GO:0050793	regulation of developmental process	20	1	0.39	0.32716
+GO:0006022	aminoglycan metabolic process	20	1	0.39	0.32716
+GO:0044267	cellular protein metabolic process	190	7	3.69	0.32743
+GO:0019363	pyridine nucleotide biosynthetic process	21	1	0.41	0.34049
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	21	1	0.41	0.34049
+GO:0016051	carbohydrate biosynthetic process	21	1	0.41	0.34049
+GO:0009273	peptidoglycan-based cell wall biogenesis	21	1	0.41	0.34049
+GO:0070887	cellular response to chemical stimulus	21	1	0.41	0.34049
+GO:0006355	regulation of transcription, DNA-templat...	62	2	1.21	0.34205
+GO:2001141	regulation of RNA biosynthetic process	63	2	1.23	0.34937
+GO:1903506	regulation of nucleic acid-templated tra...	63	2	1.23	0.34937
+GO:0042546	cell wall biogenesis	22	1	0.43	0.35357
+GO:0072525	pyridine-containing compound biosyntheti...	22	1	0.43	0.35357
+GO:0071840	cellular component organization or bioge...	155	4	3.01	0.35537
+GO:0006732	coenzyme metabolic process	64	2	1.24	0.35667

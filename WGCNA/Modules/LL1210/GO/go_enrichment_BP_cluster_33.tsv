@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0050794	regulation of cellular process	173	6	2.04	0.0083
+GO:0043412	macromolecule modification	95	4	1.12	0.0196
+GO:0015833	peptide transport	20	2	0.24	0.0215
+GO:0042886	amide transport	20	2	0.24	0.0215
+GO:0006810	transport	110	4	1.3	0.0322
+GO:0051234	establishment of localization	112	4	1.32	0.0342
+GO:0050896	response to stimulus	172	5	2.03	0.0374
+GO:0009169	purine ribonucleoside monophosphate cata...	29	2	0.34	0.0433
+GO:0048523	negative regulation of cellular process	29	2	0.34	0.0433
+GO:0009158	ribonucleoside monophosphate catabolic p...	29	2	0.34	0.0433
+GO:0009125	nucleoside monophosphate catabolic proce...	29	2	0.34	0.0433
+GO:0009128	purine nucleoside monophosphate cataboli...	29	2	0.34	0.0433
+GO:0051172	negative regulation of nitrogen compound...	29	2	0.34	0.0433
+GO:0031324	negative regulation of cellular metaboli...	29	2	0.34	0.0433
+GO:0055085	transmembrane transport	71	3	0.84	0.0453
+GO:0071705	nitrogen compound transport	30	2	0.35	0.0461
+GO:0051179	localization	125	4	1.47	0.0489
+GO:0048519	negative regulation of biological proces...	31	2	0.37	0.0490
+GO:0010605	negative regulation of macromolecule met...	31	2	0.37	0.0490
+GO:0009892	negative regulation of metabolic process	31	2	0.37	0.0490
+GO:0071702	organic substance transport	35	2	0.41	0.0611
+GO:0065008	regulation of biological quality	38	2	0.45	0.0708
+GO:0051171	regulation of nitrogen compound metaboli...	85	3	1	0.0712
+GO:0031323	regulation of cellular metabolic process	86	3	1.01	0.0733
+GO:0080090	regulation of primary metabolic process	88	3	1.04	0.0775
+GO:0060255	regulation of macromolecule metabolic pr...	90	3	1.06	0.0819
+GO:0009154	purine ribonucleotide catabolic process	42	2	0.5	0.0844
+GO:0009203	ribonucleoside triphosphate catabolic pr...	42	2	0.5	0.0844
+GO:0009207	purine ribonucleoside triphosphate catab...	42	2	0.5	0.0844
+GO:0009261	ribonucleotide catabolic process	42	2	0.5	0.0844
+GO:0009146	purine nucleoside triphosphate catabolic...	42	2	0.5	0.0844
+GO:0006195	purine nucleotide catabolic process	43	2	0.51	0.0880
+GO:0009143	nucleoside triphosphate catabolic proces...	43	2	0.51	0.0880
+GO:0046130	purine ribonucleoside catabolic process	43	2	0.51	0.0880
+GO:0019222	regulation of metabolic process	93	3	1.1	0.0886
+GO:0042454	ribonucleoside catabolic process	44	2	0.52	0.0915
+GO:0006152	purine nucleoside catabolic process	44	2	0.52	0.0915
+GO:0009164	nucleoside catabolic process	45	2	0.53	0.0952
+GO:0072523	purine-containing compound catabolic pro...	45	2	0.53	0.0952
+GO:0034656	nucleobase-containing small molecule cat...	45	2	0.53	0.0952
+GO:1901658	glycosyl compound catabolic process	45	2	0.53	0.0952
+GO:1901136	carbohydrate derivative catabolic proces...	52	2	0.61	0.1218
+GO:0032259	methylation	53	2	0.62	0.1257
+GO:1901565	organonitrogen compound catabolic proces...	54	2	0.64	0.1297
+GO:0036211	protein modification process	55	2	0.65	0.1337
+GO:0006464	cellular protein modification process	55	2	0.65	0.1337
+GO:0044282	small molecule catabolic process	56	2	0.66	0.1378
+GO:0009166	nucleotide catabolic process	57	2	0.67	0.1419
+GO:0046128	purine ribonucleoside metabolic process	57	2	0.67	0.1419
+GO:1901292	nucleoside phosphate catabolic process	57	2	0.67	0.1419
+GO:0050790	regulation of catalytic activity	13	1	0.15	0.1436
+GO:0042278	purine nucleoside metabolic process	58	2	0.68	0.1460
+GO:0046483	heterocycle metabolic process	405	7	4.77	0.1530
+GO:0065009	regulation of molecular function	14	1	0.17	0.1539
+GO:0006725	cellular aromatic compound metabolic pro...	407	7	4.8	0.1565
+GO:0046434	organophosphate catabolic process	61	2	0.72	0.1585
+GO:1903507	negative regulation of nucleic acid-temp...	15	1	0.18	0.1640
+GO:0018106	peptidyl-histidine phosphorylation	15	1	0.18	0.1640
+GO:1902679	negative regulation of RNA biosynthetic ...	15	1	0.18	0.1640
+GO:0018202	peptidyl-histidine modification	15	1	0.18	0.1640
+GO:0045892	negative regulation of transcription, DN...	15	1	0.18	0.1640
+GO:1901575	organic substance catabolic process	122	3	1.44	0.1652
+GO:0006355	regulation of transcription, DNA-templat...	63	2	0.74	0.1669
+GO:1901360	organic cyclic compound metabolic proces...	415	7	4.89	0.1707
+GO:1903506	regulation of nucleic acid-templated tra...	64	2	0.75	0.1712
+GO:2001141	regulation of RNA biosynthetic process	64	2	0.75	0.1712
+GO:0022604	regulation of cell morphogenesis	16	1	0.19	0.1740
+GO:0051253	negative regulation of RNA metabolic pro...	16	1	0.19	0.1740
+GO:0008360	regulation of cell shape	16	1	0.19	0.1740
+GO:0032268	regulation of cellular protein metabolic...	16	1	0.19	0.1740
+GO:0009056	catabolic process	125	3	1.47	0.1742
+GO:0022603	regulation of anatomical structure morph...	17	1	0.2	0.1839
+GO:0051246	regulation of protein metabolic process	17	1	0.2	0.1839
+GO:0051252	regulation of RNA metabolic process	67	2	0.79	0.1841
+GO:0009205	purine ribonucleoside triphosphate metab...	69	2	0.81	0.1929
+GO:0009144	purine nucleoside triphosphate metabolic...	69	2	0.81	0.1929
+GO:0050793	regulation of developmental process	18	1	0.21	0.1937
+GO:0044270	cellular nitrogen compound catabolic pro...	70	2	0.83	0.1973
+GO:0046700	heterocycle catabolic process	70	2	0.83	0.1973
+GO:0034655	nucleobase-containing compound catabolic...	70	2	0.83	0.1973
+GO:0009199	ribonucleoside triphosphate metabolic pr...	70	2	0.83	0.1973
+GO:0009167	purine ribonucleoside monophosphate meta...	71	2	0.84	0.2017
+GO:0007165	signal transduction	71	2	0.84	0.2017
+GO:0023052	signaling	71	2	0.84	0.2017
+GO:1901361	organic cyclic compound catabolic proces...	71	2	0.84	0.2017
+GO:0009126	purine nucleoside monophosphate metaboli...	71	2	0.84	0.2017
+GO:0019439	aromatic compound catabolic process	71	2	0.84	0.2017
+GO:0000902	cell morphogenesis	19	1	0.22	0.2033
+GO:0045934	negative regulation of nucleobase-contai...	19	1	0.22	0.2033
+GO:0032989	cellular component morphogenesis	19	1	0.22	0.2033
+GO:0051716	cellular response to stimulus	135	3	1.59	0.2052
+GO:0006351	transcription, DNA-templated	72	2	0.85	0.2061
+GO:0019219	regulation of nucleobase-containing comp...	72	2	0.85	0.2061
+GO:0009119	ribonucleoside metabolic process	73	2	0.86	0.2105
+GO:0097659	nucleic acid-templated transcription	73	2	0.86	0.2105
+GO:0006259	DNA metabolic process	74	2	0.87	0.2150
+GO:0009141	nucleoside triphosphate metabolic proces...	74	2	0.87	0.2150
+GO:2000112	regulation of cellular macromolecule bio...	74	2	0.87	0.2150
+GO:0031326	regulation of cellular biosynthetic proc...	76	2	0.9	0.2239
+GO:0010556	regulation of macromolecule biosynthetic...	76	2	0.9	0.2239

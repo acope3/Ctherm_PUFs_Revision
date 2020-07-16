@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006260	DNA replication	28	4	0.57	0.0019
+GO:0034030	ribonucleoside bisphosphate biosynthetic...	10	2	0.2	0.0162
+GO:0034033	purine nucleoside bisphosphate biosynthe...	10	2	0.2	0.0162
+GO:0033866	nucleoside bisphosphate biosynthetic pro...	10	2	0.2	0.0162
+GO:0009108	coenzyme biosynthetic process	53	4	1.08	0.0196
+GO:0019752	carboxylic acid metabolic process	181	8	3.69	0.0205
+GO:0043436	oxoacid metabolic process	182	8	3.71	0.0211
+GO:0006082	organic acid metabolic process	184	8	3.75	0.0225
+GO:0033875	ribonucleoside bisphosphate metabolic pr...	12	2	0.24	0.0231
+GO:0034032	purine nucleoside bisphosphate metabolic...	12	2	0.24	0.0231
+GO:0033865	nucleoside bisphosphate metabolic proces...	12	2	0.24	0.0231
+GO:0051188	cofactor biosynthetic process	61	4	1.24	0.0313
+GO:0006261	DNA-dependent DNA replication	15	2	0.31	0.0354
+GO:0006732	coenzyme metabolic process	64	4	1.3	0.0366
+GO:0015031	protein transport	20	2	0.41	0.0603
+GO:0045184	establishment of protein localization	21	2	0.43	0.0659
+GO:0016051	carbohydrate biosynthetic process	21	2	0.43	0.0659
+GO:0033036	macromolecule localization	21	2	0.43	0.0659
+GO:0008104	protein localization	21	2	0.43	0.0659
+GO:0051186	cofactor metabolic process	78	4	1.59	0.0680
+GO:0009152	purine ribonucleotide biosynthetic proce...	51	3	1.04	0.0811
+GO:0015833	peptide transport	24	2	0.49	0.0834
+GO:0042886	amide transport	24	2	0.49	0.0834
+GO:0006418	tRNA aminoacylation for protein translat...	24	2	0.49	0.0834
+GO:0032787	monocarboxylic acid metabolic process	52	3	1.06	0.0849
+GO:0006090	pyruvate metabolic process	25	2	0.51	0.0896
+GO:0043038	amino acid activation	25	2	0.51	0.0896
+GO:0043039	tRNA aminoacylation	25	2	0.51	0.0896
+GO:0006164	purine nucleotide biosynthetic process	54	3	1.1	0.0929
+GO:0072522	purine-containing compound biosynthetic ...	56	3	1.14	0.1011
+GO:0006928	movement of cell or subcellular componen...	29	2	0.59	0.1155
+GO:0009260	ribonucleotide biosynthetic process	64	3	1.3	0.1368
+GO:0071705	nitrogen compound transport	33	2	0.67	0.1431
+GO:0046390	ribose phosphate biosynthetic process	66	3	1.34	0.1464
+GO:0006508	proteolysis	69	3	1.41	0.1612
+GO:0090407	organophosphate biosynthetic process	106	4	2.16	0.1620
+GO:0071702	organic substance transport	38	2	0.77	0.1794
+GO:1901137	carbohydrate derivative biosynthetic pro...	111	4	2.26	0.1825
+GO:0019318	hexose metabolic process	10	1	0.2	0.1867
+GO:0051701	interaction with host	10	1	0.2	0.1867
+GO:0046903	secretion	10	1	0.2	0.1867
+GO:0032392	DNA geometric change	10	1	0.2	0.1867
+GO:0044255	cellular lipid metabolic process	40	2	0.81	0.1944
+GO:0034660	ncRNA metabolic process	76	3	1.55	0.1975
+GO:0044281	small molecule metabolic process	329	9	6.7	0.1977
+GO:0030031	cell projection assembly	11	1	0.22	0.2034
+GO:0009308	amine metabolic process	11	1	0.22	0.2034
+GO:0006576	cellular biogenic amine metabolic proces...	11	1	0.22	0.2034
+GO:0044106	cellular amine metabolic process	11	1	0.22	0.2034
+GO:0006629	lipid metabolic process	42	2	0.86	0.2095
+GO:0055114	oxidation-reduction process	160	5	3.26	0.2167
+GO:0016070	RNA metabolic process	160	5	3.26	0.2167
+GO:0042398	cellular modified amino acid biosyntheti...	12	1	0.24	0.2198
+GO:0044403	symbiont process	12	1	0.24	0.2198
+GO:0042180	cellular ketone metabolic process	12	1	0.24	0.2198
+GO:0090305	nucleic acid phosphodiester bond hydroly...	44	2	0.9	0.2247
+GO:0006996	organelle organization	45	2	0.92	0.2324
+GO:0006760	folic acid-containing compound metabolic...	13	1	0.26	0.2359
+GO:0044781	bacterial-type flagellum organization	13	1	0.26	0.2359
+GO:0009165	nucleotide biosynthetic process	85	3	1.73	0.2470
+GO:0040011	locomotion	47	2	0.96	0.2478
+GO:0006520	cellular amino acid metabolic process	126	4	2.57	0.2491
+GO:0006096	glycolytic process	14	1	0.29	0.2517
+GO:0005996	monosaccharide metabolic process	14	1	0.29	0.2517
+GO:0006757	ATP generation from ADP	14	1	0.29	0.2517
+GO:0008654	phospholipid biosynthetic process	14	1	0.29	0.2517
+GO:0042866	pyruvate biosynthetic process	14	1	0.29	0.2517
+GO:1901293	nucleoside phosphate biosynthetic proces...	86	3	1.75	0.2526
+GO:0030030	cell projection organization	15	1	0.31	0.2671
+GO:0006644	phospholipid metabolic process	15	1	0.31	0.2671
+GO:0043650	dicarboxylic acid biosynthetic process	15	1	0.31	0.2671
+GO:0006091	generation of precursor metabolites and ...	50	2	1.02	0.2710
+GO:0042558	pteridine-containing compound metabolic ...	16	1	0.33	0.2822
+GO:0044419	interspecies interaction between organis...	16	1	0.33	0.2822
+GO:0046031	ADP metabolic process	16	1	0.33	0.2822
+GO:0071103	DNA conformation change	16	1	0.33	0.2822
+GO:0006631	fatty acid metabolic process	16	1	0.33	0.2822
+GO:0006165	nucleoside diphosphate phosphorylation	16	1	0.33	0.2822
+GO:0009179	purine ribonucleoside diphosphate metabo...	17	1	0.35	0.2971
+GO:0009135	purine nucleoside diphosphate metabolic ...	17	1	0.35	0.2971
+GO:0043604	amide biosynthetic process	138	4	2.81	0.3064
+GO:0009185	ribonucleoside diphosphate metabolic pro...	18	1	0.37	0.3116
+GO:0046939	nucleotide phosphorylation	18	1	0.37	0.3116
+GO:0051276	chromosome organization	18	1	0.37	0.3116
+GO:0006399	tRNA metabolic process	56	2	1.14	0.3175
+GO:0097588	archaeal or bacterial-type flagellum-dep...	19	1	0.39	0.3259
+GO:0009150	purine ribonucleotide metabolic process	101	3	2.06	0.3393
+GO:0009132	nucleoside diphosphate metabolic process	20	1	0.41	0.3399
+GO:0070925	organelle assembly	20	1	0.41	0.3399
+GO:0046483	heterocycle metabolic process	423	12	8.62	0.3520
+GO:0019363	pyridine nucleotide biosynthetic process	21	1	0.43	0.3536
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	21	1	0.43	0.3536
+GO:0022900	electron transport chain	21	1	0.43	0.3536
+GO:0009067	aspartate family amino acid biosynthetic...	21	1	0.43	0.3536
+GO:0006725	cellular aromatic compound metabolic pro...	426	12	8.68	0.3616
+GO:0006163	purine nucleotide metabolic process	105	3	2.14	0.3627
+GO:0043603	cellular amide metabolic process	150	4	3.06	0.3656
+GO:0006575	cellular modified amino acid metabolic p...	22	1	0.45	0.3670
+GO:0001539	cilium or flagellum-dependent cell motil...	22	1	0.45	0.3670
+GO:0072525	pyridine-containing compound biosyntheti...	22	1	0.45	0.3670

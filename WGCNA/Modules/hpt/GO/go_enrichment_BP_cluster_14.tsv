@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0006508	proteolysis	69	5	1.66	0.021
+GO:0032392	DNA geometric change	10	2	0.24	0.022
+GO:0009066	aspartate family amino acid metabolic pr...	26	3	0.63	0.022
+GO:0006555	methionine metabolic process	13	2	0.31	0.037
+GO:0071103	DNA conformation change	16	2	0.39	0.054
+GO:0000096	sulfur amino acid metabolic process	18	2	0.43	0.067
+GO:0051276	chromosome organization	18	2	0.43	0.067
+GO:0006807	nitrogen compound metabolic process	665	20	16.01	0.074
+GO:0001510	RNA methylation	19	2	0.46	0.074
+GO:0044238	primary metabolic process	716	21	17.24	0.081
+GO:0006790	sulfur compound metabolic process	44	3	1.06	0.085
+GO:0009067	aspartate family amino acid biosynthetic...	21	2	0.51	0.088
+GO:0009156	ribonucleoside monophosphate biosyntheti...	50	3	1.2	0.115
+GO:0043414	macromolecule methylation	25	2	0.6	0.119
+GO:0009124	nucleoside monophosphate biosynthetic pr...	55	3	1.32	0.142
+GO:0043933	protein-containing complex subunit organ...	56	3	1.35	0.148
+GO:0042455	ribonucleoside biosynthetic process	29	2	0.7	0.152
+GO:1901605	alpha-amino acid metabolic process	88	4	2.12	0.155
+GO:0071840	cellular component organization or bioge...	155	6	3.73	0.157
+GO:0009163	nucleoside biosynthetic process	30	2	0.72	0.161
+GO:1901659	glycosyl compound biosynthetic process	30	2	0.72	0.161
+GO:0016043	cellular component organization	124	5	2.99	0.169
+GO:0044272	sulfur compound biosynthetic process	31	2	0.75	0.169
+GO:0071704	organic substance metabolic process	760	21	18.3	0.170
+GO:0032259	methylation	60	3	1.44	0.171
+GO:0006355	regulation of transcription, DNA-templat...	62	3	1.49	0.184
+GO:0071705	nitrogen compound transport	33	2	0.79	0.187
+GO:2001141	regulation of RNA biosynthetic process	63	3	1.52	0.190
+GO:1903506	regulation of nucleic acid-templated tra...	63	3	1.52	0.190
+GO:0051252	regulation of RNA metabolic process	66	3	1.59	0.209
+GO:0046907	intracellular transport	10	1	0.24	0.217
+GO:0022411	cellular component disassembly	10	1	0.24	0.217
+GO:0006605	protein targeting	10	1	0.24	0.217
+GO:0071806	protein transmembrane transport	10	1	0.24	0.217
+GO:0009173	pyrimidine ribonucleoside monophosphate ...	10	1	0.24	0.217
+GO:0009432	SOS response	10	1	0.24	0.217
+GO:0006886	intracellular protein transport	10	1	0.24	0.217
+GO:0046049	UMP metabolic process	10	1	0.24	0.217
+GO:0032984	protein-containing complex disassembly	10	1	0.24	0.217
+GO:0071702	organic substance transport	38	2	0.91	0.232
+GO:0006351	transcription, DNA-templated	70	3	1.69	0.235
+GO:0031167	rRNA methylation	11	1	0.26	0.236
+GO:0070727	cellular macromolecule localization	11	1	0.26	0.236
+GO:0034613	cellular protein localization	11	1	0.26	0.236
+GO:0051649	establishment of localization in cell	11	1	0.26	0.236
+GO:0009308	amine metabolic process	11	1	0.26	0.236
+GO:0044106	cellular amine metabolic process	11	1	0.26	0.236
+GO:0006576	cellular biogenic amine metabolic proces...	11	1	0.26	0.236
+GO:0009082	branched-chain amino acid biosynthetic p...	11	1	0.26	0.236
+GO:0009086	methionine biosynthetic process	11	1	0.26	0.236
+GO:0009168	purine ribonucleoside monophosphate bios...	39	2	0.94	0.241
+GO:0006281	DNA repair	39	2	0.94	0.241
+GO:0009127	purine nucleoside monophosphate biosynth...	39	2	0.94	0.241
+GO:0019219	regulation of nucleobase-containing comp...	71	3	1.71	0.241
+GO:0097659	nucleic acid-templated transcription	71	3	1.71	0.241
+GO:1901607	alpha-amino acid biosynthetic process	71	3	1.71	0.241
+GO:0009451	RNA modification	40	2	0.96	0.250
+GO:0009987	cellular process	832	22	20.03	0.251
+GO:2000112	regulation of cellular macromolecule bio...	73	3	1.76	0.255
+GO:0009220	pyrimidine ribonucleotide biosynthetic p...	12	1	0.29	0.255
+GO:2000142	regulation of DNA-templated transcriptio...	12	1	0.29	0.255
+GO:0009081	branched-chain amino acid metabolic proc...	12	1	0.29	0.255
+GO:0043254	regulation of protein complex assembly	12	1	0.29	0.255
+GO:0034654	nucleobase-containing compound biosynthe...	218	7	5.25	0.259
+GO:0031326	regulation of cellular biosynthetic proc...	75	3	1.81	0.268
+GO:0010556	regulation of macromolecule biosynthetic...	75	3	1.81	0.268
+GO:0032774	RNA biosynthetic process	75	3	1.81	0.268
+GO:0006139	nucleobase-containing compound metabolic...	377	11	9.08	0.273
+GO:0046129	purine ribonucleoside biosynthetic proce...	13	1	0.31	0.273
+GO:0006352	DNA-templated transcription, initiation	13	1	0.31	0.273
+GO:0046132	pyrimidine ribonucleoside biosynthetic p...	13	1	0.31	0.273
+GO:0046134	pyrimidine nucleoside biosynthetic proce...	13	1	0.31	0.273
+GO:0006760	folic acid-containing compound metabolic...	13	1	0.31	0.273
+GO:0051641	cellular localization	13	1	0.31	0.273
+GO:0042451	purine nucleoside biosynthetic process	13	1	0.31	0.273
+GO:0009889	regulation of biosynthetic process	76	3	1.83	0.275
+GO:0090305	nucleic acid phosphodiester bond hydroly...	44	2	1.06	0.287
+GO:0006259	DNA metabolic process	78	3	1.88	0.288
+GO:0000154	rRNA modification	14	1	0.34	0.291
+GO:0006757	ATP generation from ADP	14	1	0.34	0.291
+GO:0009218	pyrimidine ribonucleotide metabolic proc...	14	1	0.34	0.291
+GO:0009130	pyrimidine nucleoside monophosphate bios...	14	1	0.34	0.291
+GO:0006096	glycolytic process	14	1	0.34	0.291
+GO:0042866	pyruvate biosynthetic process	14	1	0.34	0.291
+GO:0046483	heterocycle metabolic process	423	12	10.18	0.293
+GO:0006996	organelle organization	45	2	1.08	0.296
+GO:0046394	carboxylic acid biosynthetic process	115	4	2.77	0.297
+GO:0010468	regulation of gene expression	80	3	1.93	0.302
+GO:0016053	organic acid biosynthetic process	116	4	2.79	0.303
+GO:0006725	cellular aromatic compound metabolic pro...	426	12	10.26	0.303
+GO:0065003	protein-containing complex assembly	46	2	1.11	0.305
+GO:0046131	pyrimidine ribonucleoside metabolic proc...	15	1	0.36	0.308
+GO:0000910	cytokinesis	15	1	0.36	0.308
+GO:0009129	pyrimidine nucleoside monophosphate meta...	15	1	0.36	0.308
+GO:0000097	sulfur amino acid biosynthetic process	15	1	0.36	0.308
+GO:0040011	locomotion	47	2	1.13	0.314
+GO:0006165	nucleoside diphosphate phosphorylation	16	1	0.39	0.325
+GO:0034622	cellular protein-containing complex asse...	16	1	0.39	0.325
+GO:0006213	pyrimidine nucleoside metabolic process	16	1	0.39	0.325
+GO:0044087	regulation of cellular component biogene...	16	1	0.39	0.325

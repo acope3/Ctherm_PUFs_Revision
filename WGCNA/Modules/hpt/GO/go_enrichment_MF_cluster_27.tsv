@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Fisher
+GO:0004888	transmembrane signaling receptor activit...	12	3	0.19	0.00071
+GO:0140097	catalytic activity, acting on DNA	48	3	0.77	0.03871
+GO:0004386	helicase activity	23	2	0.37	0.05083
+GO:0016788	hydrolase activity, acting on ester bond...	70	3	1.13	0.09791
+GO:0016791	phosphatase activity	10	1	0.16	0.15037
+GO:0004536	deoxyribonuclease activity	10	1	0.16	0.15037
+GO:0008238	exopeptidase activity	10	1	0.16	0.15037
+GO:0003677	DNA binding	134	4	2.16	0.16046
+GO:0052689	carboxylic ester hydrolase activity	11	1	0.18	0.16417
+GO:0008144	drug binding	293	7	4.72	0.16852
+GO:0016787	hydrolase activity	355	8	5.72	0.18241
+GO:0016811	hydrolase activity, acting on carbon-nit...	13	1	0.21	0.19113
+GO:0003678	DNA helicase activity	13	1	0.21	0.19113
+GO:0042578	phosphoric ester hydrolase activity	14	1	0.23	0.20430
+GO:0008236	serine-type peptidase activity	15	1	0.24	0.21726
+GO:0017171	serine hydrolase activity	15	1	0.24	0.21726
+GO:0005198	structural molecule activity	56	2	0.9	0.22672
+GO:0036094	small molecule binding	382	8	6.15	0.24780
+GO:0016301	kinase activity	72	2	1.16	0.32467
+GO:0004519	endonuclease activity	25	1	0.4	0.33637
+GO:0017111	nucleoside-triphosphatase activity	128	3	2.06	0.34041
+GO:0004812	aminoacyl-tRNA ligase activity	26	1	0.42	0.34729
+GO:0016875	ligase activity, forming carbon-oxygen b...	26	1	0.42	0.34729
+GO:0005524	ATP binding	244	5	3.93	0.35416
+GO:0032559	adenyl ribonucleotide binding	245	5	3.94	0.35771
+GO:0030554	adenyl nucleotide binding	247	5	3.98	0.36481
+GO:0097367	carbohydrate derivative binding	306	6	4.93	0.36729
+GO:0016462	pyrophosphatase activity	135	3	2.17	0.37299
+GO:0016817	hydrolase activity, acting on acid anhyd...	136	3	2.19	0.37764
+GO:0016818	hydrolase activity, acting on acid anhyd...	136	3	2.19	0.37764
+GO:0016810	hydrolase activity, acting on carbon-nit...	30	1	0.48	0.38928
+GO:0016616	oxidoreductase activity, acting on the C...	30	1	0.48	0.38928
+GO:0016874	ligase activity	84	2	1.35	0.39701
+GO:0016614	oxidoreductase activity, acting on CH-OH...	31	1	0.5	0.39937
+GO:0003676	nucleic acid binding	258	5	4.15	0.40414
+GO:0035639	purine ribonucleoside triphosphate bindi...	272	5	4.38	0.45435
+GO:0070011	peptidase activity, acting on L-amino ac...	39	1	0.63	0.47459
+GO:0030246	carbohydrate binding	39	1	0.63	0.47459
+GO:0032555	purine ribonucleotide binding	280	5	4.51	0.48286
+GO:0004518	nuclease activity	40	1	0.64	0.48334
+GO:0017076	purine nucleotide binding	282	5	4.54	0.48995
+GO:0043168	anion binding	345	6	5.56	0.49715
+GO:0140101	catalytic activity, acting on a tRNA	43	1	0.69	0.50877
+GO:0016773	phosphotransferase activity, alcohol gro...	44	1	0.71	0.51698
+GO:0005488	binding	780	13	12.56	0.52187
+GO:0032553	ribonucleotide binding	295	5	4.75	0.53544
+GO:0003723	RNA binding	110	2	1.77	0.54167
+GO:0003735	structural constituent of ribosome	49	1	0.79	0.55611
+GO:0003824	catalytic activity	913	15	14.7	0.56356
+GO:0042623	ATPase activity, coupled	51	1	0.82	0.57091
+GO:0008233	peptidase activity	51	1	0.82	0.57091
+GO:0016772	transferase activity, transferring phosp...	118	2	1.9	0.58168
+GO:1901265	nucleoside phosphate binding	338	5	5.44	0.67427
+GO:0000166	nucleotide binding	338	5	5.44	0.67427
+GO:0016741	transferase activity, transferring one-c...	68	1	1.09	0.67912
+GO:0016491	oxidoreductase activity	153	2	2.46	0.72864
+GO:0046914	transition metal ion binding	78	1	1.26	0.73011
+GO:0140098	catalytic activity, acting on RNA	79	1	1.27	0.73476
+GO:0050662	coenzyme binding	81	1	1.3	0.74384
+GO:0016887	ATPase activity	89	1	1.43	0.77730
+GO:0046872	metal ion binding	241	3	3.88	0.77893
+GO:0043167	ion binding	507	7	8.16	0.77972
+GO:0043169	cation binding	246	3	3.96	0.79192
+GO:0016740	transferase activity	331	4	5.33	0.82577
+GO:0140096	catalytic activity, acting on a protein	103	1	1.66	0.82612
+GO:0097159	organic cyclic compound binding	545	7	8.78	0.85462
+GO:1901363	heterocyclic compound binding	545	7	8.78	0.85462
+GO:0048037	cofactor binding	140	1	2.25	0.91102
+GO:0060089	molecular transducer activity	23	3	0.37	1.00000
+GO:0003674	molecular_function	1180	19	19	1.00000
+GO:0038023	signaling receptor activity	12	3	0.19	1.00000
+GO:0000049	tRNA binding	18	0	0.29	1.00000
+GO:0000155	phosphorelay sensor kinase activity	14	0	0.23	1.00000
+GO:0000287	magnesium ion binding	41	0	0.66	1.00000
+GO:0001871	pattern binding	22	0	0.35	1.00000
+GO:0001882	nucleoside binding	57	0	0.92	1.00000
+GO:0001883	purine nucleoside binding	54	0	0.87	1.00000
+GO:0003690	double-stranded DNA binding	13	0	0.21	1.00000
+GO:0003700	DNA-binding transcription factor activit...	22	0	0.35	1.00000
+GO:0003899	DNA-directed 5'-3' RNA polymerase activi...	13	0	0.21	1.00000
+GO:0003924	GTPase activity	23	0	0.37	1.00000
+GO:0003954	NADH dehydrogenase activity	10	0	0.16	1.00000
+GO:0004175	endopeptidase activity	21	0	0.34	1.00000
+GO:0004222	metalloendopeptidase activity	10	0	0.16	1.00000
+GO:0004527	exonuclease activity	15	0	0.24	1.00000
+GO:0004553	hydrolase activity, hydrolyzing O-glycos...	39	0	0.63	1.00000
+GO:0004672	protein kinase activity	26	0	0.42	1.00000
+GO:0004673	protein histidine kinase activity	16	0	0.26	1.00000
+GO:0005215	transporter activity	52	0	0.84	1.00000
+GO:0005506	iron ion binding	15	0	0.24	1.00000
+GO:0005509	calcium ion binding	12	0	0.19	1.00000
+GO:0005515	protein binding	83	0	1.34	1.00000
+GO:0005525	GTP binding	34	0	0.55	1.00000
+GO:0008080	N-acetyltransferase activity	14	0	0.23	1.00000
+GO:0008094	DNA-dependent ATPase activity	18	0	0.29	1.00000
+GO:0008135	translation factor activity, RNA binding	19	0	0.31	1.00000
+GO:0008168	methyltransferase activity	60	0	0.97	1.00000
+GO:0008173	RNA methyltransferase activity	15	0	0.24	1.00000
+GO:0008237	metallopeptidase activity	13	0	0.21	1.00000
+GO:0008270	zinc ion binding	47	0	0.76	1.00000

@@ -1,4 +1,0 @@
-ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	2/4	19/317	0.0190388964102762	0.0571166892308287	0.0400818871795289	Clo1313_0022/Clo1313_0673	2
-M00374	Dicarboxylate-hydroxybutyrate cycle	1/4	11/317	0.132337293413109	0.166029334004112	0.116511813336219	Clo1313_0022	1
-M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	1/4	14/317	0.166029334004112	0.166029334004112	0.116511813336219	Clo1313_0022	1

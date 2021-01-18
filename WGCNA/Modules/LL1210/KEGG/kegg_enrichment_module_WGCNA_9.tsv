@@ -1,4 +1,0 @@
-ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-M00009	Citrate cycle (TCA cycle, Krebs cycle)	1/9	10/317	0.253421129503111	0.430873000676679	0.430873000676679	Clo1313_1355	1
-M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	1/9	14/317	0.337586903918377	0.430873000676679	0.430873000676679	Clo1313_1355	1
-M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	1/9	19/317	0.430873000676679	0.430873000676679	0.430873000676679	Clo1313_1355	1

@@ -1,3 +1,0 @@
-ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-M00003	Gluconeogenesis, oxaloacetate => fructose-6P	1/5	10/317	0.148969805360462	0.203331536317027	0.203331536317027	Clo1313_2092	1
-M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	1/5	14/317	0.203331536317027	0.203331536317027	0.203331536317027	Clo1313_2092	1

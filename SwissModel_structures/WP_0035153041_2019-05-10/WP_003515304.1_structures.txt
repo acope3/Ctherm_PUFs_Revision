@@ -1,0 +1,17 @@
+Structure	Number
+chaperone protein dnak	1
+dimeric (2fe-2s) protein	6
+ferredoxin vi	1
+iron-sulfur cluster binding protein	9
+ferredoxin	3
+apoferredoxin	1
+na(+)-translocating nadh-quinone reductase subunit f	1
+rok family protein	1
+putative 2-dehydro-3-deoxygalactonokinase	2
+cytochrome p450 reductase	1
+lmo0178 protein	5
+putidaredoxin	14
+toluene-4-monooxygenase electron transfer component	1
+protein (putidaredoxin)	1
+benzoate 1,2-dioxygenase reductase	1
+putative nagc-like transcriptional regulator	2

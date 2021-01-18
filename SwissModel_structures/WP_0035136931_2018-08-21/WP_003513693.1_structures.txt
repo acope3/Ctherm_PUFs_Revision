@@ -1,0 +1,22 @@
+Structure	Number
+attaching and effacing protein, pathogenesis factor	4
+slr0280 protein	1
+uncharacterized protein from duf2233 family	1
+invasin	2
+hypothetical protein tt1561	2
+intimin	2
+chondroitin abc lyase i	1
+ig domain protein group 1 domain protein	2
+rv0805	1
+purple acid phosphatase	4
+glycoside hydrolase family 9	1
+vacuolar protein sorting 29	2
+putative uncharacterized protein	1
+vacuolar protein sorting-associated protein 29	11
+hypothetical protein rv0805	1
+endoglucanase h	2
+rv0805n97a	1
+icc protein	1
+gelation factor	2
+surface layer protein	7
+252aa long hypothetical protein	1

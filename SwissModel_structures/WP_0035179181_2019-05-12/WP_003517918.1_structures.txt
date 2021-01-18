@@ -1,0 +1,26 @@
+Structure	Number
+putative rna methylase	1
+o-methyltransferase	1
+phosphoethanolamine n-methyltransferase 2	1
+xanthine oxidase	2
+putative methyl chloride transferase	1
+alpha-2,3-sialyltransferase	1
+putative uncharacterized protein	2
+quinoline 2-oxidoreductase medium subunit	1
+cutm, flavoprotein of carbon monoxide dehydrogenase	2
+carbon monoxide dehydrogenase medium chain	2
+protein arginine n-methyltransferase 7	2
+xanthine dehydrogenase/oxidase	2
+caffeoyl-coa o-methyltransferase	4
+u6 small nuclear rna (adenine-(43)-n(6))-methyltransferase	4
+rrna methyltransferase	1
+trna (cmo5u34)-methyltransferase	2
+uncharacterized protein	2
+dimethyladenosine transferase	4
+trna (guanine-n(7)-)-methyltransferase	5
+putative rrna methylase	2
+putative gentamicin methyltransferase	1
+alpha-2,3-/2,8-sialyltransferase	3
+ribosomal rna small subunit methyltransferase a	1
+probable dimethyladenosine transferase	2
+n-3'' methyltransferase	1

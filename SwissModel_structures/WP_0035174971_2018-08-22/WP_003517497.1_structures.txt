@@ -1,0 +1,9 @@
+Structure	Number
+fructose 1,6-bisphosphate aldolase	4
+lactate racemase apoprotein	2
+putative uronate isomerase	1
+oxalate oxidoreductase subunit delta	3
+lactate racemase	1
+fructose-bisphosphate aldolase a	1
+fructose-bisphosphate aldolase b	4
+lactate racemization operon protein lara	2

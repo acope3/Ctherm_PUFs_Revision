@@ -1,0 +1,23 @@
+Structure	Number
+protein (nadph-cytochrome p450 reductase)	1
+bifunctional puta protein	3
+uncharacterized protein orf56	4
+sister chromatid cohesion protein pds5 homolog b	2
+de novo designed protein lfr1	2
+phenol hydroxylase p2 protein	1
+bacteriohemerythrin	2
+top7	1
+phenol hydroxylase component phm	2
+bromodomain-containing protein 3	1
+hypothetical protein	1
+designed protein	2
+cohesin subunit pds5,cohesin subunit pds5, cohesin subunit pds5,klth0d07062p,cohesin subunit pds5,cohesin subunit pds5, cohesin subunit pds5,klth0d07062p,cohesin subunit pds5,cohesin subunit pds5, cohesin subunit pds5,klth0d07062p,cohesin subunit pds5,cohesin subunit pds5, cohesin subunit pds5	1
+de novo protein m7	1
+transcriptional regulator copg family	5
+antitoxin vapb26	4
+fdxn element excision controlling factor protein	1
+ttha0139	5
+or358	1
+cohesin subunit pds5, klth0d07062p,klth0d07062p,klth0d07062p,cohesin subunit pds5, klth0d07062p,klth0d07062p,klth0d07062p,cohesin subunit pds5, klth0d07062p,klth0d07062p,klth0d07062p,cohesin subunit pds5, klth0d07062p,klth0d07062p	1
+serine/threonine-protein kinase pkng	1
+or303	1

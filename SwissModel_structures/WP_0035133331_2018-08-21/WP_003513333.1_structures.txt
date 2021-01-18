@@ -1,0 +1,10 @@
+Structure	Number
+bifunctional coenzyme pqq synthesis protein c/d	1
+6-deoxyerythronolide b hydroxylase	1
+coenzyme pqq synthesis protein d	1
+dna-binding protein sso10a-2	3
+aminoglycoside phosphotransferase	2
+hygromycin-b 4-o-kinase	4
+double-stranded rna-specific adenosine deaminase	1
+protein af_1382	1
+hypothetical protein	1

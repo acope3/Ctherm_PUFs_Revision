@@ -1,0 +1,12 @@
+Structure	Number
+nitrogen regulatory protein p-ii	13
+pii signal transduction protein	1
+protein (nitrogen regulatory protein)	1
+pii-like protein pz	2
+pii protein	5
+nitrogen regulatory protein p-ii (glnb-2)	6
+nitrogen regulatory protein p-ii (glnb-3)	7
+nitrogen regulatory protein pii	3
+nitrogen regulatory protein p-ii (glnb-1)	1
+nitrogen regulatory pii-like protein	3
+hypothetical nitrogen regulatory pii-like protein mj0059	8

@@ -1,0 +1,22 @@
+Structure	Number
+8-oxoguanine-dna-glycosylase	4
+a/g-specific adenine dna glycosylase	2
+n-glycosylase/dna lyase	4
+endonuclease iii	3
+dna-3-methyladenine glycosylase 2	2
+possible g-t mismatches repair enzyme	1
+a/g-specific adenine glycosylase	11
+8-oxoguanine dna glycosylase	3
+probable n-glycosylase/dna lyase	1
+dna-3-methyladenine glycosidase	2
+adenine glycosylase	2
+endonuclease iii-1	1
+3-methyladenine dna glycosylase	3
+endonuclease iii-3	1
+hypothetical protein	1
+dna-3-methyladenine glycosidase ii, putative	1
+muty	2
+dna-3-methyladenine glycosylase 1	1
+adenine dna glycosylase	1
+probable dna-3-methyladenine glycosylase 2	2
+3-methyladenine dna-glycosylase	2

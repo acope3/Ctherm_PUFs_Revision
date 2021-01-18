@@ -1,0 +1,18 @@
+Structure	Number
+macrophage migration inhibitory factor	7
+eal/ggdef domain protein	2
+septum site-determining protein minc	1
+migration inhibitory factor	2
+magnetosome protein mamb	7
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	4
+probable tautomerase ywhb	1
+hypothetical protein tt1725	2
+diguanylate cyclase tpbb	1
+magnetosome protein mamm	12
+possible atls1-like light-inducible protein	1
+5-carboxymethyl-2-hydroxymuconate isomerase	1
+diguanylate cyclase	1
+putative 5-carboxymethyl-2-hydroxymuconate isomerase	2
+putative uncharacterized protein	1
+macrophage migration inhibitory factor-like protein	3
+serine/threonine-protein kinase gcn2	2

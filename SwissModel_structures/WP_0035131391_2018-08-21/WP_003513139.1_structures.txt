@@ -1,0 +1,16 @@
+Structure	Number
+aif2-beta	1
+putative metal uptake regulation protein	1
+uncharacterized protein from duf35 family	2
+dna-directed rna polymerases i, ii, and iii subunit rpabc4	1
+ferric uptake regulation protein	19
+probable zinc uptake regulation protein furb	1
+translation initiation factor 2 subunit beta	3
+pre-mrna-splicing factor prp9	1
+pfam duf35	3
+probable translation initiation factor 2 beta subunit	2
+peroxide stress regulator perr, fur family	2
+putative iron uptake regulatory protein	1
+dna-binding transcriptional dual regulator of siderophore biosynthesis and transport(fur family)	8
+translation initiation factor 2 beta subunit	3
+peroxide stress sensing regulator	2

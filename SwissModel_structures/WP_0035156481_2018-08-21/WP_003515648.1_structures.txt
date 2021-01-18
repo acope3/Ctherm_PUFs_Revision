@@ -1,0 +1,10 @@
+Structure	Number
+proteasome (prosome, macropain) 26s subunit, atpase, 4	2
+26s protease regulatory subunit 8	2
+26s protease regulatory subunit 6b	2
+gmp synthetase	1
+gmp synthase [glutamine-hydrolyzing] subunit b	2
+pactolus i-domain	1
+hypothetical protein ttha0303	1
+26s protease regulatory subunit 7 homolog	5
+26s protease regulatory subunit 6b homolog	3

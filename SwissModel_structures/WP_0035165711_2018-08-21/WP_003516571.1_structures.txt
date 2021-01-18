@@ -1,0 +1,8 @@
+Structure	Number
+rwd domain-containing protein 1	1
+uncharacterized protein	1
+cation exchanger yfke	4
+putative lipoprotein ycda	1
+ring finger protein 25	1
+atp synthase subunit b, chloroplastic	2
+atp synthase subunit b	6

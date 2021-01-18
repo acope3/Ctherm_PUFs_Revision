@@ -1,0 +1,19 @@
+Structure	Number
+general transcription factor iie subunit 1	1
+apebec3f/ssdna-t9	1
+apebec3f/ssdna-c9	1
+putative transcriptional regulator	3
+transcriptional regulator clgr	2
+rubrerythrin	1
+non-structural maintenance of chromosomes element 1 homolog	1
+hypothetical protein pf0610	1
+dna dc-du-editing enzyme apobec-3b	1
+dna dc-&gt;du-editing enzyme apobec-3b	7
+dna dc-&gt;du-editing enzyme apobec-3a	4
+dna dc-&gt;du-editing enzyme apobec-3g	9
+dna dc-&gt;du-editing enzyme apobec-3f	8
+dna-directed rna polymerase iii subunit rpc3	4
+probable dna dc-&gt;du-editing enzyme apobec-3a	1
+34l protein	2
+trmbl2	2
+homeobox protein tgif1	1

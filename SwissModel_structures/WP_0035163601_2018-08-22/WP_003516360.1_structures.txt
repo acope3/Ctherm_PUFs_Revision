@@ -1,0 +1,11 @@
+Structure	Number
+phosphoribosyl pyrophosphate synthetase-associated protein 2	1
+orotate phosphoribosyltransferase	29
+xanthine phosphoribosyltransferase	1
+adenine phosphoribosyltransferase	2
+orotate phosphoribosyltransferase 1	6
+phosphoribosyl pyrophosphate synthetase-associated protein 1	1
+phosphoribosyltransferase	2
+ump synthase	2
+ribose-phosphate pyrophosphokinase	4
+omp synthase	2

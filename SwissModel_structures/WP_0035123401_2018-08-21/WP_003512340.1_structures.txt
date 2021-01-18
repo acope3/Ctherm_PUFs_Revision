@@ -1,0 +1,21 @@
+Structure	Number
+accessory sec system protein asp3	2
+gifsy-1 prophage protein	1
+copc	1
+cation-transporting atpase, e1-e2 family protein	1
+c-terminal peptide of integrin beta-2,filamin-a ig21 domain	1
+class 1 collagenase	4
+filamin-c	4
+cupa	1
+uncharacterized protein	1
+collagenase	5
+dextranase	1
+plig	1
+putative member of duf3244 protein family	1
+filamin-a	6
+filamin c	1
+filamin a	2
+inhibitor of g-type lysozyme	3
+filamin-b	11
+subtilisin-like serine protease	2
+colh protein	1

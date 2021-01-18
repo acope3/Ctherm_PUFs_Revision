@@ -1,0 +1,9 @@
+Structure	Number
+heterogeneous nuclear ribonucleoprotein m	1
+single-strand telomeric dna-binding protein gbp2	1
+polyhomeotic	1
+transcription elongation regulator 1	1
+putative rna-binding protein 11	1
+squamous cell carcinoma antigen recognized by t-cells 3	1
+yth domain-containing family protein 1	2
+tho complex subunit 4	1

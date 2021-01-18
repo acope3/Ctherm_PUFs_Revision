@@ -1,0 +1,4 @@
+Structure	Number
+uncharacterized protein	2
+glycoprotein gp120	1
+de novo designed protein lfr1	2

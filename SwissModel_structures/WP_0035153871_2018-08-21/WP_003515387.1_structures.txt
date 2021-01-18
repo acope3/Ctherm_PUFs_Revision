@@ -1,0 +1,26 @@
+Structure	Number
+myosin heavy chain, cardiac muscle beta isoform	6
+ct398	2
+general control protein gcn4 and tropomyosin 1 alpha chain	4
+flagellar flij protein	1
+peptidoglycan endopeptidase ripa	1
+keratin, type i cytoskeletal 10	1
+keratin, type i cytoskeletal 14	1
+chromosome partition protein smc	1
+cytoplasmic dynein 1 heavy chain 1	1
+structural maintenance of chromosomes protein 2	1
+dynein heavy chain lysozyme chimera	2
+line-1 retrotransposable element orf1 protein	6
+trim5/cyclophilin a fusion protein/t4 lysozyme chimera	2
+keratin, type ii cytoskeletal 1	2
+dna repair protein xrcc4,myosin-7	4
+keratin, type ii cytoskeletal 5	1
+dna repair protein rad50	4
+nuclear distribution protein nude-like 1	2
+msmeg_4306	1
+septation ring formation regulator ezra	2
+green fluorescent protein/cytoplasmic dynein 2 heavy chain 1	1
+vca0883	1
+nuclear pore glycoprotein p62	1
+non-hemolytic enterotoxin lytic component l1	1
+rab-3a-interacting protein	1

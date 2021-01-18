@@ -1,0 +1,7 @@
+Structure	Number
+putative khg/kdpg aldolase	1
+trna (guanine-n(7)-)-methyltransferase	3
+oxidoreductase, iron/ascorbate family	1
+protein af-9	3
+glyoxalase/bleomycin resistance protein/dioxygenase domain	2
+sepf-like protein	1

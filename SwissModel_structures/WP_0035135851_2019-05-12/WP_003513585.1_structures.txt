@@ -1,0 +1,28 @@
+Structure	Number
+crtf-related protein	2
+o-methyltransferase	2
+16s rrna (adenine(1408)-n(1))-methyltransferase	1
+16s rrna methylase	2
+putative xanthine dehydrogenase yagr molybdenum-binding su subunit	1
+alpha-2,3-/2,8-sialyltransferase	3
+alpha-2,3-sialyltransferase	1
+fibrillarin-like rrna/trna 2'-o-methyltransferase	6
+hydroxyindole o-methyltransferase	1
+mj fibrillarin homologue	1
+quinoline 2-oxidoreductase medium subunit	1
+mitochondrial replication protein mtf1	1
+fibrillarin-like pre-rrna processing protein	1
+cutm, flavoprotein of carbon monoxide dehydrogenase	2
+carbon monoxide dehydrogenase medium chain	2
+ribosomal rna large subunit methyltransferase g	1
+methyltransferase mppj	3
+8-demethylnovobiocic acid c(8)-methyltransferase	1
+rrna methyltransferase	1
+probable thiamine pyrophosphokinase	2
+hypothetical protein	2
+uncharacterized protein	2
+trna (guanine-n(7)-)-methyltransferase	3
+putative gentamicin methyltransferase	3
+precorrin-6y methyltransferase/putative decarboxylase	3
+catechol-o-methyltransferase	1
+n-3'' methyltransferase	1

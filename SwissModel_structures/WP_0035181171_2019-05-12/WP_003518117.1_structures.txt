@@ -1,0 +1,8 @@
+Structure	Number
+attaching and effacing protein, pathogenesis factor	3
+sbsb protein	1
+mpafp_rii tetra-tandemer	6
+surface layer protein	6
+s-layer protein sap	4
+putative inner membrane protein	8
+surface (s-) layer glycoprotein	10

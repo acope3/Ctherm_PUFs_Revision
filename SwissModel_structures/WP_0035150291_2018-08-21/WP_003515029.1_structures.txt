@@ -1,0 +1,25 @@
+Structure	Number
+pre-mrna-splicing factor prp46	4
+outer membrane assembly lipoprotein yfgl	4
+pyrrolo-quinoline quinone	4
+methylamine dehydrogenase heavy chain	1
+utp4	2
+eukaryotic translation initiation factor 2a	2
+intraflagellar transport protein 80	1
+protein lp49	1
+dipeptidyl aminopeptidase iv, putative	1
+dipeptidyl peptidase 4	4
+26s proteasome regulatory subunit rpn14	2
+uncharacterized protein ynce	1
+spliceosome wd40 sc	1
+eukaryotic translation initiation factor 3 subunit i	1
+autophagy-related protein 18	1
+wd-40 repeat protein	1
+eukaryotic translation initiation factor 3 subunit b	6
+coatomer subunit alpha	2
+wd repeat-containing protein ygl004c	1
+quinonprotein alcohol dehydrogenase-like protein	2
+aminopeptidase	1
+wd repeat-containing protein 48	5
+amine dehydrogenase	1
+hypothetical bacterial 6-phosphogluconolactonase	1

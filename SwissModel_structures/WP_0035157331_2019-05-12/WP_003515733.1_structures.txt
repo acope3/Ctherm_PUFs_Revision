@@ -1,0 +1,11 @@
+Structure	Number
+rad50 abc-atpase	5
+dna repair protein recn	4
+dna double-strand break repair rad50 atpase,dna double-strand break repair rad50 atpase	4
+chromosome segregation smc protein	1
+chromosome partition protein smc	9
+dna double-strand break repair rad50 atpase	18
+structural maintenance of chromosomes protein 3	1
+chromosome segregation protein smc	2
+putative uncharacterized protein,putative uncharacterized protein	4
+smc protein	2

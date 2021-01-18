@@ -1,0 +1,14 @@
+Structure	Number
+beta-glucosidase	1
+c2 toxin component-ii	2
+anthrax protective antigen	4
+alpha-xylosidase bogh31a	2
+flocculation protein flo5	1
+beta-glucosidase i	2
+complement c1q subcomponent subunit a,complement c1q subcomponent subunit c,complement c1q subcomponent subunit b	1
+adiponectin	2
+flocculin	2
+protective antigen	28
+cerebellin-1,cerebellin-1,cerebellin-1,glutamate receptor ionotropic, delta-2	2
+antifreeze protein	1
+alpha xylosidase	2

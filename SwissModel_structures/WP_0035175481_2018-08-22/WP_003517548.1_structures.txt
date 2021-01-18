@@ -1,0 +1,26 @@
+Structure	Number
+50s ribosomal protein l37ae	6
+dna polymerase ii large subunit	1
+thioredoxin domain containing protein 1	1
+cryia(a)	1
+transcriptional repressor not4	1
+ribosomal protein l37ae	1
+e3 ubiquitin-protein ligase rnf8	7
+photosystem ii reaction center protein x	1
+solute carrier family 2, facilitated glucose transporter member 5	1
+ribosomal protein l37a	1
+np95-like ring finger protein isoform b	2
+substance-p receptor	1
+ribosome biogenesis protein nop10	11
+rhombotin-2, linker, lim domain-binding protein 1	1
+zinc finger hit domain containing protein 2	1
+e3 ubiquitin-protein ligase cbl	1
+zinc finger (an1-like) family protein	1
+uncharacterized protein	1
+fusion protein of lim domain transcription factor lmo4 (77-147) and deaf1 (404-418)	1
+hypothetical protein pf0610	1
+lim domain only 2, linker, lim domain-binding protein 1	2
+claudin-15	1
+protein emre	2
+60s ribosomal protein l43	1
+gdp-mannose transporter 1	2

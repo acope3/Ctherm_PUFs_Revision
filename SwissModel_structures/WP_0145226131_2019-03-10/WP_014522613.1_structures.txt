@@ -1,0 +1,15 @@
+Structure	Number
+swi5-dependent ho expression protein 3	8
+chromosome partition protein mukb,chromosome partition protein mukb	1
+nickel and cobalt resistance protein cnrr	4
+kinetochore protein hec1, kinetochore protein spc25	2
+monopolin complex subunit csm1	8
+uncharacterized protein rv1825/mt1873	4
+myotonin-protein kinase	3
+chromosome partition protein mukb	1
+xrcc4-myh7-(1631-1692) chimera protein	2
+flagellar hook-associated protein 1	2
+general control protein gcn4 and tropomyosin 1 alpha chain	2
+26s protease regulatory subunit 6a	8
+outer capsid protein sigma-1	3
+pilo	2

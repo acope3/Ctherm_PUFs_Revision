@@ -1,0 +1,101 @@
+GO.ID	Term	Annotated	Significant	Expected	Rank in elimFisher	classicFisher	elimFisher	weight01Fisher
+GO:0000272	polysaccharide catabolic process	99	7	1.57	1	0.00065	0.00065	0.00065
+GO:0006935	chemotaxis	44	4	0.7	2	0.00449	0.00449	0.00449
+GO:1901069	guanosine-containing compound catabolic ...	14	2	0.22	3	0.01970	0.01970	0.01970
+GO:0046039	GTP metabolic process	16	2	0.25	4	0.02547	0.02547	0.02547
+GO:0016998	cell wall macromolecule catabolic proces...	17	2	0.27	5	0.02858	0.02858	0.02858
+GO:0045491	xylan metabolic process	18	2	0.29	6	0.03184	0.03184	0.03184
+GO:0050896	response to stimulus	321	9	5.1	106	0.05407	0.34608	0.04123
+GO:0007165	signal transduction	137	5	2.18	10	0.06079	0.06079	0.06079
+GO:0072657	protein localization to membrane	5	1	0.08	12	0.07701	0.07701	0.07701
+GO:0015939	pantothenate metabolic process	6	1	0.1	14	0.09171	0.09171	0.09171
+GO:0042777	plasma membrane ATP synthesis coupled pr...	6	1	0.1	15	0.09171	0.09171	0.09171
+GO:0046373	L-arabinose metabolic process	6	1	0.1	16	0.09171	0.09171	0.09171
+GO:0070838	divalent metal ion transport	7	1	0.11	20	0.10618	0.10618	0.10618
+GO:0008643	carbohydrate transport	8	1	0.13	22	0.12043	0.12043	0.12043
+GO:0006189	'de novo' IMP biosynthetic process	10	1	0.16	26	0.14827	0.14827	0.14827
+GO:0045333	cellular respiration	10	1	0.16	27	0.14827	0.14827	0.14827
+GO:0006605	protein targeting	11	1	0.17	29	0.16188	0.16188	0.16188
+GO:0002376	immune system process	12	1	0.19	33	0.17527	0.17527	0.17527
+GO:0098662	inorganic cation transmembrane transport	34	2	0.54	18	0.09996	0.09996	0.19712
+GO:0009086	methionine biosynthetic process	14	1	0.22	46	0.20143	0.20143	0.20143
+GO:0009154	purine ribonucleotide catabolic process	55	2	0.87	53	0.21662	0.21662	0.21662
+GO:0009207	purine ribonucleoside triphosphate catab...	55	2	0.87	54	0.21662	0.21662	0.21662
+GO:0042398	cellular modified amino acid biosyntheti...	16	1	0.25	59	0.22680	0.22680	0.22680
+GO:0044781	bacterial-type flagellum organization	18	1	0.29	68	0.25138	0.25138	0.25138
+GO:0006313	transposition, DNA-mediated	19	1	0.3	77	0.26339	0.26339	0.26339
+GO:0006979	response to oxidative stress	19	1	0.3	78	0.26339	0.26339	0.26339
+GO:0006281	DNA repair	65	2	1.03	86	0.27629	0.27629	0.27629
+GO:0030243	cellulose metabolic process	22	1	0.35	91	0.29831	0.29831	0.29831
+GO:0044275	cellular carbohydrate catabolic process	24	1	0.38	98	0.32069	0.32069	0.32069
+GO:0051188	cofactor biosynthetic process	100	2	1.59	159	0.47804	0.47804	0.32274
+GO:2000142	regulation of DNA-templated transcriptio...	26	1	0.41	104	0.34239	0.34239	0.34239
+GO:0009058	biosynthetic process	753	10	11.96	239	0.82465	0.82465	0.34815
+GO:0009987	cellular process	1335	21	21.2	204	0.62729	0.62729	0.36273
+GO:0022900	electron transport chain	28	1	0.44	111	0.36341	0.36341	0.36341
+GO:0001539	cilium or flagellum-dependent cell motil...	30	1	0.48	122	0.38379	0.38379	0.38379
+GO:0051604	protein maturation	31	1	0.49	127	0.39374	0.39374	0.39374
+GO:0006508	proteolysis	156	3	2.48	147	0.45672	0.45672	0.45672
+GO:0006260	DNA replication	38	1	0.6	148	0.45917	0.45917	0.45917
+GO:0042364	water-soluble vitamin biosynthetic proce...	40	1	0.64	157	0.47658	0.47658	0.47658
+GO:0055085	transmembrane transport	163	4	2.59	75	0.25618	0.25618	0.47871
+GO:0072330	monocarboxylic acid biosynthetic process	47	1	0.75	182	0.53334	0.53334	0.53334
+GO:0006355	regulation of transcription, DNA-templat...	161	3	2.56	161	0.47821	0.47821	0.63355
+GO:0051301	cell division	64	1	1.02	207	0.64754	0.64754	0.64754
+GO:0090305	nucleic acid phosphodiester bond hydroly...	74	1	1.18	217	0.70157	0.70157	0.70157
+GO:0009108	coenzyme biosynthetic process	76	1	1.21	219	0.71137	0.71137	0.71137
+GO:0006396	RNA processing	81	1	1.29	226	0.73453	0.73453	0.73453
+GO:0032259	methylation	93	1	1.48	232	0.78303	0.78303	0.78303
+GO:0016310	phosphorylation	152	1	2.41	254	0.92120	0.92120	0.92120
+GO:0043604	amide biosynthetic process	165	1	2.62	258	0.93727	0.93727	0.93727
+GO:0044267	cellular protein metabolic process	261	1	4.15	266	0.98901	0.98901	0.98901
+GO:0000096	sulfur amino acid metabolic process	22	1	0.35	92	0.29831	0.29831	1.00000
+GO:0000097	sulfur amino acid biosynthetic process	20	1	0.32	83	0.27521	0.27521	1.00000
+GO:0005975	carbohydrate metabolic process	213	7	3.38	267	0.04397	1.00000	1.00000
+GO:0005976	polysaccharide metabolic process	125	7	1.99	268	0.00261	1.00000	1.00000
+GO:0005996	monosaccharide metabolic process	20	1	0.32	84	0.27521	0.27521	1.00000
+GO:0006073	cellular glucan metabolic process	30	1	0.48	123	0.38379	0.38379	1.00000
+GO:0006082	organic acid metabolic process	241	2	3.83	251	0.91251	0.91251	1.00000
+GO:0006091	generation of precursor metabolites and ...	63	2	1	80	0.26430	0.26430	1.00000
+GO:0006139	nucleobase-containing compound metabolic...	634	10	10.07	193	0.58092	0.58092	1.00000
+GO:0006152	purine nucleoside catabolic process	58	2	0.92	63	0.23442	0.23442	1.00000
+GO:0006163	purine nucleotide metabolic process	138	4	2.19	32	0.17114	0.17114	1.00000
+GO:0006164	purine nucleotide biosynthetic process	72	2	1.14	96	0.31818	0.31818	1.00000
+GO:0006188	IMP biosynthetic process	12	1	0.19	34	0.17527	0.17527	1.00000
+GO:0006195	purine nucleotide catabolic process	57	2	0.91	61	0.22847	0.22847	1.00000
+GO:0006259	DNA metabolic process	152	3	2.41	144	0.43932	0.43932	1.00000
+GO:0006310	DNA recombination	58	1	0.92	202	0.61072	0.61072	1.00000
+GO:0006351	transcription, DNA-templated	171	3	2.72	174	0.52011	0.52011	1.00000
+GO:0006352	DNA-templated transcription, initiation	31	1	0.49	128	0.39374	0.39374	1.00000
+GO:0006520	cellular amino acid metabolic process	158	1	2.51	257	0.92906	0.92906	1.00000
+GO:0006555	methionine metabolic process	16	1	0.25	60	0.22680	0.22680	1.00000
+GO:0006575	cellular modified amino acid metabolic p...	25	1	0.4	99	0.33162	0.33162	1.00000
+GO:0006725	cellular aromatic compound metabolic pro...	712	10	11.31	230	0.75345	0.75345	1.00000
+GO:0006732	coenzyme metabolic process	85	1	1.35	229	0.75176	0.75176	1.00000
+GO:0006753	nucleoside phosphate metabolic process	188	4	2.99	108	0.34895	0.34895	1.00000
+GO:0006754	ATP biosynthetic process	32	1	0.51	134	0.40353	0.40353	1.00000
+GO:0006766	vitamin metabolic process	43	1	0.68	169	0.50167	0.50167	1.00000
+GO:0006767	water-soluble vitamin metabolic process	43	1	0.68	170	0.50167	0.50167	1.00000
+GO:0006790	sulfur compound metabolic process	64	1	1.02	208	0.64754	0.64754	1.00000
+GO:0006793	phosphorus metabolic process	348	5	5.53	214	0.67364	0.67364	1.00000
+GO:0006796	phosphate-containing compound metabolic ...	340	5	5.4	210	0.65167	0.65167	1.00000
+GO:0006807	nitrogen compound metabolic process	1113	14	17.68	261	0.94394	0.94394	1.00000
+GO:0006810	transport	225	5	3.57	88	0.28175	0.28175	1.00000
+GO:0006811	ion transport	87	2	1.38	136	0.40600	0.40600	1.00000
+GO:0006812	cation transport	64	2	1.02	81	0.27029	0.27029	1.00000
+GO:0006886	intracellular protein transport	12	1	0.19	35	0.17527	0.17527	1.00000
+GO:0006928	movement of cell or subcellular componen...	38	1	0.6	149	0.45917	0.45917	1.00000
+GO:0006950	response to stress	141	3	2.24	126	0.39066	0.39066	1.00000
+GO:0006974	cellular response to DNA damage stimulus	78	2	1.24	109	0.35376	0.35376	1.00000
+GO:0006996	organelle organization	73	1	1.16	216	0.69655	0.69655	1.00000
+GO:0007154	cell communication	160	5	2.54	19	0.10334	0.10334	1.00000
+GO:0008104	protein localization	30	1	0.48	124	0.38379	0.38379	1.00000
+GO:0008150	biological_process	1826	29	29	269	1.00000	1.00000	1.00000
+GO:0008152	metabolic process	1533	22	24.35	265	0.92048	0.97759	1.00000
+GO:0008652	cellular amino acid biosynthetic process	107	1	1.7	240	0.82884	0.82884	1.00000
+GO:0009056	catabolic process	250	9	3.97	195	0.01207	0.58637	1.00000
+GO:0009057	macromolecule catabolic process	134	7	2.13	270	0.00389	1.00000	1.00000
+GO:0009059	macromolecule biosynthetic process	389	3	6.18	264	0.96397	0.96397	1.00000
+GO:0009066	aspartate family amino acid metabolic pr...	35	1	0.56	142	0.43201	0.43201	1.00000
+GO:0009067	aspartate family amino acid biosynthetic...	29	1	0.46	116	0.37368	0.37368	1.00000
+GO:0009110	vitamin biosynthetic process	40	1	0.64	158	0.47658	0.47658	1.00000

@@ -1,0 +1,14 @@
+Structure	Number
+nucleoporin nup58/nup45	1
+peroxisome proliferator activated receptor gamma	3
+uncharacterized protein	2
+carboxymuconolactone decarboxylase family	1
+nucleolar transcription factor 1	1
+peroxisome proliferator-activated receptor alpha	8
+nucleoporin p58/p45	2
+peroxisome proliferator activated receptor delta	1
+peroxisome proliferator-activated receptor gamma	5
+conserved metalloprotein	4
+peroxisome proliferator-activated receptor delta	7
+intraflagellar transporter-like protein	1
+hypothetical protein	1

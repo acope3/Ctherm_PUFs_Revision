@@ -1,0 +1,18 @@
+Structure	Number
+acriflavine resistance protein a	4
+uncharacterized protein	16
+seryl-trna synthetase, cytoplasmic	1
+septum site-determining protein minc	4
+ferredoxin-dependent glutamate synthase	1
+mnd1	3
+designed protein 2l4hc2_23	2
+dna double-strand break repair rad50 atpase	2
+prefoldin beta subunit 2	2
+probable septum site-determining protein minc	2
+protein shroom2	2
+ferredoxin-dependent glutamate synthase 2	1
+seryl-trna synthetase	2
+vimentin	4
+prefoldin	1
+multidrug efflux pump subunit acra	2
+rab-3a-interacting protein	1

@@ -1,0 +1,10 @@
+Structure	Number
+rubredoxin 2	2
+anaerobic nitric oxide reductase flavorubredoxin	1
+rubredoxin	33
+rubrerythrin	7
+sugar transporter	1
+mutt/nudix family protein	2
+protein (rubredoxin)	2
+dna protection during starvation protein	1
+hypothetical protein	1

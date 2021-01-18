@@ -1,0 +1,6 @@
+Structure	Number
+abc transporter substrate-binding protein	1
+probable signal peptide protein	1
+pa_0080	1
+lipoprotein	1
+uncharacterized ntf-2 like protein	1

@@ -1,0 +1,4 @@
+Structure	Number
+beta-1 adrenergic receptor	3
+beta1 adrenergic receptor	1
+thioredoxin 1,beta-1 adrenergic receptor	2

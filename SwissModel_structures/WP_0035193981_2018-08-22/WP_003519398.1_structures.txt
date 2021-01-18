@@ -1,0 +1,2 @@
+Structure	Number
+photosystem ii reaction center psb28 protein	5

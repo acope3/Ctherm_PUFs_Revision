@@ -1,0 +1,5 @@
+Structure	Number
+smoothened homolog/soluble cytochrome b562 chimeric protein	3
+nitrogen regulatory protein p-ii	4
+plasma membrane calcium-transporting atpase 1	1
+putative nitrogen regulatory protein p-ii glnb	3

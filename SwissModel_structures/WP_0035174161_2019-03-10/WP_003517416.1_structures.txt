@@ -1,0 +1,6 @@
+Structure	Number
+protein (pvuii endonuclease)	2
+protein (pvuii (e.c.3.1.21.4))	2
+engineered protein or276	2
+anti-platelet protein	1
+type ii restriction enzyme pvuii	4

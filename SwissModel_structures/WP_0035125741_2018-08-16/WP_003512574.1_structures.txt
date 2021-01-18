@@ -1,0 +1,26 @@
+Structure	Number
+dihydropteroate synthase	1
+upf0135 protein mj0927	1
+threonine synthase	2
+yop proteins translocation protein	1
+probable manganase-dependent inorganic pyrophosphatase	3
+succinyl-coa synthetase alpha chain	1
+hypothetical protein af_1212	1
+hpr kinase/phosphatase	2
+conserved hypothetical protein ta0289	2
+sugar-binding transcriptional regulator, laci family	1
+cbs-cp12	2
+succinyl-coa ligase [adp-forming] subunit alpha	5
+putative transcriptional regulator	2
+dihydropteroate synthetase	2
+hypothetical protein ta0289	2
+yop proteins translocation protein u	2
+cbs domain	1
+protein (succinyl-coa synthetase alpha chain)	1
+457aa long hypothetical protein	1
+succinyl-coa synthetase alpha subunit	1
+yscu	2
+probable hpr(ser) kinase/phosphatase	6
+similar to tr|q8yyt1|q8yyt1	2
+escu	5
+glycerophosphoryl diester phosphodiesterase	1

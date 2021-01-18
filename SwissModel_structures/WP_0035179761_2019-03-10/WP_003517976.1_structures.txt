@@ -1,0 +1,10 @@
+Structure	Number
+hamp domain of af1503	4
+cytochrome c oxidase	1
+non-structural protein 5a	5
+interpain a	1
+transcription elongation factor spt5	3
+na+,k+-atpase beta subunit	2
+non-structural polyprotein	2
+cytokine receptor common subunit beta	2
+cytochrome c oxidase subunit 2	1

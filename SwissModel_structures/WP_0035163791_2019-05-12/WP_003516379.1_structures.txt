@@ -1,0 +1,18 @@
+Structure	Number
+silb, silver efflux protein, mfp component of the three components proton antiporter metal efflux system	1
+acriflavine resistance protein a	3
+membrane-fusion protein	3
+membrane fusion protein	2
+putative maca, multidrug resistance protein mexa	3
+macrolide-specific efflux protein maca	2
+putative efflux transporter	1
+fibrinogen alpha chain	4
+putative maca	1
+macrolide export protein maca	3
+lipase c	2
+multidrug resistance protein mexa	8
+cation efflux system protein cusb	8
+emra	1
+multidrug efflux pump subunit acra	5
+dna-directed rna polymerase beta' chain	1
+membrane fusion protein (mfp) heavy metal cation efflux zneb (czcb-like)	2

@@ -1,0 +1,5 @@
+Structure	Number
+uree	8
+urease accessory protein uree	2
+hypothetical protein	2
+psalmotoxin-1	1

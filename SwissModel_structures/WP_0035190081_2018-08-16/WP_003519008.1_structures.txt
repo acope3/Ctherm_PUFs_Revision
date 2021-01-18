@@ -1,0 +1,16 @@
+Structure	Number
+methicillin resistance regulatory protein meci	9
+multidrug resistance operon repressor	4
+predicted transcriptional regulator	2
+lmo2241 protein	1
+penicillinase repressor	3
+probable transcriptional regulator	6
+predicted transcriptional regulators	5
+multiple antibiotic resistance protein marr	1
+marr-family transcriptional regulator	2
+marr family transcriptional regulator	3
+dna-directed rna polymerase iii subunit rpc6	3
+rep protein	2
+transcriptional regulator, marr family	4
+calexcitin	4
+conserved hypothetical protein	1

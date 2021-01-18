@@ -1,0 +1,20 @@
+Structure	Number
+transcription factor mafg	2
+tropomyosin beta chain	4
+tropomyosin alpha-1 chain	2
+transcription factor mafb	7
+cytoplasmic dynein 1 heavy chain 1	1
+dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,rpn1	1
+smooth muscle tropomyosin alpha	4
+line-1 orf1p	3
+tropomyosin alpha chain, skeletal muscle	4
+myosin 2 heavy chain chimera of smooth and cardiac muscle	2
+s2n51-gcn4	4
+myosin 2 heavy chain	2
+green fluorescent protein/cytoplasmic dynein 2 heavy chain 1	1
+myosin heavy chain, striated muscle/general control protein gcn4 chimera	2
+dna repair protein xrcc4,myosin-7	4
+myosin heavy chain, striated muscle/general control protein gcn4	2
+rab guanine nucleotide exchange factor sec2	2
+tnfaip3-interacting protein 2	2
+myosin vi	1

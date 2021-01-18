@@ -1,0 +1,4 @@
+Structure	Number
+sodium,calcium exchanger	1
+sodium/calcium exchanger	1
+uncharacterized membrane protein mj0091	5

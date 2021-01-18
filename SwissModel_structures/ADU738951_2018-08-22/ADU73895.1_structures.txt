@@ -1,0 +1,3 @@
+Structure	Number
+intron encoded endonuclease i-scei	2
+intron-encoded endonuclease i-scei	4

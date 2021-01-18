@@ -1,0 +1,5 @@
+Structure	Number
+tat-secreted protein rv2525c	2
+uncharacterized protein	1
+s-layer protein sap	6
+sbsb protein	1

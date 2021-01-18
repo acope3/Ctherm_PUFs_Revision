@@ -1,0 +1,7 @@
+Structure	Number
+designed protein dhd1:234_a	1
+endo-beta-1, 4-glucanase	1
+protein (glutaminyl-trna synthetase (e.c.6.1.1.18))	3
+egi	1
+glutaminyl-trna synthetase	3
+endo type cellulase engi	1

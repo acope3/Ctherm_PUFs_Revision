@@ -1,0 +1,13 @@
+Structure	Number
+neural hemoglobin	2
+homoserine kinase	2
+calpain-2 catalytic subunit	2
+calpain 2, large [catalytic] subunit precursor	1
+calpain-7	1
+4-hydroxybenzoyl-coa thioesterase	1
+m-calpain	1
+phosphomevalonate kinase	1
+mu-like calpain	2
+ssga-like sporulation-specific cell division protein	2
+m-calpain large subunit	2
+mevalonate diphosphate decarboxylase	2

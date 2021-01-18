@@ -1,0 +1,8 @@
+Structure	Number
+kh-type splicing regulatory protein	2
+poly(rc)-binding protein 2	1
+ribosomal protein l4	1
+plastid ribosomal protein ul4c	1
+heterogeneous nuclear ribonucleoprotein k	5
+putative trna-binding protein	1
+50s ribosomal protein l4, chloroplastic	1

@@ -1,0 +1,8 @@
+Structure	Number
+transcription initiation factor iid 230k chain	1
+thymidine kinase	3
+internal protein i	1
+c2 domain-containing protein-like	1
+extended synaptotagmin-2	5
+vp1	1
+gamma-crystallin d	1

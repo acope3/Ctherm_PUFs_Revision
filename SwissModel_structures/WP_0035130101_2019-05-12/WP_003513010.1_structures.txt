@@ -1,0 +1,21 @@
+Structure	Number
+alpharep a3_a3	1
+iih5 alpharep	2
+catenin alpha-2	3
+ie5 alpharep	1
+rhoptry protein fragment	3
+artificial repeat proteins (alpharep3)	6
+coronin	1
+alpha-helical artificial proteins	1
+alpharep-7	2
+alpharep a3_bgfpd	2
+hypothetical protein yiba	2
+alpha-rep4	4
+alpharep-4	2
+phycocyanobilin lyase subunit alpha	2
+alpha-rep	2
+deoxyhypusine hydroxylase	4
+ba3-2: binder of a3 protein	2
+bgfp-a	2
+ap-2 complex subunit beta-1	2
+bgfp-c	2

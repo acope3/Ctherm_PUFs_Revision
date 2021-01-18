@@ -1,0 +1,5 @@
+Structure	Number
+sag0897 family crispr-associated protein	2
+signal recognition particle 19 kda protein	5
+conserved hypothetical protein tm1506	1
+putative uncharacterized protein	10

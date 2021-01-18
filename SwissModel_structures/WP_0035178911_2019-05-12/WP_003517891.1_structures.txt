@@ -1,0 +1,21 @@
+Structure	Number
+udp-n-acetylmuramoyl-l-alanyl-d-glutamate--ld-lysine ligase	2
+folylpolyglutamate synthase	6
+atp sulfurylase	1
+udp-n-acetylmuramate--alanine ligase	2
+signal recognition 54 kda protein	2
+udp-n-acetylmuramoyl-tripeptide--d-alanyl-d-alanine ligase	3
+udp-n-acetylmuramoylalanine--d-glutamate ligase	6
+ctp synthase 1	1
+signal recognition particle protein	1
+formyltetrahydrofolate synthetase	1
+sa1708 protein	2
+udp-n-acetylmuramate-l-alanine ligase	4
+ctp synthase 2	2
+udp-n-acetylmuramoyl-l-alanine:d-glutamate ligase	1
+formate--tetrahydrofolate ligase	7
+sulfate adenylyltransferase	1
+udp-n-acetylmuramate--l-alanine ligase	4
+folylpolyglutamate synthetase	1
+protein (udp-n-acetylmuramoyl-l-alanine:d-glutamate ligase)	1
+mur ligase family protein	2

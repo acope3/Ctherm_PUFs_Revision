@@ -1,0 +1,7 @@
+Structure	Number
+dermonecrotic toxin	1
+protein tram	2
+spliceosomal protein sf3b155	1
+general control protein gcn4	3
+small inducible cytokine b14	1
+integrase	2

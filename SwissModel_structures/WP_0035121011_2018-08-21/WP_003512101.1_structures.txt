@@ -1,0 +1,10 @@
+Structure	Number
+hypothetical protein sso2532	2
+uncharacterized conserved protein yjbq/upf0047 family, ortholog yugu b.subtilis	2
+conserved hypothetical protein tt1486	2
+malate synthase g	5
+clostridium acetobutylicum q97kl0	4
+hypothetical protein (st2072)	2
+aq_2013 protein	2
+probable malate synthase g	3
+hypothetical protein	6

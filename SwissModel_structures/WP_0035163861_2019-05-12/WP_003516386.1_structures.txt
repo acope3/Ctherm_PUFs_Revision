@@ -1,0 +1,16 @@
+Structure	Number
+putative 4-aminobutyrate aminotransferase	2
+selenocysteine lyase	1
+aluminum resistance protein	2
+serine hydroxymethyltransferase	15
+aspartate aminotransferase	5
+cystathionine beta-lyase family protein, ynbb b.subtilis ortholog	2
+cysteine desulfurase	1
+alanine--glyoxylate aminotransferase	1
+serine--pyruvate aminotransferase	6
+methionine gamma-lyase	1
+isoleucine 2-epimerase	4
+putative cystathionine beta-lyase involved in aluminum resistance	4
+carbon-sulfur lyase involved in aluminum resistance	4
+serine-pyruvate aminotransferase	1
+cysteine desulfurase, mitochondrial	1

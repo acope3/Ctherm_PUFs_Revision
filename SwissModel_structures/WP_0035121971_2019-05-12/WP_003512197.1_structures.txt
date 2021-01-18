@@ -1,0 +1,9 @@
+Structure	Number
+chix	1
+trna pseudouridine synthase a, mitochondrial	5
+elongation factor 1-beta	3
+trna pseudouridine synthase a	5
+lin2157 protein	1
+pseudouridine synthase i	1
+l-alanyl-d-glutamate peptidase	1
+translation elongation factor 1beta	1

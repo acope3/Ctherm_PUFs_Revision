@@ -1,0 +1,6 @@
+Structure	Number
+o-acetyl-adp-ribose deacetylase	2
+uncharacterized thioredoxin-like protein	1
+comf operon protein 2	8
+hypothetical protein st1625	1
+putative polyprotein/phosphatase	1

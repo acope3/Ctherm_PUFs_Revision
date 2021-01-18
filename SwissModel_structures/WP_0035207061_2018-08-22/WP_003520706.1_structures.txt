@@ -1,0 +1,9 @@
+Structure	Number
+uncharacterized protein r354	3
+putative polyprotein/phosphatase	1
+phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase pten	8
+period circadian protein homolog 2	1
+cyclin-dependent kinase inhibitor 3	4
+o-acetyl-adp-ribose deacetylase	1
+icmq	1
+paired amphipathic helix protein sin3b	2

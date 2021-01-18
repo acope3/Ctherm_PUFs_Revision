@@ -1,0 +1,15 @@
+Structure	Number
+preprotein translocase subunit secy	2
+sphingosine 1-phosphate receptor 1, lysozyme chimera	1
+acriflavine resistance protein b	3
+protein translocase subunit secy	2
+sperm whale myoglobin	1
+transcription factor pf0095	5
+preprotein translocase secy subunit	2
+myoglobin (carbonmonoxy)	1
+protein (myoglobin)	4
+abc transporter (hlyb subfamily)	2
+beta-chain hemoglobin	2
+protein translocase subunit secd	3
+hemoglobin a and d beta chain	1
+myoglobin	21

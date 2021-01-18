@@ -1,0 +1,6 @@
+Structure	Number
+espa	1
+ct398	2
+hp0958	1
+adp-ribosylation factor binding protein gga1	4
+geminin	2

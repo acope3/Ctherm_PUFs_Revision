@@ -1,0 +1,17 @@
+Structure	Number
+cc-hex-ii	2
+transcription factor tfiiib component b''	5
+p2f	2
+atp synthase subunit d, mitochondrial	3
+coiled-coil and c2 domain-containing protein 1-like,gh13992p	1
+serine/threonine-protein kinase 4	8
+prefoldin beta subunit 2	2
+serine/threonine-protein kinase 3	8
+dna repair protein xrcc4,tropomyosin alpha-1 chain	2
+prefoldin subunit beta	2
+prefoldin	2
+prefoldin beta subunit 1	1
+general control protein gcn4 and tropomyosin alpha-1 chain	8
+atp synthase subunit d	2
+cc-hex-ii-phi22	1
+serine/threonine-protein kinase hippo	1

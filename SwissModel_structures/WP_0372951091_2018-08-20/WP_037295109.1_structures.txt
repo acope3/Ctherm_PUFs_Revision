@@ -1,0 +1,3 @@
+Structure	Number
+probable ribosomal protein ylxq	1
+glycoprotein gp120	1

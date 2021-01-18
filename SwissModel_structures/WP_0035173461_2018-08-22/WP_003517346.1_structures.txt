@@ -1,0 +1,8 @@
+Structure	Number
+type vi secretion protein	3
+ylmd protein sequence homologue	1
+mitochondrial complex i, b14.5b subunit	1
+nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2	1
+nadh dehydrogenase [ubiquinone] 1 subunit c2	3
+centromere protein t	1
+nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2	1

@@ -1,0 +1,22 @@
+Structure	Number
+hbl b protein	1
+keratin, type i cytoskeletal 10	1
+apolipoprotein e	5
+intraflagellar transport protein 81	2
+plectin	1
+septation ring formation regulator ezra	2
+reticulocyte binding protein 2, putative	3
+pesticidal crystal protein cry6aa	2
+keratin, type i cytoskeletal 14	1
+dna double-strand break repair rad50 atpase	2
+protein grpe	1
+intraflagellar transport protein 74	2
+apolipoprotein a-i	1
+plectin 1	2
+keratin, type ii cytoskeletal 1	1
+green fluorescent protein/cytoplasmic dynein 2 heavy chain 1	1
+keratin, type ii cytoskeletal 5	1
+general control protein gcn4 and tropomyosin 1 alpha chain	8
+protein kinase c and casein kinase ii substrate protein 3	8
+lida protein, substrate of the dot/icm system	1
+rho-associated protein kinase 1	4

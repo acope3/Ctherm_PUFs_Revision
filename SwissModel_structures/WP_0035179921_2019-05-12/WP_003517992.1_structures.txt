@@ -1,0 +1,17 @@
+Structure	Number
+charged multivesicular body protein 3	5
+conserved hypothetical membrane protein	2
+voltage-gated potassium channel	4
+ftsz/tubulin-related protein	2
+transport permease protein	2
+biotin transporter bioy	1
+atp synthase subunit b', chloroplastic	2
+hig1 domain family member 1b	1
+s-component for folate	2
+respiratory supercomplex factor 1, mitochondrial	2
+voltage-gated sodium channel	2
+intraflagellar transport protein 74	2
+pts system, cellobiose-specific iic component	1
+atp synthase subunit b	4
+putative uncharacterized protein	2
+bacillus ps3 atp synthase subunit b	4

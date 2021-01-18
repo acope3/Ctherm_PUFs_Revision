@@ -1,0 +1,9 @@
+Structure	Number
+v-type proton atpase subunit g	8
+v-type proton atpase subunit e	8
+v-type atp synthase, subunit (vapc-therm)	11
+atp synthase subunit b', chloroplastic	4
+v-type atp synthase subunit e	7
+v-type atpase subunit g	4
+atp synthase subunit b, chloroplastic	2
+atp synthase subunit b	6

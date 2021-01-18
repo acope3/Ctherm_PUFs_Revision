@@ -1,0 +1,27 @@
+Structure	Number
+hypothetical upf0122 protein sav1236	2
+chromosome-partitioning protein spo0j	3
+homeobox protein pax-6	1
+protein (prd paired)	1
+arac family transcriptional regulator	1
+protein fdhe homolog	2
+ecf rna polymerase sigma factor sigj	2
+paired box protein pax-8	1
+response regulator receiver	1
+gere	6
+transposable element tc3 transposase	1
+paired box protein pax-5	1
+putative uncharacterized protein	1
+response regulator	1
+sensory transduction regulatory protein	1
+aspartyl/glutamyl-trna(asn/gln) amidotransferase subunit b	5
+xylose operon regulatory protein	1
+sensory transduction regulatory protein, anti-anti-sigma factor phyr	1
+multiple antibiotic resistance protein mara	1
+hypothetical upf0122 protein spy1201/spym3_0842/sps1042/spym18_1152	3
+uncharacterized protein	1
+paired box protein pax5	2
+transcriptional regulatory protein rcsb	4
+hth-type transcriptional regulator gadx	2
+probable chromosome-partitioning protein parb	4
+dna-binding response regulator	1

@@ -1,0 +1,8 @@
+Structure	Number
+cytochrome b-c1 complex subunit 9	5
+ubiquinol-cytochrome c reductase complex 7.2 kda protein	3
+mothers against decapentaplegic homolog 3	2
+'small-conductance mechanosensitive channel, c-terminal peptide from small-conductance mechanosensitive channel'	1
+ubiquinol-cytochrome c reductase complex 6.4 kda protein	1
+cytochrome bc1 complex	1
+merf	2

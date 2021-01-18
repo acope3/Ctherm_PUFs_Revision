@@ -1,0 +1,9 @@
+Structure	Number
+primosomal protein dnai	1
+thiol:disulfide interchange protein (dsbc)	2
+putative sugar-binding lipoprotein	2
+photosystem ii reaction center protein l	10
+sorcin	4
+probable signal peptide protein	1
+protein photosystem ii reaction center protein l	1
+photosystem ii reaction center l protein	1

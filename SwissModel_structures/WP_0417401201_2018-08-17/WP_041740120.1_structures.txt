@@ -1,0 +1,11 @@
+Structure	Number
+l0052	2
+proactivator polypeptide	2
+rop protein	1
+regulatory protein rop	4
+type iii secretion system filament chaperone cesa	2
+protein design 2l4hc2_9	4
+z5138 gene product	1
+stam-binding protein	2
+rop	3
+protein (moloney murine leukemia virus capsid)	1

@@ -1,0 +1,36 @@
+Structure	Number
+ublcp1	1
+ubiquitin-like protein smt3,rna-induced transcriptional silencing complex protein tas3	2
+mkiaa1027 protein	1
+uv excision repair protein rad23	1
+tubulin folding cofactor b	2
+ubiquitin-like protein 4a	1
+talin 1	1
+uv excision repair protein rad23 homolog b	1
+ubiquitin-like protein 3	1
+ubiquitin-like protein	1
+1700011n24rik protein	1
+uv excision repair protein rad23 homolog a	3
+ubiquilin 3	2
+ubiquitin-like protein isg15	4
+parkin	1
+ubiquitin-like protein hplic-2	1
+large proline-rich protein bag6	1
+talin-1	1
+npl4 family protein	1
+hla-b associated transcript-3 isoform b	1
+fermitin family homolog 2	3
+chimera fusion protein of esx-1 secretion system protein eccd1 and maltose-binding periplasmic protein	1
+fermitin family homolog 2,integrin beta-1	2
+fermitin family homolog 2,integrin beta-3	2
+ubiquitin-like protein sb132	1
+polyubiquitin-b	2
+small ubiquitin-related modifier 2	2
+riken cdna 4931431f19	1
+yukd protein	1
+cg11242	1
+esx-1 secretion system protein eccd1	2
+tubulin-folding protein tbce	1
+hla-b-associated transcript 3	1
+ubiquilin-2	1
+ubiquilin-1	1

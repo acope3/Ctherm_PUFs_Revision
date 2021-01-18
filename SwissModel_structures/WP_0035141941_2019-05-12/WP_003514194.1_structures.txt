@@ -1,0 +1,17 @@
+Structure	Number
+chitin elicitor-binding protein	2
+membrane-bound lytic murein transglycosylase	1
+spore germination protein yaah	1
+membrane-bound lytic murein transglycosylase a	8
+putative transglycosylase	2
+resuscitation-promoting factor rpfb	3
+surface protein g	6
+accumulation-associated protein aap g511-spacer-g513 (consensus g5-spacer-consensus g5)	2
+accumulation associated protein	9
+beta-n-acetylhexosaminidase	1
+extracellular protein 6	2
+accumulation associated protein aap g58-spacer-g513 (variant g5-spacer-consensus g5)	1
+aap g58-spacer-g513* (variant g5-spacer-variant g5)	4
+uncharacterized protein yuic	2
+yuic	4
+gna33	2

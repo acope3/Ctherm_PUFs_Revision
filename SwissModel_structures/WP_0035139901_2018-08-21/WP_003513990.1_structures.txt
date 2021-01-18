@@ -1,0 +1,18 @@
+Structure	Number
+esxa	8
+uncharacterized protein	2
+6 kda early secretory antigenic target (esat-6)	1
+6 kda early secretory antigenic target	1
+secreted protein esxb	8
+esat-6-like protein mab_3113	6
+esat-6-like protein esxb	2
+virulence factor esxa	3
+esat-6-like protein esxh	1
+putative uncharacterized protein sag1039	3
+uncharacterized protein gbs1074	2
+sdea	3
+esat-6-like protein 7	2
+esat-6-like protein esxr	2
+putative esat-6-like protein 7	2
+esat-6 like protein esxb	1
+side	3

@@ -1,0 +1,12 @@
+Structure	Number
+2-hydroxymuconate tautomerase	8
+possible atls1-like light-inducible protein	1
+ps01740	1
+macrophage migration inhibitory factor	1
+rhcc	2
+4-oxalocrotonate tautomerase	9
+malonate semialdehyde decarboxylase	2
+4-oxalocrotonate isomerase protein	2
+beta-subunit of trans-3-chloroacrylic acid dehalogenase	1
+putative tautomerase	9
+4-oxalocrotonate tautomerase, putative	1

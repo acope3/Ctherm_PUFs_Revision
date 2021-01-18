@@ -1,101 +1,101 @@
-GO.ID	Term	Annotated	Significant	Expected	Fisher
-GO:0040011	locomotion	35	3	0.41	0.0066
-GO:0000272	polysaccharide catabolic process	35	3	0.41	0.0066
-GO:0006261	DNA-dependent DNA replication	15	2	0.18	0.0123
-GO:0006935	chemotaxis	20	2	0.24	0.0215
-GO:0042330	taxis	21	2	0.25	0.0236
-GO:0006260	DNA replication	26	2	0.31	0.0354
-GO:0006259	DNA metabolic process	74	3	0.87	0.0504
-GO:0090305	nucleic acid phosphodiester bond hydroly...	42	2	0.5	0.0844
-GO:0009605	response to external stimulus	44	2	0.52	0.0915
-GO:0071897	DNA biosynthetic process	11	1	0.13	0.1229
-GO:0042221	response to chemical	57	2	0.67	0.1419
-GO:0097588	archaeal or bacterial-type flagellum-dep...	13	1	0.15	0.1436
-GO:0000910	cytokinesis	15	1	0.18	0.1640
-GO:0001539	cilium or flagellum-dependent cell motil...	15	1	0.18	0.1640
-GO:0022402	cell cycle process	16	1	0.19	0.1740
-GO:0015031	protein transport	16	1	0.19	0.1740
-GO:0048870	cell motility	16	1	0.19	0.1740
-GO:0051674	localization of cell	16	1	0.19	0.1740
-GO:0033036	macromolecule localization	17	1	0.2	0.1839
-GO:0001510	RNA methylation	17	1	0.2	0.1839
-GO:0008104	protein localization	17	1	0.2	0.1839
-GO:0045184	establishment of protein localization	17	1	0.2	0.1839
-GO:0007165	signal transduction	71	2	0.84	0.2017
-GO:0023052	signaling	71	2	0.84	0.2017
-GO:0051716	cellular response to stimulus	135	3	1.59	0.2052
-GO:0006928	movement of cell or subcellular componen...	20	1	0.24	0.2129
-GO:0015833	peptide transport	20	1	0.24	0.2129
-GO:0042886	amide transport	20	1	0.24	0.2129
-GO:0043414	macromolecule methylation	23	1	0.27	0.2410
-GO:0007154	cell communication	86	2	1.01	0.2691
-GO:0090304	nucleic acid metabolic process	230	4	2.71	0.2776
-GO:0071705	nitrogen compound transport	30	1	0.35	0.3030
-GO:0044036	cell wall macromolecule metabolic proces...	31	1	0.37	0.3114
-GO:0050896	response to stimulus	172	3	2.03	0.3305
-GO:0050794	regulation of cellular process	173	3	2.04	0.3340
-GO:0007049	cell cycle	34	1	0.4	0.3363
-GO:0071702	organic substance transport	35	1	0.41	0.3444
-GO:0071554	cell wall organization or biogenesis	36	1	0.42	0.3524
-GO:0006281	DNA repair	36	1	0.42	0.3524
-GO:0009451	RNA modification	38	1	0.45	0.3681
-GO:0050789	regulation of biological process	184	3	2.17	0.3729
-GO:0051301	cell division	41	1	0.48	0.3911
-GO:0006811	ion transport	42	1	0.5	0.3985
-GO:0065007	biological regulation	197	3	2.32	0.4188
-GO:0006974	cellular response to DNA damage stimulus	45	1	0.53	0.4205
-GO:0044260	cellular macromolecule metabolic process	369	5	4.35	0.4531
-GO:0032259	methylation	53	1	0.62	0.4754
-GO:0033554	cellular response to stress	54	1	0.64	0.4820
-GO:0006396	RNA processing	57	1	0.67	0.5011
-GO:0006355	regulation of transcription, DNA-templat...	63	1	0.74	0.5374
-GO:1903506	regulation of nucleic acid-templated tra...	64	1	0.75	0.5432
-GO:2001141	regulation of RNA biosynthetic process	64	1	0.75	0.5432
-GO:0055114	oxidation-reduction process	152	2	1.79	0.5551
-GO:0051252	regulation of RNA metabolic process	67	1	0.79	0.5603
-GO:0016070	RNA metabolic process	159	2	1.87	0.5816
-GO:0006351	transcription, DNA-templated	72	1	0.85	0.5874
-GO:0019219	regulation of nucleobase-containing comp...	72	1	0.85	0.5874
-GO:0097659	nucleic acid-templated transcription	73	1	0.86	0.5926
-GO:2000112	regulation of cellular macromolecule bio...	74	1	0.87	0.5978
-GO:0031326	regulation of cellular biosynthetic proc...	76	1	0.9	0.6079
-GO:0010556	regulation of macromolecule biosynthetic...	76	1	0.9	0.6079
-GO:0043170	macromolecule metabolic process	465	7	5.48	0.6098
-GO:0009889	regulation of biosynthetic process	77	1	0.91	0.6129
-GO:0032774	RNA biosynthetic process	77	1	0.91	0.6129
-GO:0010468	regulation of gene expression	81	1	0.95	0.6323
-GO:0006950	response to stress	82	1	0.97	0.6370
-GO:0051171	regulation of nitrogen compound metaboli...	85	1	1	0.6508
-GO:0031323	regulation of cellular metabolic process	86	1	1.01	0.6553
-GO:0080090	regulation of primary metabolic process	88	1	1.04	0.6642
-GO:0060255	regulation of macromolecule metabolic pr...	90	1	1.06	0.6728
-GO:0006139	nucleobase-containing compound metabolic...	364	4	4.29	0.6747
-GO:0019222	regulation of metabolic process	93	1	1.1	0.6853
-GO:0043412	macromolecule modification	95	1	1.12	0.6934
-GO:0006810	transport	110	1	1.3	0.7485
-GO:0051234	establishment of localization	112	1	1.32	0.7551
-GO:0046483	heterocycle metabolic process	405	4	4.77	0.7715
-GO:0006725	cellular aromatic compound metabolic pro...	407	4	4.8	0.7757
-GO:0034645	cellular macromolecule biosynthetic proc...	227	2	2.68	0.7865
-GO:1901360	organic cyclic compound metabolic proces...	415	4	4.89	0.7921
-GO:0051179	localization	125	1	1.47	0.7943
-GO:0009059	macromolecule biosynthetic process	232	2	2.73	0.7978
-GO:0010467	gene expression	232	2	2.73	0.7978
-GO:0009117	nucleotide metabolic process	137	1	1.61	0.8253
-GO:0006753	nucleoside phosphate metabolic process	138	1	1.63	0.8277
-GO:0009987	cellular process	775	8	9.14	0.8661
-GO:0019637	organophosphate metabolic process	158	1	1.86	0.8694
-GO:0055086	nucleobase-containing small molecule met...	158	1	1.86	0.8694
-GO:0034641	cellular nitrogen compound metabolic pro...	471	4	5.55	0.8851
-GO:0034654	nucleobase-containing compound biosynthe...	212	1	2.5	0.9404
-GO:0006796	phosphate-containing compound metabolic ...	219	1	2.58	0.9463
-GO:0006793	phosphorus metabolic process	222	1	2.62	0.9487
-GO:0044238	primary metabolic process	682	7	8.04	0.9529
-GO:0008152	metabolic process	863	9	10.17	0.9607
-GO:0018130	heterocycle biosynthetic process	245	1	2.89	0.9640
-GO:0019438	aromatic compound biosynthetic process	246	1	2.9	0.9646
-GO:1901362	organic cyclic compound biosynthetic pro...	254	1	2.99	0.9688
-GO:0071704	organic substance metabolic process	719	7	8.48	0.9735
-GO:0044237	cellular metabolic process	684	5	8.06	0.9836
-GO:0044281	small molecule metabolic process	314	1	3.7	0.9884
-GO:0006807	nitrogen compound metabolic process	626	4	7.38	0.9889
+GO.ID	Term	Annotated	Significant	Expected	Rank in elimFisher	weight01Fisher	elimFisher	Protein	PUF
+GO:0006935	chemotaxis	31	3	0.34	1	0.0037	0.0037	WP_003513222.1;WP_003518457.1;WP_003518813.1	WP_003516357.1;WP_003517930.1;WP_014522611.1
+GO:0000272	polysaccharide catabolic process	40	3	0.43	2	0.0077	0.0077	WP_003515342.1;WP_003519375.1;WP_014522595.1	WP_003516357.1;WP_003517930.1;WP_014522611.1
+GO:0006261	DNA-dependent DNA replication	15	2	0.16	3	0.0105	0.0105	WP_003513238.1;WP_003517221.1	WP_003516357.1;WP_003517930.1;WP_014522611.1
+GO:0090305	nucleic acid phosphodiester bond hydroly...	51	2	0.55	7	0.1024	0.1024	NA	NA
+GO:1990748	cellular detoxification	10	1	0.11	8	0.1038	0.1038	NA	NA
+GO:1901700	response to oxygen-containing compound	10	1	0.11	9	0.1038	0.1038	NA	NA
+GO:0071897	DNA biosynthetic process	11	1	0.12	10	0.1136	0.1136	NA	NA
+GO:0006081	cellular aldehyde metabolic process	12	1	0.13	12	0.1233	0.1233	NA	NA
+GO:0097588	archaeal or bacterial-type flagellum-dep...	13	1	0.14	14	0.1329	0.1329	NA	NA
+GO:0009069	serine family amino acid metabolic proce...	15	1	0.16	15	0.1518	0.1518	NA	NA
+GO:0001510	RNA methylation	17	1	0.18	19	0.1704	0.1704	NA	NA
+GO:0006259	DNA metabolic process	84	3	0.91	5	0.1769	0.0564	NA	NA
+GO:0000910	cytokinesis	18	1	0.2	20	0.1795	0.1795	NA	NA
+GO:0015031	protein transport	18	1	0.2	21	0.1795	0.1795	NA	NA
+GO:0007165	signal transduction	81	2	0.88	31	0.2175	0.2175	NA	NA
+GO:0009066	aspartate family amino acid metabolic pr...	28	1	0.3	35	0.2660	0.2660	NA	NA
+GO:0044036	cell wall macromolecule metabolic proces...	34	1	0.37	38	0.3138	0.3138	NA	NA
+GO:0044248	cellular catabolic process	106	2	1.15	40	0.3219	0.3219	NA	NA
+GO:0065008	regulation of biological quality	40	1	0.43	45	0.3587	0.3587	NA	NA
+GO:0006281	DNA repair	43	1	0.47	47	0.3802	0.3802	NA	NA
+GO:0006811	ion transport	50	1	0.54	51	0.4276	0.4276	NA	NA
+GO:1901565	organonitrogen compound catabolic proces...	58	1	0.63	55	0.4778	0.4778	NA	NA
+GO:0044282	small molecule catabolic process	60	1	0.65	56	0.4897	0.4897	NA	NA
+GO:0006396	RNA processing	64	1	0.69	58	0.5128	0.5128	NA	NA
+GO:0055114	oxidation-reduction process	166	2	1.8	60	0.5580	0.5580	NA	NA
+GO:0006355	regulation of transcription, DNA-templat...	94	1	1.02	64	0.6575	0.6575	NA	NA
+GO:0017144	drug metabolic process	104	1	1.13	72	0.6962	0.6962	NA	NA
+GO:0009117	nucleotide metabolic process	150	1	1.63	94	0.8277	0.8277	NA	NA
+GO:0008104	protein localization	19	1	0.21	22	1.0000	0.1886	NA	NA
+GO:0006139	nucleobase-containing compound metabolic...	425	4	4.61	84	1.0000	0.7409	NA	NA
+GO:0006796	phosphate-containing compound metabolic ...	238	1	2.58	110	1.0000	0.9463	NA	NA
+GO:0006807	nitrogen compound metabolic process	719	5	7.8	115	1.0000	0.9752	NA	NA
+GO:0090304	nucleic acid metabolic process	278	4	3.02	44	1.0000	0.3551	NA	NA
+GO:0006974	cellular response to DNA damage stimulus	52	1	0.56	53	1.0000	0.4406	NA	NA
+GO:0043170	macromolecule metabolic process	540	7	5.86	69	1.0000	0.6823	NA	NA
+GO:2001141	regulation of RNA biosynthetic process	94	1	1.02	65	1.0000	0.6575	NA	NA
+GO:0044249	cellular biosynthetic process	519	2	5.63	119	1.0000	0.9944	NA	NA
+GO:0051252	regulation of RNA metabolic process	97	1	1.05	68	1.0000	0.6695	NA	NA
+GO:0045184	establishment of protein localization	19	1	0.21	23	1.0000	0.1886	NA	NA
+GO:0042221	response to chemical	71	4	0.77	37	1.0000	0.2901	NA	NA
+GO:2000112	regulation of cellular macromolecule bio...	105	1	1.14	75	1.0000	0.6998	NA	NA
+GO:0098754	detoxification	11	1	0.12	11	1.0000	0.1136	NA	NA
+GO:0051171	regulation of nitrogen compound metaboli...	117	1	1.27	82	1.0000	0.7405	NA	NA
+GO:0007049	cell cycle	36	1	0.39	41	1.0000	0.3291	NA	NA
+GO:0050896	response to stimulus	193	5	2.09	50	1.0000	0.4033	NA	NA
+GO:0043412	macromolecule modification	107	1	1.16	78	1.0000	0.7070	NA	NA
+GO:0010467	gene expression	276	2	2.99	99	1.0000	0.8423	NA	NA
+GO:0006260	DNA replication	31	2	0.34	4	1.0000	0.0421	NA	NA
+GO:0044260	cellular macromolecule metabolic process	435	5	4.72	59	1.0000	0.5432	NA	NA
+GO:0010468	regulation of gene expression	113	1	1.23	81	1.0000	0.7275	NA	NA
+GO:0043414	macromolecule methylation	24	1	0.26	34	1.0000	0.2325	NA	NA
+GO:0044237	cellular metabolic process	769	6	8.34	112	1.0000	0.9590	NA	NA
+GO:0046483	heterocycle metabolic process	475	4	5.15	97	1.0000	0.8334	NA	NA
+GO:0044238	primary metabolic process	787	8	8.54	103	1.0000	0.9030	NA	NA
+GO:0034654	nucleobase-containing compound biosynthe...	259	1	2.81	113	1.0000	0.9600	NA	NA
+GO:0051674	localization of cell	16	1	0.17	17	1.0000	0.1612	NA	NA
+GO:0051179	localization	135	1	1.46	91	1.0000	0.7921	NA	NA
+GO:0006082	organic acid metabolic process	200	1	2.17	106	1.0000	0.9099	NA	NA
+GO:0019752	carboxylic acid metabolic process	198	1	2.15	104	1.0000	0.9075	NA	NA
+GO:0031323	regulation of cellular metabolic process	117	1	1.27	83	1.0000	0.7405	NA	NA
+GO:0032774	RNA biosynthetic process	108	1	1.17	80	1.0000	0.7105	NA	NA
+GO:0006928	movement of cell or subcellular componen...	22	1	0.24	28	1.0000	0.2152	NA	NA
+GO:0060255	regulation of macromolecule metabolic pr...	122	1	1.32	87	1.0000	0.7559	NA	NA
+GO:0031326	regulation of cellular biosynthetic proc...	106	1	1.15	76	1.0000	0.7034	NA	NA
+GO:0006810	transport	122	1	1.32	88	1.0000	0.7559	NA	NA
+GO:0042886	amide transport	22	1	0.24	29	1.0000	0.2152	NA	NA
+GO:0010556	regulation of macromolecule biosynthetic...	106	1	1.15	77	1.0000	0.7034	NA	NA
+GO:0016052	carbohydrate catabolic process	57	3	0.62	124	1.0000	1.0000	NA	NA
+GO:0080090	regulation of primary metabolic process	119	1	1.29	86	1.0000	0.7467	NA	NA
+GO:0006520	cellular amino acid metabolic process	141	1	1.53	92	1.0000	0.8070	NA	NA
+GO:0009451	RNA modification	42	1	0.46	46	1.0000	0.3731	NA	NA
+GO:1901575	organic substance catabolic process	134	4	1.45	61	1.0000	0.5657	NA	NA
+GO:0009889	regulation of biosynthetic process	107	1	1.16	79	1.0000	0.7070	NA	NA
+GO:1901576	organic substance biosynthetic process	528	2	5.73	121	1.0000	0.9952	NA	NA
+GO:0009987	cellular process	864	9	9.37	85	1.0000	0.7432	NA	NA
+GO:0019222	regulation of metabolic process	125	1	1.36	90	1.0000	0.7647	NA	NA
+GO:0007154	cell communication	97	2	1.05	36	1.0000	0.2841	NA	NA
+GO:0044281	small molecule metabolic process	351	2	3.81	108	1.0000	0.9337	NA	NA
+GO:0009636	response to toxic substance	19	1	0.21	24	1.0000	0.1886	NA	NA
+GO:0043436	oxoacid metabolic process	199	1	2.16	105	1.0000	0.9087	NA	NA
+GO:0071702	organic substance transport	39	1	0.42	43	1.0000	0.3514	NA	NA
+GO:0097237	cellular response to toxic substance	12	1	0.13	13	1.0000	0.1233	NA	NA
+GO:0019438	aromatic compound biosynthetic process	308	1	3.34	117	1.0000	0.9806	NA	NA
+GO:0071704	organic substance metabolic process	829	8	8.99	109	1.0000	0.9438	NA	NA
+GO:0097659	nucleic acid-templated transcription	104	1	1.13	73	1.0000	0.6962	NA	NA
+GO:0071705	nitrogen compound transport	34	1	0.37	39	1.0000	0.3138	NA	NA
+GO:0015833	peptide transport	22	1	0.24	30	1.0000	0.2152	NA	NA
+GO:0006753	nucleoside phosphate metabolic process	152	1	1.65	96	1.0000	0.8320	NA	NA
+GO:1901605	alpha-amino acid metabolic process	101	1	1.1	70	1.0000	0.6850	NA	NA
+GO:0009056	catabolic process	139	4	1.51	62	1.0000	0.5855	NA	NA
+GO:0009057	macromolecule catabolic process	58	3	0.63	125	1.0000	1.0000	NA	NA
+GO:0009058	biosynthetic process	536	2	5.82	122	1.0000	0.9959	NA	NA
+GO:0016070	RNA metabolic process	197	2	2.14	67	1.0000	0.6594	NA	NA
+GO:0044271	cellular nitrogen compound biosynthetic ...	391	1	4.24	120	1.0000	0.9948	NA	NA
+GO:0009059	macromolecule biosynthetic process	270	2	2.93	95	1.0000	0.8319	NA	NA
+GO:0022402	cell cycle process	19	1	0.21	25	1.0000	0.1886	NA	NA
+GO:0019219	regulation of nucleobase-containing comp...	103	1	1.12	71	1.0000	0.6925	NA	NA
+GO:0071554	cell wall organization or biogenesis	38	1	0.41	42	1.0000	0.3441	NA	NA
+GO:0050789	regulation of biological process	217	3	2.35	52	1.0000	0.4284	NA	NA
+GO:0033036	macromolecule localization	20	1	0.22	26	1.0000	0.1976	NA	NA

@@ -1,0 +1,6 @@
+Structure	Number
+conserved hypothetical protein	1
+prion protein	1
+sbni protein	1
+siderophore biosynthesis protein sbni	2
+free serine kinase	5

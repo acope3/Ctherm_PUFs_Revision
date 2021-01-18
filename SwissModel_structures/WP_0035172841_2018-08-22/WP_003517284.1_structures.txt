@@ -1,0 +1,18 @@
+Structure	Number
+galactose mutarotase-like protein	1
+hexose-6-phosphate mutarotase	1
+urease	1
+galactose mutarotase related enzyme	3
+urease (beta subunit)	1
+4-alpha-glucanotransferase	3
+inner membrane protein oxaa	4
+aldose 1-epimerase	7
+protein (urease beta subunit)	2
+tpr-domain containing protein	1
+hypothetical aldose 1-epimerase	1
+gal10 bifunctional protein	1
+hypothetical 37.9 kda protein in bio3-hxt17 intergenic region	1
+membrane protein insertase yidc	3
+galactose mutarotase	8
+slr1438 protein	1
+possible galactose mutarotase	1

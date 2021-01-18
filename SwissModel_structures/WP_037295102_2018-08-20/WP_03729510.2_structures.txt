@@ -1,0 +1,6 @@
+Structure	Number
+nascent polypeptide-associated complex subunit alpha	1
+trna-(ms(2)io(6)a)-hydroxylase, putative	1
+trna-(ms(2)io(6)a)-hydroxylase-like	1
+ataxin-1	2
+poly(a)-specific ribonuclease	1

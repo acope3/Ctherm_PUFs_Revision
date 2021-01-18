@@ -1,0 +1,3 @@
+Structure	Number
+bt_2262	3
+fad-linked sulfhydryl oxidase	8

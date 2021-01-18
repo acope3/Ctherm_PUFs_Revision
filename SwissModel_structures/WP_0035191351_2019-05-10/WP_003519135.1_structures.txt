@@ -1,0 +1,14 @@
+Structure	Number
+fumarate reductase flavoprotein subunit	16
+uncharacterized protein	3
+succinate dehydrogenase flavoprotein subunit	3
+flavocytochrome c	3
+monomeric sarcosine oxidase	4
+uncharacterized protein vp0956	2
+quinol-fumarate reductase flavoprotein subunit a	2
+nikd protein	4
+flavocytochrome c3	2
+protein-methionine sulfoxide oxidase mical1	2
+sarcosine oxidase beta subunit	3
+fructosyl amine:oxygen oxidoreductase	3
+flavocytochrome c fumarate reductase	3

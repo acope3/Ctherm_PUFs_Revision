@@ -1,0 +1,20 @@
+Structure	Number
+catenin alpha-2	3
+vacuolar protein sorting-associating protein 4b	2
+alpha-catenin-like protein hmp-1	2
+glycolipid transfer protein domain-containing protein 1	8
+chemotaxis protein chea	2
+mediator complex subunit 22	2
+skd1 protein	1
+peptide design 2l4hc2_24	2
+vacuolar sorting protein 4b	1
+vacuolar protein sorting-associated protein 4b	1
+steroid receptor rna activator 1	4
+apolipoprotein e	1
+hypothetical protein af_0060	2
+structural polyprotein (pp) p1	1
+vacuolar protein sorting-associated protein 4	6
+factor viii intron 22 protein	1
+putative histidine protein kinase	1
+mediator of rna polymerase ii transcription subunit 22	1
+apolipoprotein e2	1

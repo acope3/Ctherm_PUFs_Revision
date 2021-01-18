@@ -1,0 +1,7 @@
+Structure	Number
+hypothetical protein duf402	2
+domain swapped dimer	2
+fomd	2
+monopolin complex subunit mam1	1
+heparin lyase i	5
+phosphatase sc4828	1

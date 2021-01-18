@@ -1,0 +1,27 @@
+Structure	Number
+endo-beta-n-acetylglucosaminidase h	2
+glycosyl hydrolase, family 18	1
+beta-galactosidase	10
+mannan endo-1,4-beta-mannosidase. glycosyl hydrolase family 5	1
+endo-1,4-beta-mannanase	1
+cwp19	1
+glycogen operon protein glgx	1
+putative sporulation-specific glycosylase ydhd	1
+gh5 endo-beta-1,4-mannanase	1
+chitinase 60	4
+endo-beta-mannanase	1
+putative hemin storage protein	1
+inositol catabolism protein iole	1
+chitinase	3
+endoglucanase d	1
+putative sugar isomerase	1
+d-tagatose 3-epimerase	2
+probable chitinase	1
+beta-1,3-1,4-glucanase	2
+poly-beta-1,6-n-acetyl-d-glucosamine n-deacetylase	3
+cellulase celc	1
+chitinase c1	1
+uncharacterized protein	2
+endo-beta-1,4-mannanase	3
+dextranase	3
+mannan endo-1,4-beta-mannosidase	1

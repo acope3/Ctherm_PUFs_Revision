@@ -1,0 +1,15 @@
+Structure	Number
+botulinum neurotoxin type a	9
+tetanus toxin heavy chain	2
+protein (tetanus toxin hc)	1
+botulinum neurotoxin type e	2
+botulinum neurotoxin type b	12
+s-layer domain-containing protein	2
+bontoxilysin a	2
+botulinum neurotoxin d/c protein	2
+tetanus toxin hc	2
+tetanus neurotoxin	2
+extracellular arabinanase	3
+neurotoxin	6
+tetanus toxin	1
+s-layer protein sap	4

@@ -1,0 +1,17 @@
+Structure	Number
+regulatory protein marr	1
+conserved hypothetical protein tm0937	1
+iclr transcription factor homolog	4
+marr family transcriptional regulator	4
+conserved hypothetical protein	2
+uncharacterized hth-type transcriptional regulator sar2349	2
+probable transcriptional regulatory protein, rv1404	4
+hcar protein	2
+transcriptional regulator	2
+146aa long hypothetical transcriptional regulator	2
+transcriptional regulator tm0710	2
+slya-like transcription regulator	1
+transcriptional regulator, marr family	9
+repressor protein	4
+transcriptional regulator, iclr family	2
+transcriptional regulator slya	8

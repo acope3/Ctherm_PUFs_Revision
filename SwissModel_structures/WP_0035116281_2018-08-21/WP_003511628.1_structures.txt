@@ -1,0 +1,6 @@
+Structure	Number
+30s ribosomal protein s18, chloroplastic	1
+ribosomal protein s18	1
+camp-dependent protein kinase regulatory subunit	2
+regulator of sigma d	1
+30s ribosomal protein s18	16

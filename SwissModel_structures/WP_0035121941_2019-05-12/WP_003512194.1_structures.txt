@@ -1,0 +1,7 @@
+Structure	Number
+major autolysin	2
+repressor protein ci, maltose-binding periplasmic protein	1
+putative peptidoglycan bound protein (lpxtg motif)	1
+glucan-binding protein c, gbpc	1
+yerb protein	2
+decaheme cytochrome c mtrf	1

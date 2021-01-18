@@ -1,0 +1,29 @@
+Structure	Number
+adr1	1
+tim15	1
+zinc finger protein eos	1
+kiaa1045 protein	1
+33 kda chaperonin	1
+tnf receptor-associated factor 6	1
+probable lysine biosynthesis protein	2
+e3 sumo-protein ligase nse2	1
+dna-directed rna polymerase subunit p	1
+zinc finger protein 217	2
+cell division control protein 21	7
+tax1-binding protein 1	1
+dna-directed rna polymerases i, ii, and iii 7.7 kda polypeptide	1
+zinc finger hit domain containing protein 2	1
+zinc finger protein 423	1
+dna-directed rna polymerases i, ii, and iii subunit rpabc4, rpb12	1
+rna polymerase subunit abc10-alpha	1
+rna polymerase subunit, found in rna polymerase complexes i, ii, and iii	3
+poz-, at hook-, and zinc finger-containing protein 1	1
+dna-directed rna polymerases i, ii, and iii subunit rpabc4	1
+fln29 gene product	1
+cellulose synthase, catalytic subunit (irx3)	1
+yeast transcription factor adr1	1
+zinc finger protein 64, isoforms 1	1
+zinc finger protein 57	1
+transcriptional repressor ctcf	5
+calcium-binding and coiled-coil domain-containing protein 2	2
+phd finger protein 24	1

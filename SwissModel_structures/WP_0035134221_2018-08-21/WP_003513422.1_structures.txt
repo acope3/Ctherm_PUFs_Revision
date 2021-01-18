@@ -1,0 +1,8 @@
+Structure	Number
+two-component system yycf/yycg regulatory protein yych	1
+secreted metalloprotease mcp02	1
+putative lipoprotein	2
+extracellular metalloproteinase mep	1
+ypmb protein	1
+germination protein ypeb	1
+yyci protein	3

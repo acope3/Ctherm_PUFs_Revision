@@ -1,0 +1,6 @@
+Structure	Number
+yop proteins translocation protein	1
+mannonate dehydratase	3
+putative dna-binding protein	1
+hypothetical protein vc1899	1
+spore photoproduct lyase	16

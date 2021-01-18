@@ -1,0 +1,5 @@
+Structure	Number
+t-snare vti1	2
+apolipoprotein a-i	1
+nucleosome-remodeling factor subunit bptf	1
+apolipoprotein e	3

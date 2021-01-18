@@ -1,0 +1,13 @@
+Structure	Number
+gallate dioxygenase	3
+protein rs21-c6	2
+caspase-3	1
+pyrophosphatase	2
+rs21-c6	8
+hypothetical protein ypjd	3
+green fluorescent protein,tax1-binding protein 1	2
+hypothetical protein sso3215	1
+mazg-related protein	1
+protein mazg	8
+nucleotide pyrophosphohydrolase	1
+hypothetical protein	6

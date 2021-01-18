@@ -1,0 +1,4 @@
+Structure	Number
+epsilon-thrombin	1
+epsilon thrombin	2
+photosystem ii reaction center psb28 protein	5

@@ -1,0 +1,12 @@
+Structure	Number
+putative metal uptake regulation protein	1
+peroxide operon regulator	2
+edc3	1
+transcriptional regulator (fur family)	2
+ferric uptake regulation protein	22
+probable zinc uptake regulation protein furb	1
+peroxide stress sensing regulator	2
+zinc uptake regulation protein	4
+peroxide stress regulator perr, fur family	2
+putative iron uptake regulatory protein	1
+dna-binding transcriptional dual regulator of siderophore biosynthesis and transport(fur family)	8

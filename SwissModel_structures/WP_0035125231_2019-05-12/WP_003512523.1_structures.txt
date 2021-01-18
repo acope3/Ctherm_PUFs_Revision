@@ -1,0 +1,27 @@
+Structure	Number
+tetratricopeptide repeat protein 5	2
+ctr9,rna polymerase-associated protein ctr9 homolog,rna polymerase-associated protein ctr9 homolog	1
+peroxisome targeting signal 1 receptor	1
+tpr repeat-containing protein	1
+ctr9 protein	1
+cellulose synthase subunit c	5
+transcription factor tau 131 kda subunit	1
+pentatricopeptide repeat protein dppr-u10	1
+peroxisomal targeting signal 1 receptor	2
+udp-n-acetylglucosamine--peptide n-acetylglucosaminyltransferase 110 kda subunit,udp-n-acetylglucosamine--peptide n-acetylglucosaminyltransferase 110 kda subunit	1
+e3 sumo-protein ligase ranbp2	1
+superkiller protein 3	3
+host cell factor 1,udp-n-acetylglucosamine--peptide n-acetylglucosaminyltransferase 110 kda subunit	1
+uncharacterized protein vp0806	1
+protein farnesyltransferase alpha subunit	2
+peroxisome targeting signal 1 receptor pex5	3
+anaphase-promoting complex subunit 7	4
+anaphase-promoting complex subunit 6	1
+anaphase-promoting complex subunit 3	2
+rrp5	1
+rrna biogenesis protein rrp5	2
+cell division cycle protein 27 homolog	7
+yrrb protein	2
+tetratricopeptide repeat protein	1
+lipoprotein nlpi	1
+rna polymerase-associated protein ctr9,rna polymerase ii-associated protein 1	2

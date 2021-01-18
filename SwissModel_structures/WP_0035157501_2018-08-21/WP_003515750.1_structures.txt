@@ -1,0 +1,8 @@
+Structure	Number
+bactofilin a	2
+dna beta-glucosyltransferase	6
+probable septum site-determining protein minc	1
+dna beta-glycosyltransferase	1
+ice-binding protein	2
+antifreeze protein	2
+beta-glucosyltransferase	1

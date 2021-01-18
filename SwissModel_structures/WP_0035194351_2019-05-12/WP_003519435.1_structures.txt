@@ -1,0 +1,6 @@
+Structure	Number
+atp-binding cassette sub-family g member 2	6
+atp-binding cassette sub-family g member 8	2
+antitermination protein n	3
+atp-binding cassette sub-family g member 5	2
+transport permease protein	3

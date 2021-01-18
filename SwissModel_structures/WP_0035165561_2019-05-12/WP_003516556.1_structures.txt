@@ -1,0 +1,19 @@
+Structure	Number
+septum site-determining protein mind	3
+cell division inhibitor (mind-1)	1
+atpase, para family	2
+cell division inhibitor	1
+nitrogenase iron protein	3
+para	3
+cobyrinic acid ac-diamide synthase	4
+uncharacterized protein	4
+nitrogenase iron protein 1	3
+spooj regulator (soj)	4
+probable cell division inhibitor mind	1
+pf-32 protein	2
+site-determining protein	8
+maintenance of carboxysome positioning a protein, mcda	2
+segregation protein	3
+cytosolic fe-s cluster assembly factor cfd1	2
+orf delta'	1
+cobyrinic acid a,c-diamide synthase	3

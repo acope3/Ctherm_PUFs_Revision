@@ -1,0 +1,13 @@
+Structure	Number
+acriflavine resistance protein a	4
+uncharacterized protein	8
+seryl-trna synthetase, cytoplasmic	4
+septation ring formation regulator ezra	2
+mnd1	3
+line-1 retrotransposable element orf1 protein	2
+designed protein 2l4hc2_23	2
+protein (seryl-trna synthetase (e.c.6.1.1.11))	2
+seryl-trna synthetase	16
+probable septum site-determining protein minc	1
+protein (kinesin motor ncd)	1
+multidrug efflux pump subunit acra	5

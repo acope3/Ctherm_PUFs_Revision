@@ -1,0 +1,10 @@
+Structure	Number
+protein regulated by acid ph	1
+aac3-i	4
+adhesion exoprotein	1
+conserved hypothetical protein	4
+acetyltransferase sacol1063	1
+n-acetyltransferase, pseh	1
+lysyl-trna-dependent l-ysyl-phosphatidylgycerol synthase	2
+acetyltransferase, gnat family	1
+alanyl-trna-dependent l-alanyl- phophatidylglycerol synthase	1

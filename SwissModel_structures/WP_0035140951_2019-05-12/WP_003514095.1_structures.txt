@@ -1,0 +1,8 @@
+Structure	Number
+putative regulator of transfer genes arta	2
+type iii secretion system effector protein	7
+t3ss secreted effector nleb homolog	1
+oxysterol-binding protein homolog 6	1
+transferase	6
+putative cytoplasmic protein	1
+non-lee encoded effector protein nleb	2

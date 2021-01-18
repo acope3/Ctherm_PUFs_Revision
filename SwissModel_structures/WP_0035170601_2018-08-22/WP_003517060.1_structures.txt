@@ -1,0 +1,15 @@
+Structure	Number
+septum site-determining protein mind	3
+cell division inhibitor (mind-1)	1
+co dehydrogenase/acetyl-coa synthase complex, accessory protein cooc	6
+para	3
+ntrc-like two-domain protein	2
+light-independent protochlorophyllide reductase iron-sulfur atp-binding protein	3
+atpase, para family	2
+nitrogenase iron protein 1	10
+nitrogenase iron protein	6
+probable cell division inhibitor mind	1
+cheb methylesterase	2
+site-determining protein	6
+segregation protein	2
+cobyrinic acid a,c-diamide synthase	3

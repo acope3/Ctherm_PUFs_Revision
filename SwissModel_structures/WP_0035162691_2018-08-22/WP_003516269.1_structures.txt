@@ -1,0 +1,16 @@
+Structure	Number
+type ii quinohemoprotein alcohol dehydrogenase	2
+methanol dehydrogenase large subunit	2
+quinohemoprotein alcohol dehydrogenase	4
+protein (quinoprotein ethanol dehydrogenase)	2
+methanol dehydrogenase	4
+outer membrane protein assembly factor bamb	4
+alcohol dehydrogenase	2
+methanol dehydrogenase protein, large subunit	2
+pyrrolo-quinoline quinone	4
+methanol dehydrogenase heavy subunit	2
+lipoprotein yfgl	5
+sorbose dehydrogenase	4
+outer membrane assembly lipoprotein yfgl	2
+methanol dehydrogenase subunit 1	10
+glucose dehydrogenase	1

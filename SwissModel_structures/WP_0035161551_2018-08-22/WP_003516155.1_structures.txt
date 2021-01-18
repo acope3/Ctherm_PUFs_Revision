@@ -1,0 +1,4 @@
+Structure	Number
+stonustoxin subunit beta	1
+upf0291 protein ynzc	5
+transcriptional regulator, merr family	4

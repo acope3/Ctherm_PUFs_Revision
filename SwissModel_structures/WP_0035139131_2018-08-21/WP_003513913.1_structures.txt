@@ -1,0 +1,5 @@
+Structure	Number
+rho gdp dissociation inhibitor alpha	1
+soc small outer capsid protein	2
+rho gdp-dissociation inhibitor 1	9
+protein ywib	2

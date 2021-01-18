@@ -1,0 +1,16 @@
+Structure	Number
+tyrosine-protein kinase abl1	5
+the conserved hypothetical protein tt1751	1
+probable isochorismatase	1
+phenazine biosynthesis protein phzd	1
+dna ligase iii	1
+lysozyme	1
+rap guanine nucleotide exchange factor 5	1
+p85 alpha	2
+tyrosine-protein kinase abl2	1
+cyclin-dependent kinase inhibitor 3	4
+pescadillo homolog 1	1
+ycac gene product	1
+alginate biosynthesis protein algj	1
+probable hydrolase	1
+uncharacterized protein apc35924	1

@@ -1,0 +1,3 @@
+Structure	Number
+beta-1,3-xylanase	1
+hypothetical cytosolic protein	2

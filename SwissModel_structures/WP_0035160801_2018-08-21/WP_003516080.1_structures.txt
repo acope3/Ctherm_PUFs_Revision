@@ -1,0 +1,13 @@
+Structure	Number
+diguanylate cyclase ydeh	4
+uncharacterized protein	4
+eal/ggdef domain protein	2
+crispr system cmr subunit cmr2	5
+cyclic dimeric gmp binding protein	2
+diguanylate cyclase dosc	10
+putative uncharacterized protein	1
+protein fimx	1
+cmr2dhd	4
+diguanylate cyclase	8
+csm1	8
+diguanylate cyclase dgcz	1

@@ -1,0 +1,18 @@
+Structure	Number
+septum site-determining protein mind	3
+uncharacterized protein	8
+cell division inhibitor	1
+para	3
+cobyrinic acid a,c-diamide synthase	3
+cobyrinic acid ac-diamide synthase	2
+cell division inhibitor (mind-1)	1
+light-independent protochlorophyllide reductase iron-sulfur atp-binding protein	2
+nitrogenase iron protein 1	8
+nitrogenase iron protein	2
+probable cell division inhibitor mind	1
+pf-32 protein	2
+site-determining protein	5
+cytosolic fe-s cluster assembly factor cfd1	2
+maintenance of carboxysome positioning a protein, mcda	2
+orf delta'	1
+plasmid partition protein a	4

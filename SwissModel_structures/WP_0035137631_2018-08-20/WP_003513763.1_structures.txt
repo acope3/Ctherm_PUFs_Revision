@@ -1,0 +1,7 @@
+Structure	Number
+degv family protein	5
+uncharacterized protein	1
+hypothetical protein apc36103	2
+uncharacterized egv family protein cog1307	2
+edd domain protein, degv family	2
+poly(ethylene terephthalate) hydrolase	2

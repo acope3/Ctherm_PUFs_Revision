@@ -1,0 +1,2 @@
+Structure	Number
+gamma-secretase	1

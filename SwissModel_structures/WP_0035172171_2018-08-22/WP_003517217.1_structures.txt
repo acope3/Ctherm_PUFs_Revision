@@ -1,0 +1,19 @@
+Structure	Number
+general transcription factor iie subunit 1	5
+transcriptional regulator	3
+transcriptional regulator clgr	3
+e3 ubiquitin-protein ligase rnf31	2
+dna dc-&gt;du-editing enzyme apobec-3b	4
+non-structural maintenance of chromosomes element 1 homolog	1
+hypothetical protein pf0610	1
+mepr	3
+clp gene regulator (clgr)	6
+dna-directed rna polymerase iii subunit rpc3	4
+putative transcriptional regulator	3
+dna dc-&gt;du-editing enzyme apobec-3g	3
+trmbl2	2
+selenocysteine-specific elongation factor	5
+34l protein	2
+transcription factor tfiie subunit	1
+homeobox protein tgif1	1
+putative hth-type transcriptional regulator ybaq	1

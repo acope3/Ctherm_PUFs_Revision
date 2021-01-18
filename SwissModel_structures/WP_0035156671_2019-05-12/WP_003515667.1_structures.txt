@@ -1,0 +1,19 @@
+Structure	Number
+transglutaminase 2	1
+arylamine n-acetyltransferase nat	8
+peptide:n-glycanase	1
+coagulation factor xiii	3
+periplasmic protein	2
+arylamine n-acetyltransferase 1	3
+protein (coagulation factor xiii)	4
+putative protease	1
+arylamine n-acetyltransferase	5
+transglutaminase-like enzymes, putative cysteine protease	1
+putative uncharacterized protein	2
+protein-glutamine gamma-glutamyltransferase 2	4
+cellular coagulation factor xiii zymogen	1
+dna repair protein rad4	5
+protein-glutamine gamma-glutamyltransferase	6
+peptide-n(4)-(n-acetyl-beta-glucosaminyl)asparagine amidase	1
+peptide n-glycanase	1
+protein-glutamine glutamyltransferase e3	1

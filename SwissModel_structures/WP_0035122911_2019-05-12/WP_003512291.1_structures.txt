@@ -1,0 +1,25 @@
+Structure	Number
+atp-dependent helicase/nuclease subunit a	4
+protein (helicase pcra)	2
+pre-mrna-splicing factor cwf11	1
+regulator of nonsense transcripts 1	2
+dna-binding protein smubp-2	3
+atp-dependent dna helicase dda	2
+l-arabinose-binding protein	1
+ruvb-like 2	1
+exodeoxyribonuclease v gamma chain	1
+pcra	1
+exodeoxyribonuclease v beta chain	2
+atp-dependent helicase/deoxyribonuclease subunit b	2
+rvb1	1
+ruvb-like protein 2	2
+helicase pcra	1
+intron-binding protein aquarius	1
+dna helicase ii	12
+protein (pcra (subunit))	2
+protein (atp-dependent dna helicase rep.)	2
+orf1ab	2
+actinorhodin polyketide putative beta-ketoacyl synthase 2	1
+recbcd enzyme subunit recb,recbcd enzyme subunit recb,recbcd enzyme subunit recb	1
+recbcd enzyme subunit recc	2
+recbcd enzyme subunit recb	1

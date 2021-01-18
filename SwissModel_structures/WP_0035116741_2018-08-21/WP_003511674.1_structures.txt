@@ -1,0 +1,14 @@
+Structure	Number
+flavoprotein	4
+anaerobic nitric oxide reductase flavorubredoxin	1
+protein (cytochrome p450 bm-3)	1
+uncharacterized protein pa3435	1
+flavodoxin-like domain	3
+putative diflavin flavoprotein a 3	1
+flavodoxin-2	3
+putative flavoprotein	1
+flavodoxin 2	2
+rubredoxin\:oxygen oxidoreductase	1
+protein mioc	2
+flavodoxin	29
+apoflavodoxin	1

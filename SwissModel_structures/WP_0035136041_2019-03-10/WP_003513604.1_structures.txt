@@ -1,0 +1,24 @@
+Structure	Number
+acyl-coa synthetase	2
+aac3-i	7
+platelet-activating factor acetylhydrolase	4
+platelet-activating factor acetylhydrolase ib gamma subunit	1
+putative platelet activating factor	1
+lysine acetyltransferase	4
+n-acetyl-beta-d glucosaminidase	1
+platelet-activating factor acetylhydrolase ib beta subunit	1
+gcn5-related n-acetyltransferase	1
+spermine/spermidine acetyltransferase	1
+acyltransferase	2
+orf1-encoded protein	3
+uncharacterized n-acetyltransferase c825.04c	1
+brain platelet-activating factor acetylhydrolase ib subunit alpha	1
+sialate o-acetylesterase	1
+protein acetyltransferase	1
+diamine acetyltransferase 1	8
+acetyltransferase, gnat family	2
+fdhc	2
+uncharacterized protein	1
+uncharacterized protein bf1531	2
+acetyltransferase pat	2
+putative acylhydrolase	1

@@ -1,0 +1,17 @@
+Structure	Number
+pre-mrna-splicing factor 6	3
+transcription factor tau 131 kda subunit	2
+chloroplast pentatricopeptide repeat protein 10	5
+26s proteasome regulatory subunit rpn2	8
+udp-n-acetylglucosamine--peptide n-acetylglucosaminyltransferase 110	2
+lytic murein transglycosylase	1
+protein (soluble lytic transglycosylase slt70)	1
+assembly chaperone of ribosomal protein l4 (acl4)	1
+26s proteasome non-atpase regulatory subunit 1	14
+tpr repeat-containing protein yhr117w	2
+protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha	1
+interferon-induced protein with tetratricopeptide repeats 2	2
+dnaj homolog subfamily c member 3	2
+70-kda soluble lytic transglycosylase	1
+n-alpha-acetyltransferase 15, nata auxiliary subunit	3
+soluble lytic murein transglycosylase	2

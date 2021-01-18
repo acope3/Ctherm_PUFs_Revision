@@ -1,0 +1,6 @@
+Structure	Number
+dcc-interacting protein 13 alpha	1
+uncharacterized protein	1
+bepe protein	1
+putative sensor histidine kinase domain	1
+30s ribosomal protein s18	1

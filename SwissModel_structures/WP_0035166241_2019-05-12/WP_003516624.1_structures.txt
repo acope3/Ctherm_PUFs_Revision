@@ -1,0 +1,4 @@
+Structure	Number
+nol1/nop2/sun domain family, member 5 isoform 2	1
+african horse sickness virus (serotype 4) vp7	1
+toxic shock syndrome toxin-1	1

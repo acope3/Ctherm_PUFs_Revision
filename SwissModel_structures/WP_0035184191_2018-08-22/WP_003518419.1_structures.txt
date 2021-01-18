@@ -1,0 +1,7 @@
+Structure	Number
+nucleoporin 98	1
+nuclear pore complex protein nup98-nup96	1
+methyl-cpg-binding domain protein 2	4
+methyl-cpg-binding domain protein 3	1
+cdw150	1
+nuclear pore complex protein nup98	3

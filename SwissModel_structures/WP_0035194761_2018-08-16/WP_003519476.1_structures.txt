@@ -1,0 +1,4 @@
+Structure	Number
+uncharacterized protein	4
+outer surface protein a	14
+engineered outer surface protein a (ospa) with the inserted two beta-hairpins	1

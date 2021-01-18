@@ -1,0 +1,18 @@
+Structure	Number
+nitrogen regulatory protein p-ii	3
+swi5-dependent ho expression protein 3	8
+dna topoisomerase 4 subunit b,dna topoisomerase 4 subunit a	1
+protein claret segregational	1
+rab guanine nucleotide exchange factor sec2	2
+nickel and cobalt resistance protein cnrr	4
+kinetochore protein hec1, kinetochore protein spc25	2
+gp7-myh7(1777-1855)-eb1 chimera protein	4
+uncharacterized protein rv1825/mt1873	4
+pii protein	3
+zinc resistance-associated protein	2
+chromosome partition protein mukb	1
+vimentin	2
+miranda	4
+kinesin-like protein kar3	1
+prkc apoptosis wt1 regulator protein	6
+myosin heavy chain, cardiac muscle beta isoform	2

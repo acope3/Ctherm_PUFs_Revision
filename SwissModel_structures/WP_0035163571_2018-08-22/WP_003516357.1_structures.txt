@@ -1,0 +1,32 @@
+Structure	Number
+putative sugar abc transport system, substrate-binding protein	1
+l-arabinose abc transporter, periplasmic l-arabinose-binding protein	1
+abc transporter, carbohydrate uptake transporter-2 (cut2) family, periplasmic sugar-binding protein	1
+galactose-binding protein	2
+abc ribose transporter, periplasmic solute-binding protein	1
+galactose/glucose-binding protein	1
+probable ribose abc transporter, substrate-binding protein	1
+l-arabinose-binding protein	2
+putative abc transporter	1
+d-xylose-binding periplasmic protein	2
+membrane lipoprotein tmpc	1
+periplasmic binding protein/laci transcriptional regulator	4
+basic membrane lipoprotein	1
+autoinducer 2-binding periplasmic protein luxp	4
+l-arabinose-binding periplasmic protein	2
+periplasmic sugar-binding protein	1
+uncharacterized conserved domain protein	1
+sugar abc transporter, periplasmic sugar-binding protein	1
+sugar abc transporter (sugar-binding protein)	1
+monosaccharide abc transporter substrate-binding protein, cut2 family	1
+abc transporter, binding protein	1
+extracellular solute-binding protein	1
+luxp protein	1
+abc transporter substrate binding protein (ribose)	3
+monosaccharide-transporting atpase	1
+uncharacterized protein	1
+membrane lipoprotein tpn38(b)	1
+periplasmic sugar-binding domain protein	1
+maltose operon transcriptional repressor	2
+d-galactose-binding periplasmic protein	7
+transcriptional activator of comk gene	1

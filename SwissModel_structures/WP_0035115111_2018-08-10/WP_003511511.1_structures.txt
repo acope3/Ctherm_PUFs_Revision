@@ -1,0 +1,8 @@
+Structure	Number
+chondroitinase b	1
+major cell-surface adhesin pac	1
+penicillin-binding protein 4	1
+maltoporin	1
+surface protein adhesin	1
+spap	1
+agglutinin receptor	1

@@ -1,0 +1,4 @@
+Structure	Number
+nucleoporin nup58/nup45	1
+nucleoporin p58/p45	2
+hypothetical protein pa2201	1

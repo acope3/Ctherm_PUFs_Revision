@@ -1,0 +1,6 @@
+Structure	Number
+putative integrase	8
+putative periplasmic protein	4
+ribonucleoside-diphosphate reductase large subunit	6
+or446	1
+50s ribosomal protein l18	1

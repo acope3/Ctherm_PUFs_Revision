@@ -1,0 +1,15 @@
+Structure	Number
+molecular chaperone (small heat shock protein)	1
+four helix bundle protein	1
+immunogenic protein mpt70	1
+small heat shock protein	4
+transforming growth factor-beta-induced protein ig-h3	4
+tubulin-specific chaperone c	1
+dna polymerase iii, beta chain	2
+lrc6	1
+fascin	2
+transforming growth factor-beta induced protein ig-h3	1
+putative adhesin	4
+periostin	2
+tungsten-containing formylmethanofuran dehydrogenase 2 subunit c	2
+hypothetical protein	2

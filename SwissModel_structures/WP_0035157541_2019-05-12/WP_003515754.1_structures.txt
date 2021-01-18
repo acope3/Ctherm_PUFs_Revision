@@ -1,0 +1,19 @@
+Structure	Number
+somatoliberin,botulinum neurotoxin type d	2
+endobrevin	1
+pilo protein	3
+e2 glycoprotein	1
+fiber protein	1
+ubiquitin-like protein smt3,rna-induced transcriptional silencing complex protein tas3	2
+envelope glycoprotein b	1
+coat protein a	2
+light chain of monoclonal antibody 5a	1
+envelope glycoprotein gp2	1
+attachment protein g3p	1
+capsid protein vp	1
+infectivity protein g3p	2
+cerebellin-1,cerebellin-1,cerebellin-1,glutamate receptor ionotropic, delta-2	1
+polymerase basic protein 2	3
+minor coat protein	1
+pilo	2
+piln	2

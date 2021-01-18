@@ -1,0 +1,11 @@
+Structure	Number
+uncharacterized protein aq_1974	1
+40s ribosomal protein s14-b	2
+transmembrane emp24 domain-containing protein 10	3
+small heat shock protein hsp26	2
+18.1 kda class i heat shock protein	1
+uncharacterized protein atc0905	1
+outer domain of hiv-1 gp120 (ker2018 od4.2.2)	2
+na/ca exchange protein	2
+heat shock protein 16.9b	2
+nc100	1

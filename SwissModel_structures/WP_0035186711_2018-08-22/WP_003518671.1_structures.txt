@@ -1,0 +1,10 @@
+Structure	Number
+probable thiol peroxidase	2
+trafficking protein particle complex protein 2	2
+in2-1 family protein, glutathione transferase lambda3	1
+thiol:disulfide interchange protein dsba	1
+smad1-mh1	1
+serine protease ns3	5
+immunity factor for spn	3
+trapp-associated protein tca17	1
+sedlin	1

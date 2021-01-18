@@ -1,0 +1,20 @@
+Structure	Number
+glycogen synthase 1	2
+starch synthase i	1
+e.coli maltodextrin phosphorylase	1
+glycogen synthase	4
+maltodextrin phosphorylase	4
+yeast glycogen phosphorylase	1
+glycogen phosphorylase b	6
+glycogen phosphorylase, muscle form	1
+alpha-glucan phosphorylase 2,4-glucan phosphorylase	2
+protein (glycogen phosphorylase b)	1
+probable starch synthase 4, chloroplastic/amyloplastic	1
+glycogen phosphorylase	2
+glycogen phosphorylase a	1
+glycogen phosphorylase, brain form	2
+phosphorylase	2
+alpha-1,4 glucan phosphorylase	1
+granule-bound starch synthase	1
+glycogen phosphorylase, liver form	16
+granule-bound starch synthase 1, chloroplastic/amyloplastic	1

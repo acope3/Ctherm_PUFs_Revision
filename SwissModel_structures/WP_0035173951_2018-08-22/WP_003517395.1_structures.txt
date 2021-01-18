@@ -1,0 +1,30 @@
+Structure	Number
+tungsten formylmethanofuran dehydrogenase subunit fwdf	4
+lactate racemase apoprotein	2
+alternative complex iii subunit b	1
+sulfite redcutase subunit beta	1
+lactate racemase	1
+heterodisulfide reductase, subunit b	1
+adenylylsulfate reductase, subunit b	1
+heterodisulfide reductase, subunit a	3
+sulfite reductase alpha subunit	1
+putative uronate isomerase	1
+sulfite reductase alpha	1
+protein nrdi	4
+bacterioferritin comigratory protein/nadh dehydrogenase	1
+fe-s-cluster-containing hydrogenase	1
+carboxyvinyl-carboxyphosphonate phosphorylmutase	2
+uncharacterized ferredoxin-like protein yfhl	3
+dmso reductase family type ii enzyme, iron-sulfur subunit	1
+sulfite reductase beta subunit	1
+formate dehydrogenase, nitrate-inducible, iron-sulfur subunit	1
+sulfite reductase, dissimilatory-type subunit alpha	2
+adenylylsulfate reductase	6
+sulfite reductase, dissimilatory-type subunit beta	2
+lactate racemization operon protein lara	2
+putative nadh oxidase	1
+sulfite reductase beta	1
+ferredoxin	1
+pyrogallol hydroxytransferase small subunit	1
+protein (ferredoxin)	2
+sulfite redcutase subunit alpha	1

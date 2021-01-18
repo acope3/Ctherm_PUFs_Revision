@@ -1,0 +1,23 @@
+Structure	Number
+adr1	1
+cdc42-interacting protein 4	1
+polycomb protein pcl	4
+regulatory protein gal4	2
+chimera of zif23-gcn4	2
+transcriptional regulator kaiso	3
+formin-binding protein 1-like	1
+short life family protein	4
+transcription factor hetr	4
+trmbf1	1
+phd finger protein alfin-like 1	1
+protein e6	1
+histone-lysine n-methyltransferase mll	1
+histone-lysine n-methyltransferase mll5	2
+metal-response element-binding transcription factor 2	2
+zif268	1
+mll1 phd3-bromo	5
+protein (radr zif268 zinc finger peptide)	1
+protein odd-skipped-related 2	1
+phd finger protein 1	7
+heterocyst differentiation protein	4
+creb-binding protein	1

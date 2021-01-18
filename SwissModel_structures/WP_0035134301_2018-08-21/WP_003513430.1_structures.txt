@@ -1,0 +1,8 @@
+Structure	Number
+uncharacterized protein	3
+peptidoglycan glcnac deacetylase	2
+duf3298 family protein	1
+envelope glycoprotein b	2
+immunogenic protein mpt64	1
+outer membrane protein assembly factor bame	2
+anti-sigma-v factor rsiv	1

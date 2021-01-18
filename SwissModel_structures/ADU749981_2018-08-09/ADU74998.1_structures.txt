@@ -1,0 +1,19 @@
+Structure	Number
+putative transferase ph0793	1
+trna (guanine(37)-n1)-methyltransferase trm5a	2
+hypothetical protein smu.776	2
+sam dependent methyltransferase	2
+uncharacterized protein ph0793	1
+methyltransferase 10 domain containing protein	1
+hypothetical protein mj0883	2
+putative sam-dependent rna methyltransferase	2
+hypothetical protein ph1915	4
+hypothetical protein ttha1280	8
+uncharacterized rna methyltransferase sp_1029	2
+putative uncharacterized protein	8
+putative uncharacterized protein ttha1493	2
+u6 small nuclear rna (adenine-(43)-n(6))-methyltransferase	1
+ribosomal rna large subunit methyltransferase l	4
+upf0064 protein yccw	1
+uncharacterized protein mj0883	5
+putative uncharacterized protein smu.776	2

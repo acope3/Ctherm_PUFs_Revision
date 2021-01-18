@@ -1,0 +1,9 @@
+Structure	Number
+transcriptional repressor copg	3
+bifunctional puta protein	3
+uncharacterized protein orf56	4
+v-type atp synthase subunit e	1
+antitoxin endoai	1
+bifunctional protein puta	5
+proline dehydrogenase	3
+antitoxin vapb26	4

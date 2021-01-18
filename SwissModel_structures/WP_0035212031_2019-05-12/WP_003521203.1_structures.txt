@@ -1,0 +1,11 @@
+Structure	Number
+oligosaccharyl transferase	1
+transmembrane oligosaccharyl transferase, putative	1
+putative uncharacterized protein ph0242	2
+4-amino-4-deoxy-l-arabinose transferase or related glycosyltransferases of pmt family	1
+putative uncharacterized protein	1
+oligosaccharide transferase to n-glycosylate proteins	1
+4-amino-4-deoxy-l-arabinose (l-ara4n) transferase	1
+general glycosylation pathway protein	2
+undecaprenyl-diphosphooligosaccharide--protein glycotransferase	2
+oligosaccharyl transferase stt3 subunit related protein	2

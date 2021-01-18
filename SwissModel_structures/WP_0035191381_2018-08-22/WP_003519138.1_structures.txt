@@ -1,0 +1,10 @@
+Structure	Number
+50s ribosomal protein ctc	1
+uncharacterized protein	2
+lmo2119 protein	2
+ybbr family protein	8
+conserved hypothetical protein	2
+general stress protein ctc	1
+50s ribosomal protein l25/general stress protein ctc	2
+bh0266 protein	2
+50s ribosomal protein l25	30

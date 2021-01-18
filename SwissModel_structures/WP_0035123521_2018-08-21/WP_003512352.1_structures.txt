@@ -1,0 +1,8 @@
+Structure	Number
+cnto7309 heavy chain	1
+t-cell receptor alpha chain v region phds58	2
+ani2.3 tcr a chain	1
+gtpase-activating protein znf289	1
+mab 4-5 heavy chain	1
+t-cell receptor alpha chain v	1
+hepatitis a virus cellular receptor 1	2

@@ -1,0 +1,22 @@
+Structure	Number
+dna repair protein recn	2
+spike glycoprotein	1
+three helix bundle	1
+capsid assembly scaffolding protein,myosin-7	2
+uncharacterized protein	2
+peptide chain release factor 1	2
+protein shroom	2
+fibrinogen alpha chain	8
+general control protein gcn4, putative inner membrane protein, general control protein gcn4	2
+nucleoporin nup62	1
+pre-mrna-splicing factor spf27	2
+outer capsid protein sigma-1	3
+keratin, type ii cytoskeletal 1	1
+fibrinogen beta chain	3
+stromal interaction molecule 1	4
+keratin, type ii cytoskeletal 5	1
+klla0e05809p	1
+nucleoprotein tpr	8
+secreted 45 kda protein	2
+nuclear pore glycoprotein p62	1
+keratin, type i cytoskeletal 14	1

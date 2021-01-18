@@ -1,0 +1,20 @@
+Structure	Number
+u4/u6 small nuclear ribonucleoprotein prp31	8
+ras gtpase-activating-like protein iqgap1	1
+p120gap	2
+computationally designed four-helix bundle protein	2
+ras gtpase-activating-like protein iqgap2	2
+sec14-like protein 4	2
+uncharacterized conserved protein of cog5646	1
+8-amino-7-oxononanoate synthase	5
+serine palmitoyltransferase	5
+sec14-like protein 2	4
+protein or38	1
+bh2032 protein	2
+polyadenylate-binding protein 1	7
+protein yjbr	1
+ydhg protein	1
+5-aminolevulinate synthase	2
+2-amino-3-ketobutyrate coenzyme a ligase	1
+borealin	1
+hypothetical protein	2

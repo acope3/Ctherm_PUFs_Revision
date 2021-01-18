@@ -1,0 +1,17 @@
+Structure	Number
+type vi secretion system tssj	3
+uncharacterized protein	2
+3c protease	3
+picornain 3c	2
+ev-b93 main protease 3c	2
+hevb ev93 3c protease	2
+putative ntf2-like transpeptidase	2
+hypothetical protein egc068	1
+genome polyprotein	2
+transcriptional regulator	3
+3c proteinase	15
+putative transcriptional regulator	3
+3c protein	4
+genome polyprotein: picornain 3c	2
+iclr transcriptional regulator	2
+putative polyketide cyclase	2

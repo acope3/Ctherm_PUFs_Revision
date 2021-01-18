@@ -1,0 +1,4 @@
+Structure	Number
+rod shape determining protein roda	1
+kcsa channel	1
+peptidoglycan glycosyltransferase roda	1

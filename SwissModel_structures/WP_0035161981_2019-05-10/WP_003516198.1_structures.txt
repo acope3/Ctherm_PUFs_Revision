@@ -1,0 +1,5 @@
+Structure	Number
+ap-4 complex accessory subunit tepsin	2
+protein sup-12, isoform a	1
+poly (adp-ribose) polymerase family, member 10 variant	1
+rna-binding region containing protein 1	1

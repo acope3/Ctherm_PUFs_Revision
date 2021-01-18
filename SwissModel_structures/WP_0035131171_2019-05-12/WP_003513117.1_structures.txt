@@ -1,0 +1,9 @@
+Structure	Number
+cobalt/magnesium transport protein cora	4
+hemoglobin linker chain l1	3
+cgmp-dependent protein kinase 1, alpha isozyme	2
+magnesium transport protein cora	18
+divalent cation transport-related protein	6
+cytochrome c oxidase polypeptide 4	2
+general control protein gcn4	8
+vimentin	6

@@ -1,0 +1,19 @@
+Structure	Number
+laminin subunit gamma-1	2
+seryl-trna synthetase	2
+transcription factor myc2	6
+putative histidine kinase covs; vick-like protein	2
+kinetochore protein hec1, kinetochore protein spc25	2
+hamp domain of af1503	4
+wa20	2
+monopolin complex subunit csm1	8
+hypothetical protein tm0693	2
+protein hexim1	2
+myc proto-oncogene protein	3
+cohesin subunit sa-2	3
+hypothetical protein tm_0693	1
+kinetochore protein ndc80	2
+cohesin subunit sa-1	4
+run and tbc1 domain containing 3	1
+putative vacuolar protein sorting-associated protein	3
+laminin subunit alpha-1	1

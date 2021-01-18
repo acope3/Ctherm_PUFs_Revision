@@ -1,0 +1,22 @@
+Structure	Number
+sh3 domain-binding protein 5	8
+ct398	2
+26s proteasome regulatory subunit 6b	3
+synzip1	3
+chromosome partition protein mukb,chromosome partition protein mukb	1
+m protein	1
+formin-like protein 1	2
+cell division protein zapb	1
+mitofusin 1	1
+multicilin	1
+s2n51-gcn4	4
+proteasome-associated atpase	2
+myosin heavy chain, striated muscle/general control protein gcn4 chimera	2
+chromosome partition protein mukb	1
+geminin	4
+tumor susceptibility gene 101 protein	4
+myosin heavy chain, striated muscle/general control protein gcn4	2
+hp0958	1
+centriole protein	2
+myosin-4	1
+homer protein homolog 3	4

@@ -1,0 +1,10 @@
+Structure	Number
+a3dk08 protein	1
+flavocytochrome c	3
+uncharacterized protein	2
+hypothetical protein bsu14040	2
+fumarate reductase flavoprotein subunit	2
+pyrroline-5-carboxylate reductase 1	8
+flavocytochrome c3	3
+flavocytochrome c fumarate reductase	2
+transcriptional regulator, gntr family	3

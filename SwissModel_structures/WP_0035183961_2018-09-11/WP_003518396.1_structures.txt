@@ -1,0 +1,20 @@
+Structure	Number
+endo-beta-n-acetylglucosaminidase h	6
+chitinase 60	3
+beta-galactosidase	2
+chitinase 1	2
+cycloisomaltooligosaccharide glucanotransferase	1
+sucrose isomerase	1
+chitotriosidase-1	2
+chitotriosidase 1	1
+glycoside hydrolase family 10	2
+cwp19	2
+acidic mammalian chitinase	3
+chitinase	9
+chitinase a	5
+1,4-alpha-glucan-branching enzyme, chloroplastic/amyloplastic	1
+poly-beta-1,6-n-acetyl-d-glucosamine n-deacetylase	2
+exo-beta-1,4-mannosidase	1
+s-layer protein sap	4
+n-acetylglucosaminidase	1
+endo-1,4-beta-xylanase a precursor	2

@@ -1,0 +1,5 @@
+Structure	Number
+protein (dna mismatch endonuclease)	1
+interleukin-18	3
+chorismate synthase	6
+metalloprotease stce	1

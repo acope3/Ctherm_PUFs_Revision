@@ -1,0 +1,9 @@
+Structure	Number
+type iv pilus assembly protein pilf	6
+vp1	1
+sphingolipid long chain base-responsive protein lsp1	3
+structural protein vp1	2
+tfiid tbp associated factor 62	1
+tho complex subunit 1	1
+protein of unknown function	1
+alpha-tubulin n-acetyltransferase 1	1

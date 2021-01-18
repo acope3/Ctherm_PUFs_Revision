@@ -1,0 +1,8 @@
+Structure	Number
+uncharacterized protein	5
+bt_4661	1
+cellulosome anchoring protein cohesin region	1
+outer surface protein a	10
+putative cellulosomal scaffoldin protein	2
+probable signal peptide protein	1
+family 88 glycosyl hydrolase	1

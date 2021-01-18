@@ -1,0 +1,17 @@
+Structure	Number
+charged multivesicular body protein 3	4
+hamp domain of af1503	4
+50s ribosomal protein l7/l12	12
+swi5-dependent recombination dna repair protein 1	2
+hypothetical protein yhai	1
+virion-associated protein	7
+rna polymerase sigma factor rpod	1
+protein ycie	2
+mediator of rna polymerase ii transcription subunit 10	1
+sthk cyclic nucleotide-gated potassium channel	1
+conserved domain protein	3
+ferrous iron transport protein c	1
+ribosomal protein l7/l12	1
+tmhc2_e	4
+uncharacterized protein	2
+pcff	4

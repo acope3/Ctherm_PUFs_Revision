@@ -1,0 +1,7 @@
+Structure	Number
+uncharacterized protein	5
+outer surface protein a	10
+cellulosome anchoring protein cohesin region	1
+probable signal peptide protein	1
+putative cellulosomal scaffoldin protein	3
+family 88 glycosyl hydrolase	1

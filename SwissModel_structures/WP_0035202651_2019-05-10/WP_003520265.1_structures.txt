@@ -1,0 +1,17 @@
+Structure	Number
+nemf	2
+dna glycosylase	1
+formamidopyrimidine-dna glycosylase	14
+probable formamidopyrimidine-dna glycosylase	1
+fibronectin/fibrinogen binding protein	6
+endonuclease 8-like l720	1
+formamidopyrimidine-dna glycosidase	3
+mutm	1
+mutm (fpg) protein	2
+fibrinogen binding protein	2
+endonuclease viii	1
+type ii dna topoisomerase vi subunit b	3
+formamido-pyrimidine dna glycosylase	1
+endonuclease 8-like 1	7
+formamidopyrimidine-dna glycosylase 1	4
+formamidopyrimidin dna glycosylase	1

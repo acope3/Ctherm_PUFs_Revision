@@ -1,0 +1,7 @@
+Structure	Number
+arginine repressor	13
+nuclear mrna export protein sac3	2
+transcription factor fapr	5
+arginine repressor/activator protein	6
+iron-sulfur cluster repair protein ytfe	1
+ubiquilin-1	2

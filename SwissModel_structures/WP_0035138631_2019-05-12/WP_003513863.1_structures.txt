@@ -1,0 +1,26 @@
+Structure	Number
+50s ribosomal protein l37ae	1
+dna (cytosine-5)-methyltransferase 3-like	5
+regulator of nonsense transcripts 1	2
+riken cdna 2810002d23 protein	1
+hypothetical protein loc130617	1
+reverse gyrase	5
+f-box only protein 5	1
+p44	1
+wilms tumor protein	2
+protein glpg homolog	1
+transcriptional adapter 2	1
+fusion of n-terminal 17-mer peptide extension to zif12	5
+tax1-binding protein 1	1
+zinc finger hit domain containing protein 2	1
+rhomboid protease glpg	8
+k-ssm1a	1
+riken cdna 2310008m20 protein	1
+midline-1	1
+hypothetical protein flj13222	1
+atp-dependent helicase nam7	1
+zinc finger (an1-like) family protein	2
+general transcription factor iie subunit 1	4
+zinc finger protein 64, isoforms 1 and 2	1
+protein hit1	1
+creb-binding protein	1

@@ -1,0 +1,15 @@
+Structure	Number
+septum site-determining protein mind	3
+putative signal recognition particle receptor	1
+nucleotide-binding protein	2
+para	3
+signal recognition 54 kda protein	2
+mipz	1
+nitrogenase iron protein 1	14
+nitrogenase iron protein	9
+site-determining protein	3
+cytosolic fe-s cluster assembly factor cfd1	2
+segregation protein	2
+atpase involved in chromosome partitioning, para/mind family, mrp homolog	4
+signal recognition particle receptor ftsy	3
+plasmid partition protein a	1

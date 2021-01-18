@@ -1,0 +1,19 @@
+Structure	Number
+phosphatidylinositol 3-kinase regulatory subunit alpha	3
+dynein heavy chain lysozyme chimera	2
+nuclear pore complex protein nup58	1
+precursor to protein sir22	4
+myosin 2 heavy chain	2
+casp8-associated protein 2	6
+m protein	4
+kinetochore protein hec1, kinetochore protein spc25	2
+myosin 2 heavy chain chimera of smooth and cardiac muscle	2
+s2n51-gcn4	4
+myosin heavy chain, cardiac muscle beta isoform	6
+myosin heavy chain, striated muscle/general control protein gcn4 chimera	2
+phosphatidylinositol 3-kinase regulatory subunit beta	1
+guanine nucleotide exchange factor for rab-3a	2
+nuclear pore glycoprotein p62	1
+myosin heavy chain, striated muscle/general control protein gcn4	2
+protein stu2	2
+rab-3a-interacting protein	4

@@ -1,0 +1,17 @@
+Structure	Number
+cas6a	4
+cas6b	3
+cmr6	2
+crispr system cmr subunit cmr3	4
+crispr type iii-associated ramp protein csm3	4
+crispr system cmr subunit cmr6	4
+putative uncharacterized protein ph0350	3
+crispr system cmr subunit cmr4	4
+putative uncharacterized protein	2
+endoribonuclease	1
+cas6 protein	2
+predicted component of a thermophile-specific dna repair system, contains a ramp domain	1
+crispr-associated endoribonuclease cas6 2	8
+crispr-associated endoribonuclease cas6 1	2
+crispr type iii-associated ramp protein csm4	4
+cmr4	2

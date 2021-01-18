@@ -1,0 +1,25 @@
+Structure	Number
+cdc42-interacting protein 4	1
+pulmonary surfactant-associated protein d	3
+general control protein gcn4	1
+putative phou-like phosphate regulatory protein	1
+gp7-myh7-(1526-1571) chimera protein	8
+formin-binding protein 1-like	1
+dna glycosylase	2
+mnd1	3
+unconventional myosin-x, general control protein gcn4 fusion	1
+prefoldin beta subunit 2	2
+synaptosomal-associated protein 25	2
+protein luc7	2
+formamidopyrimidine-dna glycosylase	1
+cell division protein zapb	1
+keratin, type ii cytoskeletal 1	2
+endonuclease 8-like 3	1
+zinc transport protein zntb	1
+keratin, type ii cytoskeletal 5	1
+general control protein gcn4, putative inner membrane protein, general control protein gcn4	3
+putative membrane transport protein	3
+putative tbpip family protein	3
+hth-type transcriptional regulator benm	4
+protein stu2	2
+rab-3a-interacting protein	1

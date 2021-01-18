@@ -1,0 +1,10 @@
+Structure	Number
+major autolysin	2
+uridylate-specific endoribonuclease	4
+outer membrane protein assembly factor bamc	1
+putative orf1ab polyprotein	1
+lipoprotein outs	1
+prhc	1
+phosphoprotein	1
+outer membrane protein assembly factor bamd	2
+replicase polyprotein 1ab	2

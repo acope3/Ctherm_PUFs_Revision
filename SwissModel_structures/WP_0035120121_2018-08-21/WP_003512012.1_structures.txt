@@ -1,0 +1,5 @@
+Structure	Number
+uncharacterized protein	1
+transcription regulator rpir family	1
+putative hth-type transcriptional regulator ybbh	1
+transcriptional regulator	1

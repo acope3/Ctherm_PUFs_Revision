@@ -1,0 +1,10 @@
+Structure	Number
+atp-binding cassette sub-family b member 8, mitochondrial	1
+af1502	2
+wlab protein	4
+atp-driven flippase pglk	2
+lipid a export atp-binding/permease protein msba	7
+abc-type bacteriocin transporter	3
+abc transporter, atp-binding protein	1
+protein glycosylation k	1
+abc transporter	2

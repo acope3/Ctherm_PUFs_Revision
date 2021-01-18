@@ -1,0 +1,4 @@
+Structure	Number
+plasmodial specific lav1-2 protein	1
+putative uncharacterized protein cep-1	2
+obelin	1

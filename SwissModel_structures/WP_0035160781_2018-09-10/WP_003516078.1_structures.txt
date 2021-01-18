@@ -1,0 +1,19 @@
+Structure	Number
+cas6a	6
+crispr system cmr subunit cmr1-1	1
+cmr6	1
+crispr system cmr subunit cmr3	8
+cmr4	2
+crispr system cmr subunit cmr6	2
+crispr type iii-associated ramp protein csm4	2
+crispr system cmr subunit cmr4	4
+putative uncharacterized protein	2
+csc2	1
+protein related to penicillin acylase	1
+acyl-homoserine lactone acylase pvdq	1
+predicted component of a thermophile-specific dna repair system, contains a ramp domain	1
+crispr-associated endoribonuclease cas6 2	8
+crispr-associated endoribonuclease cas6 1	2
+acyl-homoserine lactone acylase pvdq subunit alpha	2
+crispr type iii-associated ramp protein csm3	2
+penicillin g acylase, alpha subunit	1

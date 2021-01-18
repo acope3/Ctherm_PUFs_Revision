@@ -1,2 +1,2 @@
 ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
-M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	1/6	11/317	0.192345832778717	0.192345832778717	NA	Clo1313_0605	1
+M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	1/6	11/283	0.213404603897256	0.213404603897256	NA	Clo1313_0605	1

@@ -1,0 +1,11 @@
+Structure	Number
+tran protein	1
+cmrf35-like molecule 1	1
+xac2610 protein	1
+iron-regulated surface determinant protein h	6
+vitamin b12-binding protein	3
+dsk2	1
+ubiquitin domain-containing protein dsk2	1
+hypothetical protein isdh	2
+iron-regulated surface determinant protein a	6
+iron-regulated surface determinant protein b	6

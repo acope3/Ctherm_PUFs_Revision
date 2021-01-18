@@ -1,0 +1,11 @@
+Structure	Number
+cytochrome c oxidase subunit 6c	5
+cytochrome c oxidase	1
+probable m18-family aminopeptidase 1	1
+immunoglobulin g-binding protein g precursor	1
+bacterioferritin comigratory protein	8
+cytochrome c oxidase polypeptide vic	1
+antitoxin relb	2
+complex iv cox6c	1
+nedd8-activating enzyme e1 catalytic subunit	1
+ubiquitin-activating enzyme e1c	1

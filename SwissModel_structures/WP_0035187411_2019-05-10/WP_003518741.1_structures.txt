@@ -1,0 +1,7 @@
+Structure	Number
+tcpk	3
+portal protein gp20	1
+rs21-c6	8
+dna gyrase subunit b	1
+dna gyrase subunit b,dna gyrase subunit b	7
+de novo designed protein, pfk fold	1

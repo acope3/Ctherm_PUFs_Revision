@@ -1,0 +1,18 @@
+Structure	Number
+d-3-phosphoglycerate dehydrogenase (phosphoglycerate dehydrogenase)	2
+acetolactate synthase, small subunit	1
+gtp pyrophosphokinase	9
+hypothetical protein af1403	3
+gtp pyrophosphokinase,gtp pyrophosphokinase,gtp pyrophosphokinase	1
+probable acetolactate synthase isozyme iii (small subunit)	3
+hypothetical protein hp_0495	1
+glycine cleavage system transcriptional repressor, putative	2
+homoserine dehydrogenase	3
+formyltetrahydrofolate deformylase	6
+act domain protein	2
+unknown protein	2
+mg2+ transport protein	1
+d-3-phosphoglycerate dehydrogenase	10
+hypothetical upf0250 protein ybed	1
+acetolactate synthase isozyme 1 small subunit	1
+acetolactate synthase isozyme iii small subunit	2

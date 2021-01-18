@@ -1,0 +1,18 @@
+Structure	Number
+de novo designed diiron protein	1
+uncharacterized protein	4
+rru_a0973	7
+ribonucleoside-diphosphate reductase subunit beta	2
+ribonucleoside-diphosphate reductase beta chain	1
+uncharacterized protein ne0167	2
+ribonucleoside-diphosphate reductase subunit m2	4
+bacterioferritin	5
+hypothetical protein	2
+nigerythrin	2
+diiron protein	2
+ribonucleoside-diphosphate reductase m2 subunit	1
+pfc_05175	2
+ribonucleoside-diphosphate reductase subunit m2 b	5
+ferritin heavy chain	8
+ribonucleoside-diphosphate reductase beta subunit	1
+encapsulated ferritin	1

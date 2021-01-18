@@ -1,0 +1,11 @@
+Structure	Number
+uncharacterized protein	6
+aureochrome1	8
+f-box/lrr-repeat protein 5	6
+sensory box protein	8
+intersectin-1,nph1-1,intersectin-1	4
+lov protein	8
+uncharacterized protein pf0695	2
+potassium voltage-gated channel subfamily h member 1	2
+adagio protein 1	4
+iron-sulfur cluster repair protein ytfe	2

@@ -1,0 +1,23 @@
+Structure	Number
+feruloyl esterase a	4
+ribosome biogenesis protein erb1	1
+periodic tryptophan protein 2	2
+acylamino-acid-releasing enzyme	4
+triacyl-glycerol acylhydrolase	3
+utp1	1
+intraflagellar transport protein 80	1
+wd-repeat protein 5	1
+lip1, secretory lipase (family 3)	1
+coatomer subunit beta'	1
+rhs2	2
+u4/u6 small nuclear ribonucleoprotein prp4	3
+yenc2	2
+odz3 protein	2
+guanine nucleotide-binding protein g(i)/g(s)/g(t) subunit beta-1	2
+coatomer beta'-subunit	3
+teneurin-2	5
+lipase	6
+tcdb2, tccc3	2
+enp2	1
+periodic tryptophan protein 2-like protein	1
+cell division cycle protein 20 homolog	2

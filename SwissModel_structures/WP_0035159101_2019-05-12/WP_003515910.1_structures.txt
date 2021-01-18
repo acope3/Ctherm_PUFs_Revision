@@ -1,0 +1,17 @@
+Structure	Number
+nifu-like protein	8
+nifu protein (nifu-1)	2
+periplasmic [nifese] hydrogenase, large subunit, selenocysteine-containing	1
+nifu like protein iscu	1
+putative lipoate-protein ligase a subunit 2	1
+sufu	1
+iron-sulfur cluster assembly scaffold protein	1
+nitrogen-fixing nifu-like, n-terminal	1
+iron-sulfur cluster biosynthesis protein iscu	8
+zinc-dependent sulfurtransferase sufu	2
+lipoate-protein ligase a	5
+lipoate--protein ligase	2
+iron sulfur cluster assembly protein 1, mitochondrial	8
+iron-sulfur cluster assembly enzyme iscu, mitochondrial	7
+nitrogen fixation cluster-like	1
+aldehyde oxidase medium subunit	1

@@ -1,0 +1,14 @@
+Structure	Number
+putative uncharacterized protein ncor2	1
+three helix bundle	1
+smoothened,soluble cytochrome b562,smoothened	2
+large-conductance mechanosensitive channel	2
+large conductance mechanosensitive channel protein,riboflavin synthase	7
+uncharacterized protein	2
+lactococcin-a immunity protein	1
+ct584 protein	1
+dna repair protein rev1	13
+protein cpn_0803/cp_1068/cpj0803/cpb0832	2
+smoothened homolog,soluble cytochrome b562,smoothened homolog	4
+lmo2059 protein	1
+zeta_1 toxin	1

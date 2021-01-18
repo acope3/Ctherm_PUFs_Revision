@@ -1,0 +1,12 @@
+Structure	Number
+type iv secretory pathway virb4 components-like protein	4
+cell divisionftsk/spoiiie	12
+uncharacterized protein	2
+v-type atp synthase beta chain	1
+hera	2
+v-type sodium atpase subunit b	8
+atp synthase subunit alpha, mitochondrial	4
+essc	4
+atp synthase alpha chain, mitochondrial	1
+dna translocase ftsk	9
+atp synthase subunit alpha	3

@@ -1,0 +1,4 @@
+Structure	Number
+general control protein gcn4 and tropomyosin 1 alpha chain	6
+malonyl-coa-[acyl-carrier-protein] transacylase	1
+intraflagellar transport protein 74	2

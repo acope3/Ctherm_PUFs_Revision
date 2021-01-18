@@ -1,0 +1,6 @@
+Structure	Number
+general transcription factor iie subunit 1	1
+fusion glycoprotein f0	1
+interferon lambda receptor 1	1
+e3 ubiquitin-protein ligase rnf31	2
+putative uncharacterized protein	1

@@ -1,0 +1,28 @@
+Structure	Number
+sulfite redcutase subunit beta	1
+ferredoxin [2fe-2s]	2
+acid phosphatase	1
+low molecular weight protein-tyrosine-phosphatase a	1
+[2fe-2s] ferredoxin	3
+low molecular weight phosphotyrosine protein phosphatase	6
+possible phosphotyrosine protein phosphatase	1
+sulfite reductase alpha	1
+sulfite reductase [nadph] hemoprotein beta-component	4
+putative low molecular weight protein-tyrosine-phosphatase slr0328	1
+nadh dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial	6
+potential nad-reducing hydrogenase subunit	1
+protein tyrosine phosphatase, putative	1
+low molecular weight protein-tyrosine-phosphatase yfkj	2
+sulfite reductase beta subunit	1
+sulfite reductase alpha subunit	1
+low molecular weight protein-tyrosine-phosphatase	1
+sulfite reductase, dissimilatory-type subunit beta	2
+sulfite reductase hemoprotein	1
+sulfite reductase beta	1
+nad-reducing hydrogenase	2
+acid phosphatase 1	1
+mitochondrial complex i, 24 kda subunit	1
+nadh-quinone oxidoreductase subunit 2	1
+ferredoxin, 2fe-2s	1
+sulfite redcutase subunit alpha	1
+protein tyrosine phosphatase	2

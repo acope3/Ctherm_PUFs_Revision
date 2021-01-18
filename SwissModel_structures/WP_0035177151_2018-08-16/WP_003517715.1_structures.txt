@@ -1,0 +1,7 @@
+Structure	Number
+clostripain-related protein	1
+intimin	1
+copper amine oxidase	8
+capsid protein	1
+protein (copper amine oxidase)	2
+cucumber stellacyanin	1

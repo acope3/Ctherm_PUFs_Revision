@@ -1,0 +1,16 @@
+Structure	Number
+forkhead-associated 1	4
+nuclear inhibitor of protein phosphatase 1	1
+ddk kinase regulatory subunit dbf4,serine/threonine-protein kinase rad53 chimeric protein	2
+serine/threonine-protein kinase chk2	1
+protien kinase spk1	1
+pre-mrna leakage protein 1	1
+cell cycle checkpoint protein chfr	3
+proteasome-associated atpase	1
+arc	2
+rna chaperone proq	1
+meiosis-specific serine/threonine-protein kinase mek1	2
+serine/threonine-protein kinase rad53	1
+fha domain-containing protein ddl	1
+protein kinase spk1	5
+expressed protein	1

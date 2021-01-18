@@ -1,0 +1,7 @@
+Structure	Number
+uncharacterized conserved protein yjbq/upf0047 family, ortholog yugu b.subtilis	2
+malate synthase g	9
+clostridium acetobutylicum q97kl0	4
+hypothetical protein tm0723	2
+probable malate synthase g	2
+aq_2013 protein	2

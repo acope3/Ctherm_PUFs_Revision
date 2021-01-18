@@ -1,0 +1,19 @@
+Structure	Number
+chimera protein of integrin beta-3 and integrin alpha-l	6
+protein transport protein sec24d	1
+protein transport protein sec24b	1
+protein transport protein sec24c	3
+protein transport protein sec24a	3
+von willebrand factor type a	1
+vwa2	1
+integrin beta-6	4
+protein transport protein sec23a	8
+60-kda ss-a/ro ribonucleoprotein	3
+micronemal protein mic2	2
+sec23p	1
+ro sixty-related protein, rsr	1
+sec24 related gene family, member d	1
+protein transport protein sec23	3
+60 kda ss-a/ro ribonucleoprotein	1
+protein transport protein sec24	2
+integrin beta-3	8

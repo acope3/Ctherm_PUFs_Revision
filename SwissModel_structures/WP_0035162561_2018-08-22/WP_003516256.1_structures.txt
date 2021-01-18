@@ -1,0 +1,23 @@
+Structure	Number
+probable acetolactate synthase isozyme iii (small subunit)	3
+hypothetical protein hp_0495	1
+4-amino-4-deoxy-l-arabinose transferase or related glycosyltransferases of pmt family	1
+formyltetrahydrofolate deformylase	1
+de novo designed protein lfr1	2
+hypothetical upf0250 protein ybed	1
+acetolactate synthase isozyme 1 small subunit	1
+putative transcriptional regulator, asnc family	2
+gtp pyrophosphokinase,gtp pyrophosphokinase,gtp pyrophosphokinase	1
+de novo beta sheet design protein or664	1
+act domain protein	2
+4-amino-4-deoxy-l-arabinose (l-ara4n) transferase	1
+protein napd	1
+cell division protein ftsx	5
+cadmium and zinc efflux pump fief	1
+glycine cleavage system transcriptional repressor, putative	2
+gtp pyrophosphokinase	9
+ferrous-iron efflux pump fief	2
+sulfate/molybdate abc transporter, permease protein	1
+hypothetical protein hp0495	1
+probable transcriptional regulatory protein	5
+molybdate/tungstate abc transporter, permease protein	2

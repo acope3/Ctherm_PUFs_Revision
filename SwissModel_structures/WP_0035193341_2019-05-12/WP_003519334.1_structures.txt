@@ -1,0 +1,18 @@
+Structure	Number
+hbl b protein	1
+methyl-accepting chemotaxis protein 2	12
+hp0958	1
+apolipoprotein e	1
+methyl-accepting chemotaxis protein	4
+nhea	2
+spectrin beta chain, erythrocyte	2
+apolipoprotein a-i	4
+spike glycoprotein, spike glycoprotein	4
+outer capsid protein sigma-1	3
+chemotaxis protein chez	1
+alpha-actinin-2	1
+biopolymer transport protein exbb	8
+spectrin alpha chain, brain	1
+fibrinogen alpha subunit	2
+putative vacuolar protein sorting-associated protein	1
+apolipoprotein a-iv	2

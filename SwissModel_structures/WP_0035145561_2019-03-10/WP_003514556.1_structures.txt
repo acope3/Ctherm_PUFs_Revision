@@ -1,0 +1,13 @@
+Structure	Number
+uncharacterized lipoprotein yjha	4
+c5a peptidase	3
+sbsb protein	1
+class 1 collagenase	4
+pmob	1
+surface (s-) layer glycoprotein	10
+bilirubin-inducible fluorescent protein unag	8
+baccell_00875	1
+intracellular proteinase inhibitor	3
+collagenase	3
+s-layer protein sap	6
+colh protein	1

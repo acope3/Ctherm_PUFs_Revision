@@ -1,0 +1,7 @@
+Structure	Number
+ct398	2
+nicotinamide riboside transporter pnuc	1
+adp-ribosylation factor binding protein gga1	4
+geminin	2
+colicin a	2
+hp0958	1

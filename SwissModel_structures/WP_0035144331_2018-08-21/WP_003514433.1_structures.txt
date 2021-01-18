@@ -1,0 +1,28 @@
+Structure	Number
+top7	1
+orotate phosphoribosyltransferase	6
+de novo designed protein or462	1
+heterodisulfide reductase, subunit c	2
+octarellin v.1	2
+or34	2
+sugar isomerase	1
+protein or36	1
+223aa long hypothetical arylmalonate decarboxylase	1
+ap endonuclease, family 2	1
+engineered protein or258	1
+hypothetical protein	2
+rossmann 2x3 fold protein	1
+(2r)-phospho-3-sulfolactate synthase	1
+dph2	2
+de novo designed protein or258	1
+uncharacterized protein smc04130	1
+de novo protein m7	1
+uncharacterized protein apc35924	1
+uncharacterized protein tm_0416	1
+designed protein or32	2
+l-ribulose 3-epimerase	4
+p-loop ntpase fold	1
+de novo designed protein	1
+nosl	1
+maleate cis-trans isomerase	3
+arylmalonate decarboxylase	8

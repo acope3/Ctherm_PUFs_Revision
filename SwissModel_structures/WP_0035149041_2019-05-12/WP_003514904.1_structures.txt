@@ -1,0 +1,21 @@
+Structure	Number
+talin 1	1
+phosphate-specific transport system accessory protein phou homolog	4
+hemoglobin beta	1
+phosphate transport system protein phou homolog 2	2
+hemoglobin subunit beta-1/2	2
+transcription initiation factor tfiid subunit 9	2
+pcff	4
+protein sso2	3
+talin-1	3
+ps1	2
+phosphate transport system protein phou homolog	4
+phosphate transport system protein phou	2
+hemoglobin beta-1/2 chain	1
+stiv-a81	2
+hemoglobin beta chain	2
+putative phou-like phosphate regulatory protein	3
+target of myb protein 1	1
+phosphate uptake regulator	2
+hemoglobin beta-2 chain	1
+hypothetical protein	2

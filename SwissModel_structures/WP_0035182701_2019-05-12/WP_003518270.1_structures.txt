@@ -1,0 +1,10 @@
+Structure	Number
+adp-ribosyl-(dinitrogen reductase) hydrolase	1
+nsfl1 cofactor p47	1
+poly(adp-ribose) glycohydrolase arh3	1
+adp-ribosylhydrolase like 2	2
+split-soret cytochrome c	1
+hypothetical protein mj1187	1
+[protein adp-ribosylarginine] hydrolase	1
+adp-ribosyl-[dinitrogen reductase] glycohydrolase	3
+protein adp-ribosylarginine hydrolase	1

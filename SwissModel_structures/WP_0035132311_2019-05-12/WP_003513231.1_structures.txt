@@ -1,0 +1,4 @@
+Structure	Number
+hypothetical 7-bladed beta-propeller-like protein	2
+epidermal growth factor receptor kinase substrate 8	1
+outer membrane protein assembly factor bamb	2

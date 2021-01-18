@@ -1,0 +1,26 @@
+Structure	Number
+hypoxanthine-guanine phosphoribosyltransferase	2
+putative oxidoreductase fad-binding subunit	1
+sam dependent methyltransferase	1
+methylase, putative	2
+16s rrna methylase	3
+alpha-2,3-/2,8-sialyltransferase	4
+alpha-2,3-sialyltransferase	1
+spermidine synthase	5
+fibrillarin-like rrna/trna 2'-o-methyltransferase	2
+mitochondrial replication protein mtf1	1
+cutm, flavoprotein of carbon monoxide dehydrogenase	2
+hypothetical protein	2
+us2	1
+thiamin pyrophosphokinase family protein	1
+alpha-2,3/8-sialyltransferase	5
+ribosomal protein s2	1
+probable thiamine pyrophosphokinase	2
+ribosomal rna large subunit methyltransferase g	1
+uncharacterized protein	2
+trna (guanine-n(7)-)-methyltransferase	1
+putative gentamicin methyltransferase	1
+precorrin-6y methyltransferase/putative decarboxylase	3
+thiamine pyrophosphokinase	4
+ribosomal rna small subunit methyltransferase a	1
+n-3'' methyltransferase	1

@@ -1,0 +1,5 @@
+Structure	Number
+nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2,nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2, ndufc2	1
+mitochondrial complex i, b14.5b subunit	1
+nadh dehydrogenase [ubiquinone] 1 subunit c2,nadh dehydrogenase [ubiquinone] 1 subunit c2	1
+nadh dehydrogenase [ubiquinone] 1 subunit c2	1

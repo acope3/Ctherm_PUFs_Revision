@@ -1,0 +1,14 @@
+Structure	Number
+uncharacterized protein	2
+eukaryotic translation initiation factor 5a	1
+oryza sativa rurm1-related	1
+major vault protein	1
+yuaf protein	1
+membrane protein implicated in regulation of membrane protease activity	1
+60s ribosomal protein l26, putative	1
+stomatin operon partner protein	1
+conserved protein	1
+nfed short homolog	1
+protein (eukaryotic translation initiation factor 5a)	1
+lipoprotein, putative	1
+50s ribosomal protein l24	8

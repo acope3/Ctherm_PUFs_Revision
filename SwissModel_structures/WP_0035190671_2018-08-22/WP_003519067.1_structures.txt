@@ -1,0 +1,18 @@
+Structure	Number
+low molecular weight phosphotyrosine protein phosphatase	2
+acid phosphatase	1
+tyrosine phosphatase	1
+sulfite reductase beta	1
+nad-reducing hydrogenase	2
+potential nad-reducing hydrogenase subunit	1
+sulfite reductase alpha	1
+nadh dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial	6
+ferredoxin [2fe-2s]	2
+mitochondrial complex i, 24 kda subunit	1
+nadh-quinone oxidoreductase subunit 2	1
+tyrosine phosphatase (e.c.3.1.3.48)	2
+ferredoxin, 2fe-2s	1
+low molecular weight protein-tyrosine-phosphatase a	1
+hypothetical protein lpp1115	2
+[2fe-2s] ferredoxin	3
+low molecular weight protein-tyrosine-phosphatase	1

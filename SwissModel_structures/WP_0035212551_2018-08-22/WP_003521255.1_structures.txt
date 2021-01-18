@@ -1,0 +1,5 @@
+Structure	Number
+limonene-1,2-epoxide hydrolase	1
+phycobilisome lcm core-membrane linker polypeptide	3
+alpha-1,6-mannanase	1
+alkaline d-peptidase	1

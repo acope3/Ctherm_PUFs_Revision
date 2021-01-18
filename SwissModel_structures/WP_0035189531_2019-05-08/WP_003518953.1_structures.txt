@@ -1,0 +1,23 @@
+Structure	Number
+branched-chain-amino-acid transaminase	2
+branched-chain amino acid aminotransferase	10
+hypothetical aminotransferase	1
+branched chain aminotransferase 1, cytosolic	1
+cputa1	1
+branched-chain-amino-acid aminotransferase, mitochondrial	2
+branched-chain aminotransferase	2
+4-amino-4-deoxychorismate lyase	1
+at-omegata	1
+amine transaminase	2
+branched-chain-amino-acid aminotransferase	5
+aminotransferase	1
+(r)-amine transaminase	4
+d-amino acid aminotransferase	4
+branched-chain-amino-acid aminotransferase, cytosolic	1
+branched-chain amino acid aminotransferase, mitochondrial	3
+branched chain amino acid aminotransferase (mitochondrial)	3
+putative branched-chain-amino-acid aminotransferase	1
+putative branched-chain amino acid aminotransferase ilve	1
+amine transaminase (fold iv)	1
+branched-chain transaminase	1
+d-alanine aminotransferase	2

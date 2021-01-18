@@ -1,0 +1,5 @@
+Structure	Number
+optineurin	4
+nf-kappa-b essential modulator	4
+uncharacterized protein involved in cysteine biosynthesis	1
+sulfate transporter cysz	7

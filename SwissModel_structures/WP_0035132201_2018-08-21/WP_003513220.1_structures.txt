@@ -1,0 +1,6 @@
+Structure	Number
+na(+)/h(+) antiporter	1
+photosystem ii reaction center protein x	1
+effector protein lem4 (lpg1101)	2
+photosystem ii reaction center x protein	4
+calcium release-activated calcium channel protein 1	4

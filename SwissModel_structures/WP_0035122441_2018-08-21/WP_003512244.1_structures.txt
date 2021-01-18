@@ -1,0 +1,12 @@
+Structure	Number
+vacuolar protein sorting-associated protein 28	1
+cobalt-containing nitrile hydratase subunit beta	1
+histone h2b 1.1	3
+co-type nitrile hydratase beta subunit	4
+designed helical repeat protein	1
+histone h2b type 1-a	2
+nitrile hydratase beta subunit	4
+putative uncharacterized protein	2
+vps28-prov protein	2
+histone h2b	2
+structural maintenance of chromosomes protein 5	1

@@ -1,0 +1,19 @@
+Structure	Number
+protein rs21-c6	2
+biofilm growth-associated repressor	2
+possible transcriptional regulatory arsr-family protein	1
+czra protein	4
+arsr family transcriptional regulator	2
+rs21-c6	1
+transcriptional repressor smtb	5
+hypothetical protein ypjd	3
+repressor protein	2
+mazg-related protein	1
+possible transcriptional regulatory protein (possibly arsr-family)	2
+protein mazg	8
+nucleotide pyrophosphohydrolase	1
+transcriptional regulatory protein arsr family	2
+nolr	5
+possible transcriptional regulator, arsr family protein	1
+arsenical resistance operon repressor, putative	2
+hypothetical protein	6

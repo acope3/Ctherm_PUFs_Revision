@@ -1,0 +1,8 @@
+Structure	Number
+dna-directed rna polymerase	1
+eukaryotic peptide chain release factor subunit 1	3
+fmn-binding protein	2
+stage v sporulation protein t	1
+dna-directed rna polymerase subunit h	1
+protein (subunit h)	1
+or446	1

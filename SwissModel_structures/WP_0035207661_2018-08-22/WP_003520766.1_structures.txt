@@ -1,0 +1,8 @@
+Structure	Number
+nuclear movement protein	1
+uncharacterized protein	1
+cupa	1
+putative lipoprotein	2
+iron-regulated surface determinant protein c	3
+nudc domain-containing protein 2	1
+hypothetical protein	3

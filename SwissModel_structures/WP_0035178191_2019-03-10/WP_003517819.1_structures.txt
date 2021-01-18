@@ -1,0 +1,9 @@
+Structure	Number
+yopt	1
+double-stranded rna-specific adenosine deaminase	6
+tumor stroma and activated macrophage protein dlm-1	1
+hth-type transcriptional regulator cymr	2
+hth-type transcriptional regulator iscr	2
+leucine responsive regulatory protein	1
+z-dna binding protein 1	2
+putative transcription regulator	1

@@ -1,0 +1,11 @@
+Structure	Number
+fig000988: predicted permease	2
+lipoprotein-releasing system transmembrane protein lole	1
+macrolide export atp-binding/permease protein yknz	2
+lipoprotein-releasing system transmembrane protein lolc	4
+lipopolysaccharide export system permease protein lptg	4
+lipopolysaccharide export system permease protein lptf	1
+lipoprotein-releasing system transmembrane protein lolc,lipoprotein-releasing system transmembrane protein lolc	1
+putative permease protein, abc transporter	2
+abc transporter permeae	4
+macrolide export atp-binding/permease protein macb	29

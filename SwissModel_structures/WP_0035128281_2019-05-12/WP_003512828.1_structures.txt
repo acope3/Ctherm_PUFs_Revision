@@ -1,0 +1,6 @@
+Structure	Number
+autophagy protein 5	11
+extracellular metalloproteinase mep	1
+cell division protein ftsh homolog	1
+putative zinc metalloprotease mj0392	2
+atg5	1

@@ -1,0 +1,8 @@
+Structure	Number
+uncharacterized protein	1
+isatin hydrolase b	1
+isatin hydrolase a	2
+hypothetical protein mj0783	1
+kynurenine formamidase	4
+isatin hydrolase	2
+hydrolase	2

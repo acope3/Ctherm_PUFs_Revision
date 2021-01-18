@@ -1,0 +1,22 @@
+Structure	Number
+mitochondria fission 1 protein	4
+histone lysine methyltransferase smyd1	1
+lmo0325 protein	1
+fis1	1
+outer membrane assembly lipoprotein yfio	1
+interferon-induced protein with tetratricopeptide repeats 1	1
+ah receptor-interacting protein	1
+bama-bamd fusion protein	1
+superkiller protein 3	2
+plcr protein	1
+n-lysine methyltransferase smyd2	9
+hat1-interacting factor 1	3
+neutrophil cytosol factor 2	1
+assembly chaperone of ribosomal protein l4 (acl4)	1
+set and mynd domain-containing protein 3	3
+set and mynd domain-containing protein 2	1
+histone-lysine n-methyltransferase smyd3	5
+transcriptional regulator	8
+cyclophilin 40	2
+transcriptional activator plcr protein	2
+tpr2a-domain of hop	1

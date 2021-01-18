@@ -1,0 +1,7 @@
+Structure	Number
+uncharacterized protein	1
+carboxylesterases	1
+nickel-cobalt-cadmium resistance protein nccx	2
+thioredoxin signature protein	2
+nucleoporin pom152	1
+cytochrome c biogenesis protein ccmg	1

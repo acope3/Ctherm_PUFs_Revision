@@ -1,0 +1,17 @@
+Structure	Number
+outer membrane assembly lipoprotein yfio	1
+putative fimbrial biogenesis and twitching motility protein	1
+bama-bamd fusion protein	1
+protein tom71	1
+cell division cycle protein 23 homolog	8
+spbc2 prophage-derived uncharacterized protein yopk	7
+26s proteasome regulatory subunit rpn6	8
+proteasome (prosome, macropain) 26s subunit, non-atpase, 3	4
+26s proteasome non-atpase regulatory subunit 3	3
+70 kda peptidylprolyl isomerase, putative	1
+protein (soluble lytic transglycosylase slt70)	1
+atfkbp42	1
+esx-1 secretion system protein ecca1	1
+anaphase-promoting complex subunit 8	3
+cellulose synthase subunit c	5
+aimr transcriptional regulator	4

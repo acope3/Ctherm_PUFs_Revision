@@ -1,0 +1,8 @@
+Structure	Number
+a-type atp synthase subunit e	1
+v-type proton atpase subunit g	13
+v-type proton atpase subunit e	8
+v-type atp synthase subunit e	12
+atp synthase subunit b, chloroplastic	2
+atp synthase subunit b	6
+flagellar assembly protein flih	8

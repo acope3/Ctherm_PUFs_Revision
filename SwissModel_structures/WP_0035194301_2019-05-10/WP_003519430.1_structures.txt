@@ -1,0 +1,22 @@
+Structure	Number
+von willebrand factor	13
+aerotolerance-related membrane protein	1
+hypothetical membrane spanning protein	2
+complement factor b	1
+ro sixty-related protein, rsr	1
+general transcription factor iih subunit 2	2
+integrin alpha-m	5
+integrin alpha-l	2
+suppressor of stem-loop protein 1	2
+proximal thread matrix protein 1	2
+general transcription factor iih subunit 2, p44	1
+conserved hypothetical protein batb	1
+vwa2	1
+26s proteasome non-atpase regulatory subunit 4	6
+integrin	1
+von willebrand factor type a	1
+60-kda ss-a/ro ribonucleoprotein	3
+26s proteasome subunit s5a	2
+atp-dependent dna helicase ii subunit 1	1
+anthrax toxin receptor 2	1
+60 kda ss-a/ro ribonucleoprotein	1

@@ -1,0 +1,26 @@
+Structure	Number
+response regulator pled	2
+cgmp-specific 3',5'-cyclic phosphodiesterase	5
+cgmp-dependent 3',5'-cyclic phosphodiesterase	2
+uncharacterized protein bd1817	2
+3',5'-cyclic nucleotide phosphodiesterase 2a	1
+response regulator receiver:metal-dependent phosphohydrolase, hd subdomain	1
+hd superfamily hydrolase	1
+mmoq response regulator	1
+5'-deoxynucleotidase yfbr	1
+3'3'-cgamp-specific phosphodiesterase 3	3
+adenylate cyclase	2
+cyclic di-gmp phosphodiesterase	2
+hypothetical protein sag1661	1
+hd domain-containing protein 2	1
+mmoq	2
+rod cgmp-specific 3',5'-cyclic phosphodiesterase subunit beta	1
+probable two-component response regulator	4
+diguanylate cyclase	2
+metal dependent phosphohydrolase	4
+rod cgmp-specific 3',5'-cyclic phosphodiesterase subunit alpha	1
+dna damage-inducible protein	4
+uncharacterized protein	2
+lmo1466 protein	3
+stalked-cell differentiation controlling protein	1
+bh1327 protein	1

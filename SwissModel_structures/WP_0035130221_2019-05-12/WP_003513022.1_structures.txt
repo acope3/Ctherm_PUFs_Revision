@@ -1,0 +1,9 @@
+Structure	Number
+integrin, alpha 2b	2
+tcdb2, tccc3	1
+integrin alpha-iib	4
+integrin alpha-5	7
+tcdb2,tccc3	1
+integrin alpha-v	25
+integrin alpha-x	8
+lina	2

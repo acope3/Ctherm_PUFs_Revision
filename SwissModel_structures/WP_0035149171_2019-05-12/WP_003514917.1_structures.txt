@@ -1,0 +1,10 @@
+Structure	Number
+class iii stress response-related atpase, aaa+ superfamily	1
+uvrabc system protein b	1
+excinuclease abc subunit	1
+v-type sodium atpase subunit ntpg (f)	2
+prion-like protein	1
+regulator of g-protein signaling 14; rap1/rap2 interacting protein	1
+v-type sodium atpase subunit g	2
+uvrb	1
+40-mer from uvrabc system protein b	1

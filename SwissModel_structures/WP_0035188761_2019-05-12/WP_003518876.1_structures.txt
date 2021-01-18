@@ -1,0 +1,12 @@
+Structure	Number
+pre-mrna-splicing factor bud31	6
+glycosyl hydrolase/deacetylase family protein	1
+global nitrogen regulator	6
+serpin peptidase inhibitor, clade e (nexin, plasminogen activator inhibitor type 1), member 1	2
+dna-directed rna polymerase subunit alpha	1
+pre-mrna-splicing factor cwf14	1
+uncharacterized protein atu1656/agr_c_3050	1
+pyruvate kinase	2
+protein bud31 homolog	4
+plasminogen activator inhibitor 1	2
+ssdna binding protein	8

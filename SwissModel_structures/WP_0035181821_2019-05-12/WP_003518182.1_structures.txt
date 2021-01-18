@@ -1,0 +1,11 @@
+Structure	Number
+26s protease regulatory subunit 4 homolog	8
+ruvb-like 2	2
+ruvb-like 1	8
+heat shock protein 101	12
+rvb2	1
+chaperone protein clpb	2
+atp-dependent clp protease atp-binding subunit clpx	9
+rvb1	1
+ruvb-like protein 1	4
+ruvb-like helicase	3

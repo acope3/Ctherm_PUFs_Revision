@@ -1,0 +1,22 @@
+Structure	Number
+utp7	2
+odz3 protein	2
+coatomer subunit beta'	4
+utp15	1
+dynein assembly factor with wdr repeat domains 1	1
+pre-mrna-splicing factor prp46	2
+tcdb2, tccc3	2
+protein tolb	3
+rhs2	2
+wd repeat-containing protein slp1	2
+periodic tryptophan protein 2-like protein	1
+prp46	2
+sir4-interacting protein sif2	1
+periodic tryptophan protein 2	2
+cell division cycle protein 20 homolog	3
+platelet-activating factor acetylhydrolase ib alpha subunit	1
+wd repeat-containing protein 48	3
+yenc2	2
+pleiotropic regulator 1	5
+teneurin-2	8
+utp1	1

@@ -1,0 +1,13 @@
+Structure	Number
+rcsb	1
+protein (trp repressor)	1
+transcriptional regulatory protein rcsb	3
+trp repressor	1
+redox-sensing transcriptional repressor rex	5
+putative trp repressor protein	8
+possible trp repressor	6
+transcriptional regulator tcar	7
+zinc transport transcriptional regulator	8
+the trpr like protein from eubacterium eligens atcc 27750	2
+trp operon repressor	6
+at-rich dna-binding protein	2

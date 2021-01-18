@@ -1,0 +1,21 @@
+Structure	Number
+d-psicose 3-epimerase	1
+xylose isomerase domain protein tim barrel	3
+endonuclease iv	2
+probable trna sulfurtransferase	4
+d-erythrulose 4-phosphate dehydrogenase	2
+putative dna-binding protein	1
+argininosuccinate synthase	7
+probable thiamine biosynthesis protein thii	1
+sugar isomerase	1
+xylose isomerase	3
+argininosuccinate synthetase	3
+putative uncharacterized protein tthb071	1
+queuosine biosynthesis protein quec	5
+hypothetical protein ph1257	2
+uncharacterized protein mj0690	5
+protein (xylose isomerase)	1
+putative xylose isomerase	1
+d-tagatose 3-epimerase	2
+uncharacterized protein mj1311	1
+n-type atp pyrophosphatase superfamily	4

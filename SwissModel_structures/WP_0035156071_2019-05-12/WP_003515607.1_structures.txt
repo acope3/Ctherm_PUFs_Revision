@@ -1,0 +1,6 @@
+Structure	Number
+e3 ubiquitin-protein ligase parkin	1
+top7	1
+cerebellin-4	1
+lumazine protein	3
+protein cbln4	3

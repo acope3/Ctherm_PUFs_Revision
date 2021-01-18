@@ -1,0 +1,19 @@
+Structure	Number
+anaphase-promoting complex subunit 5	5
+uncharacterized protein	2
+partner of inscuteable	2
+g-protein-signaling modulator 2, afadin	2
+anserina putative kinesin light chain	1
+gamma-snap	3
+peroxisomal targeting signal 1 receptor	1
+malt regulatory protein	1
+response regulator aspartate phosphatase i	4
+nab(ab)3acb - light chain tpr-like repeats	1
+plcr protein	1
+response regulator aspartate phosphatase j	1
+transcriptional activator plcr protein	2
+pins	13
+factor viii intron 22 protein	1
+g-protein-signaling modulator 2	2
+bklc (bacterial kinesin-light chain-like)	2
+alpha-soluble nsf attachment protein	6

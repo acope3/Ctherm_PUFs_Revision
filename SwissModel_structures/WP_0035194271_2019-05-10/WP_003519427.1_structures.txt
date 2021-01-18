@@ -1,0 +1,24 @@
+Structure	Number
+3-hydroxyisobutyrate dehydrogenase family protein	1
+reductive aminase	2
+r-imine reductase	1
+2-hydroxy-3-oxopropionate reductase	1
+probable 3-hydroxyisobutyrate dehydrogenase	1
+tartronate semialdehyde reductase	1
+putative oxidoreductase	2
+pyrroline-5-carboxylate reductase	1
+dehydrogenase-like protein	1
+tartronic semialdehyde reductase	1
+2-hydroxymethyl glutarate dehydrogenase	2
+3-hydroxyisobutyrate dehydrogenase	7
+putative nadp oxidoreductase bf3122	4
+nad_gly3p_dh, nad-dependent glycerol-3-phosphate dehydrogenase	1
+6-phosphogluconate dehydrogenase, nad-binding	2
+(s)-imine reductase	2
+n-pac protein	1
+putative oxidoreductase yfjr	1
+imine reductase	12
+hypothetical protein	2
+6-phosphogluconate dehydrogenase, nad-binding protein	1
+6-phosphogluconate dehydrogenase nad-binding	2
+6-phosphogluconate dehydrogenase	1

@@ -1,0 +1,28 @@
+Structure	Number
+shikimate o-hydroxycinnamoyltransferase	2
+bacillamide synthetase heterocyclization domain	2
+abbfa_003403	1
+cda peptide synthetase i	4
+hydroxycinnamoyl transferase	1
+tqaa	4
+amino acid adenylation domain protein	1
+epob	3
+lovastatin nonaketide synthase moka	1
+c-domain type ii peptide synthetase	2
+hydroxycinnamoyl-coa:shikimate hydroxycinnamoyl transferase	2
+vinorine synthase	2
+non-ribosomal peptide synthetase	1
+trichothecene 3-o-acetyltransferase	3
+acyl transferase	1
+amide synthase	1
+polyketide synthase associated protein 5	2
+diacylglycerol o-acyltransferase	2
+hydroxycinnamoyl-coa shikimate/quinate hydroxycinnamoyltransferase 2	1
+probable hydroxycinnamoyl transferase	2
+surfactin synthetase subunit 3	1
+malonyltransferase	1
+tyrocidine synthetase a	1
+15-o-acetyltransferase	1
+tlmii	3
+hydroxycinnamoyl-coa shikimate/quinate hydroxycinnamoyltransferase	4
+peptide synthetase, module 7	1

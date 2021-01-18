@@ -1,0 +1,5 @@
+Structure	Number
+n-myristoyl transferase	1
+myristoyl-coa:protein n-myristoyltransferase	6
+glycylpeptide n-tetradecanoyltransferase 1	1
+glycylpeptide n-tetradecanoyltransferase	7

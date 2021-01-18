@@ -1,0 +1,5 @@
+Structure	Number
+na(+)/h(+) antiporter 1	5
+undecaprenyl-diphosphatase	4
+glycophorin a	2
+lysosome-associated membrane glycoprotein 2	8

@@ -1,0 +1,12 @@
+Structure	Number
+austinol synthesis protein h	2
+major autolysin	2
+uridylate-specific endoribonuclease	3
+outer membrane protein assembly factor bamc	1
+putative orf1ab polyprotein	1
+prhc	1
+autolysin	2
+outer membrane protein assembly factor bamd	2
+mn transporter; mntc	3
+extracellular solute-binding protein family 1	1
+replicase polyprotein 1ab	2

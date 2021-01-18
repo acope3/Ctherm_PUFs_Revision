@@ -1,0 +1,21 @@
+Structure	Number
+rhau	1
+hypothetical protein yiil	1
+uncharacterized protein	1
+ribokinase	2
+stage iii sporulation protein af	2
+hypothetical protein tt1823	1
+uncharacterized sugar kinase ydjh	1
+top7	1
+l-rhamnose mutarotase	1
+de novo designed protein or258	1
+hypothetical protein sso1404	1
+de novo designed protein or457	1
+argonaute protein	2
+designed protein or327	4
+engineered protein or258	1
+or34	2
+stomatin	2
+de novo protein m7	1
+flotillin 2	1
+hypothetical protein	1

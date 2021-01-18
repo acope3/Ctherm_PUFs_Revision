@@ -1,0 +1,25 @@
+Structure	Number
+galactose oxidase	2
+bacterial sialidase	5
+discoidin-1 subunit a	1
+endo-beta-n-acetylglucosaminidase d	2
+uncharacterized protein bf3579	2
+yecbm32	2
+cbm32 domain	2
+putative lipoprotein	2
+glucanase/chitosanase	4
+coagulation factor viii	1
+f5/8 type c domain protein	2
+alyq	2
+discoidin-2	1
+0940_gh29	2
+lactadherin	1
+alpha-n-acetylglucosaminidase family protein	2
+galactose oxidase precursor	1
+alpha-n-acetylglucosaminidase	1
+glucanase	2
+alginate lyase	2
+glycosyl hydrolase, family 31/fibronectin type iii domain protein	1
+hyaluronoglucosaminidase	1
+putative chitobiase	6
+sialidase	3

@@ -1,0 +1,8 @@
+Structure	Number
+ml50	1
+mitoribosomal protein ml50, mrpl50	1
+39s ribosomal protein l50, mitochondrial	1
+extracellular metalloproteinase mep	1
+transcription factor e2-alpha	3
+two-component system yycf/yycg regulatory protein yych	1
+core scaffold protein	2

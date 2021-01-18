@@ -1,0 +1,23 @@
+Structure	Number
+tungsten formylmethanofuran dehydrogenase subunit fwdf	4
+lactate racemase apoprotein	2
+fructose-bisphosphate aldolase	1
+lactate racemase	1
+photosystem i iron-sulfur center	8
+putative uronate isomerase	1
+abc transporter atp-binding protein	3
+oxalate oxidoreductase subunit delta	3
+nadh-plastoquinone oxidoreductase subunit	1
+fe-s-cluster-containing hydrogenase	1
+zinc-containing ferredoxin	3
+protein (periplasmic hydrogenase 1)	1
+psac	1
+pyruvate-ferredoxin oxidoreductase	4
+iron hydrogenase 1	5
+photosystem i subunit vii	1
+nadh dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial	2
+psac subunit of photosystem i	1
+lactate racemization operon protein lara	2
+nad-reducing hydrogenase	1
+ferredoxin	2
+fructose-1,6-bisphosphate aldolase	2

@@ -1,0 +1,10 @@
+Structure	Number
+oligosaccharide transferase to n-glycosylate proteins	1
+transmembrane oligosaccharyl transferase, putative	1
+integrin alpha-iib	1
+transmembrane oligosaccharyl transferase	2
+4-amino-4-deoxy-l-arabinose transferase or related glycosyltransferases of pmt family	1
+dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit stt3a	2
+4-amino-4-deoxy-l-arabinose (l-ara4n) transferase	1
+dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit stt3	2
+undecaprenyl-diphosphooligosaccharide--protein glycotransferase	2

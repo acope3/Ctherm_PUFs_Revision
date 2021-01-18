@@ -1,0 +1,14 @@
+Structure	Number
+dinitrogenase reductase activacting glicohydrolase	1
+dinitrogenase reductase activating glucohydrolase	2
+adp-ribosyl-(dinitrogen reductase) hydrolase	2
+adp-ribosylglycohydrolase	1
+uncharacterized protein	1
+adp-ribosylhydrolase 3	1
+poly(adp-ribose) glycohydrolase arh3	7
+adp-ribosylhydrolase like 2	2
+hypothetical protein mj1187	2
+double-stranded rna-binding protein	1
+[protein adp-ribosylarginine] hydrolase	1
+adp-ribosyl-[dinitrogen reductase] glycohydrolase	6
+protein adp-ribosylarginine hydrolase	1

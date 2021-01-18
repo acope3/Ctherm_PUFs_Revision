@@ -1,0 +1,7 @@
+Structure	Number
+thermostable carboxypeptidase 1	4
+crispr-associated endonuclease c2c1	2
+designed serine hydrolase variant osh55.4_h1.2	1
+zinc finger and btb domain-containing protein 17,b-cell lymphoma 6 protein	2
+protein (integrase)	1
+insulin-degrading enzyme	1

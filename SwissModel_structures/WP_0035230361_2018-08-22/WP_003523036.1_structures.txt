@@ -1,0 +1,23 @@
+Structure	Number
+g protein gi beta 1	1
+guanine nucleotide-binding protein g(i)/g(s)/g(t) beta subunit 1	1
+transducin	2
+periodic tryptophan protein 2	3
+cell division cycle protein 20 homolog	2
+utp21	1
+sir4-interacting protein sif2	1
+utp1	1
+intraflagellar transport protein 80	1
+rhs2	2
+yenc2	2
+u3 small nucleolar rna-associated protein 21	3
+odz3 protein	3
+protein tolb	1
+guanine nucleotide-binding protein g(i)/g(s)/g(t) subunit beta-1	4
+wd repeat and hmg-box dna-binding protein 1	1
+wd-40 repeat protein	1
+coatomer beta'-subunit	3
+teneurin-2	5
+tcdb2, tccc3	2
+wd repeat-containing protein 48	8
+periodic tryptophan protein 2-like protein	2

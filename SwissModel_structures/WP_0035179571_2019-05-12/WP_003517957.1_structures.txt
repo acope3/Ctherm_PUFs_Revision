@@ -1,0 +1,22 @@
+Structure	Number
+tropomyosin alpha chain, skeletal muscle	4
+ct398	2
+magnesium transporter	4
+putative tbpip family protein	3
+intraflagellar transport protein 81	2
+flagellar motor switch protein flig	4
+serine--trna ligase, cytoplasmic	1
+cell division protein zapb	1
+rna polymerase ii-associated protein 3	1
+intraflagellar transport protein 74	2
+magnesium transporter mgte	2
+seryl-trna synthetase	2
+e3 ubiquitin/isg15 ligase trim25	1
+myosin-5a	2
+flagellar motor switch protein	2
+mg2+ transporter mgte	11
+protein stu2	2
+msmeg_4306	1
+septation ring formation regulator ezra	1
+peptidoglycan endopeptidase ripa	1
+seryl-trna synthetase, cytoplasmic	1

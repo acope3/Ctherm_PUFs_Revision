@@ -1,0 +1,7 @@
+Structure	Number
+substrate-binding region of abc-type glycine betaine transport system	1
+within the bgcn gene intron protein	1
+spike glycoprotein	1
+actin-binding lim protein homologue	1
+multidrug-efflux transporter 1 regulator bmrr	2
+avtr	3

@@ -1,0 +1,5 @@
+Structure	Number
+40s ribosomal protein s15	7
+us19	3
+alpha-s2-casein	2
+ribosomal protein us19	1

@@ -1,0 +1,23 @@
+Structure	Number
+chromosome-partitioning protein spo0j	3
+protein design 2l4hc2_9	4
+sensor histidine kinase	2
+snap25	1
+response regulator	2
+ecf rna polymerase sigma factor sigk	1
+regulatory protein sdia	2
+ecf rna polymerase sigma factor sigw	4
+rna polymerase sigma factor cnrh	1
+synaptosomal-associated protein 25	3
+topoisomerase v	1
+smoothened homolog/soluble cytochrome b562 chimeric protein	3
+transcriptional regulator of ftsqaz gene cluster	5
+rna polymerase sigma-e factor	2
+response regulator chra	1
+transcriptional regulatory protein desr	2
+vesicle transport through interaction with t-snares homolog 1a	1
+rna polymerase ecf-subfamily sigma factor	1
+transcriptional regulatory protein rcsb	3
+snap-25a	1
+atp synthase subunit b	6
+phyr sigma-like domain	1

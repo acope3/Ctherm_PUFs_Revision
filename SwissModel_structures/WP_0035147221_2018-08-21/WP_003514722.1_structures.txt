@@ -1,0 +1,4 @@
+Structure	Number
+methylated-dna--protein-cysteine methyltransferase	9
+acyl-coa-binding protein	1
+undecaprenyl pyrophosphate synthase	2

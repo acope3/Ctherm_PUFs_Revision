@@ -1,0 +1,6 @@
+Structure	Number
+atp-driven flippase pglk	2
+protein glycosylation k	1
+uncharacterized abc transporter atp-binding protein tm_0288	1
+wlab protein	5
+atp-binding cassette sub-family b member 8, mitochondrial	1

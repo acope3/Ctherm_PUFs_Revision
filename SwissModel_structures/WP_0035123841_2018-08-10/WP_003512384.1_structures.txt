@@ -1,0 +1,5 @@
+Structure	Number
+nadh dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial	5
+sec61 alpha subunit	1
+protein transport protein sec61 subunit alpha isoform 1	7
+mitochondrial complex i, 51 kda subunit	1

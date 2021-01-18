@@ -1,101 +1,101 @@
-GO.ID	Term	Annotated	Significant	Expected	Fisher
-GO:0001539	cilium or flagellum-dependent cell motil...	15	3	0.43	0.0075
-GO:0015031	protein transport	16	3	0.46	0.0091
-GO:0071973	bacterial-type flagellum-dependent cell ...	11	2	0.31	0.0368
-GO:0051641	cellular localization	11	2	0.31	0.0368
-GO:0034637	cellular carbohydrate biosynthetic proce...	12	2	0.34	0.0433
-GO:0033692	cellular polysaccharide biosynthetic pro...	12	2	0.34	0.0433
-GO:0055085	transmembrane transport	71	5	2.02	0.0456
-GO:0008610	lipid biosynthetic process	30	3	0.85	0.0503
-GO:0097588	archaeal or bacterial-type flagellum-dep...	13	2	0.37	0.0503
-GO:0015980	energy derivation by oxidation of organi...	14	2	0.4	0.0577
-GO:0000271	polysaccharide biosynthetic process	15	2	0.43	0.0654
-GO:0044087	regulation of cellular component biogene...	15	2	0.43	0.0654
-GO:0006810	transport	110	8	3.13	0.0880
-GO:0051179	localization	125	9	3.56	0.0890
-GO:0044255	cellular lipid metabolic process	38	3	1.08	0.0898
-GO:0022607	cellular component assembly	62	4	1.77	0.0942
-GO:0051234	establishment of localization	112	8	3.19	0.0946
-GO:0016051	carbohydrate biosynthetic process	19	2	0.54	0.0994
-GO:0006629	lipid metabolic process	40	3	1.14	0.1013
-GO:0006935	chemotaxis	20	2	0.57	0.1085
-GO:0006811	ion transport	42	3	1.2	0.1133
-GO:0042330	taxis	21	2	0.6	0.1179
-GO:1901068	guanosine-containing compound metabolic ...	21	2	0.6	0.1179
-GO:0034220	ion transmembrane transport	24	2	0.68	0.1471
-GO:0034660	ncRNA metabolic process	73	4	2.08	0.1482
-GO:0044264	cellular polysaccharide metabolic proces...	25	2	0.71	0.1571
-GO:0090304	nucleic acid metabolic process	230	9	6.55	0.1874
-GO:0008033	tRNA processing	28	2	0.8	0.1881
-GO:0044262	cellular carbohydrate metabolic process	29	2	0.83	0.1986
-GO:0006399	tRNA metabolic process	55	3	1.57	0.2030
-GO:0046128	purine ribonucleoside metabolic process	57	3	1.62	0.2182
-GO:0016043	cellular component organization	115	5	3.28	0.2224
-GO:0042278	purine nucleoside metabolic process	58	3	1.65	0.2258
-GO:0008299	isoprenoid biosynthetic process	10	1	0.28	0.2520
-GO:0006720	isoprenoid metabolic process	10	1	0.28	0.2520
-GO:0007049	cell cycle	34	2	0.97	0.2521
-GO:0051128	regulation of cellular component organiz...	35	2	1	0.2629
-GO:0046129	purine ribonucleoside biosynthetic proce...	11	1	0.31	0.2735
-GO:0044265	cellular macromolecule catabolic process	11	1	0.31	0.2735
-GO:0042451	purine nucleoside biosynthetic process	11	1	0.31	0.2735
-GO:0042592	homeostatic process	11	1	0.31	0.2735
-GO:2000142	regulation of DNA-templated transcriptio...	11	1	0.31	0.2735
-GO:0043254	regulation of protein complex assembly	11	1	0.31	0.2735
-GO:0009168	purine ribonucleoside monophosphate bios...	37	2	1.05	0.2845
-GO:0009127	purine nucleoside monophosphate biosynth...	37	2	1.05	0.2845
-GO:0006996	organelle organization	37	2	1.05	0.2845
-GO:0016070	RNA metabolic process	159	6	4.53	0.2928
-GO:0008654	phospholipid biosynthetic process	12	1	0.34	0.2944
-GO:0006352	DNA-templated transcription, initiation	12	1	0.34	0.2944
-GO:0042398	cellular modified amino acid biosyntheti...	12	1	0.34	0.2944
-GO:0000160	phosphorelay signal transduction system	38	2	1.08	0.2953
-GO:0071705	nitrogen compound transport	30	4	0.85	0.3096
-GO:0098660	inorganic ion transmembrane transport	13	1	0.37	0.3148
-GO:0098662	inorganic cation transmembrane transport	13	1	0.37	0.3148
-GO:0070925	organelle assembly	13	1	0.37	0.3148
-GO:0009069	serine family amino acid metabolic proce...	13	1	0.37	0.3148
-GO:0006541	glutamine metabolic process	13	1	0.37	0.3148
-GO:0006644	phospholipid metabolic process	13	1	0.37	0.3148
-GO:0006139	nucleobase-containing compound metabolic...	364	12	10.37	0.3236
-GO:0051301	cell division	41	2	1.17	0.3277
-GO:0035556	intracellular signal transduction	41	2	1.17	0.3277
-GO:0007165	signal transduction	71	3	2.02	0.3293
-GO:0023052	signaling	71	3	2.02	0.3293
-GO:1901069	guanosine-containing compound catabolic ...	14	1	0.4	0.3345
-GO:0090305	nucleic acid phosphodiester bond hydroly...	42	2	1.2	0.3384
-GO:0009119	ribonucleoside metabolic process	73	3	2.08	0.3456
-GO:0044085	cellular component biogenesis	105	4	2.99	0.3501
-GO:0000910	cytokinesis	15	1	0.43	0.3537
-GO:0046039	GTP metabolic process	15	1	0.43	0.3537
-GO:0072521	purine-containing compound metabolic pro...	106	4	3.02	0.3569
-GO:0009605	response to external stimulus	44	2	1.25	0.3597
-GO:0050896	response to stimulus	172	6	4.9	0.3635
-GO:0006091	generation of precursor metabolites and ...	45	2	1.28	0.3702
-GO:0034470	ncRNA processing	45	2	1.28	0.3702
-GO:0022402	cell cycle process	16	1	0.46	0.3724
-GO:0032774	RNA biosynthetic process	77	3	2.19	0.3780
-GO:0009152	purine ribonucleotide biosynthetic proce...	46	2	1.31	0.3808
-GO:0030001	metal ion transport	17	1	0.48	0.3906
-GO:0071702	organic substance transport	35	4	1	0.3960
-GO:0071840	cellular component organization or bioge...	145	5	4.13	0.3983
-GO:0009156	ribonucleoside monophosphate biosyntheti...	48	2	1.37	0.4016
-GO:0006073	cellular glucan metabolic process	18	1	0.51	0.4083
-GO:0040011	locomotion	35	4	1	0.4116
-GO:0006164	purine nucleotide biosynthetic process	49	2	1.4	0.4119
-GO:0009116	nucleoside metabolic process	82	3	2.34	0.4181
-GO:1901657	glycosyl compound metabolic process	82	3	2.34	0.4181
-GO:0072522	purine-containing compound biosynthetic ...	50	2	1.42	0.4221
-GO:0005976	polysaccharide metabolic process	50	2	1.42	0.4221
-GO:0044042	glucan metabolic process	19	1	0.54	0.4254
-GO:0098655	cation transmembrane transport	19	1	0.54	0.4254
-GO:0000902	cell morphogenesis	19	1	0.54	0.4254
-GO:0032989	cellular component morphogenesis	19	1	0.54	0.4254
-GO:0007154	cell communication	86	3	2.45	0.4498
-GO:0009124	nucleoside monophosphate biosynthetic pr...	53	2	1.51	0.4523
-GO:0006754	ATP biosynthetic process	21	1	0.6	0.4583
-GO:0048869	cellular developmental process	22	1	0.63	0.4741
-GO:0009145	purine nucleoside triphosphate biosynthe...	22	1	0.63	0.4741
-GO:0009653	anatomical structure morphogenesis	22	1	0.63	0.4741
-GO:0006575	cellular modified amino acid metabolic p...	22	1	0.63	0.4741
-GO:0006400	tRNA modification	22	1	0.63	0.4741
+GO.ID	Term	Annotated	Significant	Expected	Rank in elimFisher	weight01Fisher	elimFisher	Protein	PUF
+GO:0015031	protein transport	18	3	0.52	2	0.013	0.0134	WP_003517264.1;WP_003517953.1;WP_003517984.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0046903	secretion	11	2	0.32	13	0.038	0.0379	WP_003517264.1;WP_003517953.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0071973	bacterial-type flagellum-dependent cell ...	11	2	0.32	14	0.038	0.0379	WP_003517953.1;WP_003517972.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0051641	cellular localization	11	2	0.32	15	0.038	0.0379	WP_003517264.1;WP_003517984.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0044283	small molecule biosynthetic process	220	5	6.37	231	0.039	0.7953	WP_003513301.1;WP_003515557.1;WP_003517741.1;WP_003517888.1;WP_003517984.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0033692	cellular polysaccharide biosynthetic pro...	12	2	0.35	16	0.045	0.0447	WP_003512440.1;WP_003513026.1	WP_003512697.1;WP_003513117.1;WP_003514187.1;WP_003514338.1;WP_003515387.1;WP_003515543.1;WP_003516075.1;WP_003517147.1;WP_003518671.1
+GO:0001539	cilium or flagellum-dependent cell motil...	15	3	0.43	1	0.054	0.0079	NA	NA
+GO:0090305	nucleic acid phosphodiester bond hydroly...	51	4	1.48	20	0.055	0.0555	NA	NA
+GO:0006935	chemotaxis	31	3	0.9	21	0.057	0.0571	NA	NA
+GO:0015980	energy derivation by oxidation of organi...	16	2	0.46	24	0.076	0.0756	NA	NA
+GO:0046128	purine ribonucleoside metabolic process	57	3	1.65	49	0.083	0.2253	NA	NA
+GO:0022607	cellular component assembly	69	4	2	35	0.090	0.1334	NA	NA
+GO:0032774	RNA biosynthetic process	108	5	3.12	43	0.107	0.1953	NA	NA
+GO:0006811	ion transport	50	4	1.45	19	0.130	0.0522	NA	NA
+GO:0044087	regulation of cellular component biogene...	16	2	0.46	25	0.134	0.0756	NA	NA
+GO:0055085	transmembrane transport	86	6	2.49	12	0.156	0.0324	NA	NA
+GO:0006996	organelle organization	47	3	1.36	37	0.158	0.1511	NA	NA
+GO:1901068	guanosine-containing compound metabolic ...	21	2	0.61	31	0.159	0.1211	NA	NA
+GO:0006520	cellular amino acid metabolic process	141	3	4.08	233	0.172	0.7971	NA	NA
+GO:0034220	ion transmembrane transport	35	3	1.01	27	0.180	0.0769	NA	NA
+GO:0051186	cofactor metabolic process	82	3	2.37	107	0.187	0.4280	NA	NA
+GO:1901576	organic substance biosynthetic process	528	13	15.28	249	0.189	0.8406	NA	NA
+GO:0009987	cellular process	864	27	25	85	0.199	0.3493	NA	NA
+GO:0098662	inorganic cation transmembrane transport	22	2	0.64	34	0.206	0.1309	NA	NA
+GO:0008033	tRNA processing	32	2	0.93	51	0.208	0.2360	NA	NA
+GO:0009058	biosynthetic process	536	14	15.51	225	0.236	0.7639	NA	NA
+GO:0032506	cytokinetic process	10	1	0.29	54	0.255	0.2553	NA	NA
+GO:0008299	isoprenoid biosynthetic process	10	1	0.29	55	0.255	0.2553	NA	NA
+GO:0034655	nucleobase-containing compound catabolic...	73	2	2.11	179	0.261	0.6372	NA	NA
+GO:0046129	purine ribonucleoside biosynthetic proce...	11	1	0.32	58	0.277	0.2771	NA	NA
+GO:0044265	cellular macromolecule catabolic process	11	1	0.32	59	0.277	0.2771	NA	NA
+GO:2000142	regulation of DNA-templated transcriptio...	11	1	0.32	60	0.277	0.2771	NA	NA
+GO:0071705	nitrogen compound transport	34	4	0.98	3	0.279	0.0145	NA	NA
+GO:0051188	cofactor biosynthetic process	66	2	1.91	164	0.282	0.5805	NA	NA
+GO:0042592	homeostatic process	12	1	0.35	70	0.298	0.2982	NA	NA
+GO:0008654	phospholipid biosynthetic process	13	1	0.38	74	0.319	0.3187	NA	NA
+GO:0042398	cellular modified amino acid biosyntheti...	14	1	0.41	79	0.339	0.3387	NA	NA
+GO:1902600	proton transmembrane transport	14	1	0.41	80	0.339	0.3387	NA	NA
+GO:0042180	cellular ketone metabolic process	14	1	0.41	81	0.339	0.3387	NA	NA
+GO:0006541	glutamine metabolic process	14	1	0.41	82	0.339	0.3387	NA	NA
+GO:1901069	guanosine-containing compound catabolic ...	14	1	0.41	83	0.339	0.3387	NA	NA
+GO:0006281	DNA repair	43	2	1.24	88	0.356	0.3561	NA	NA
+GO:0070925	organelle assembly	15	1	0.43	89	0.358	0.3581	NA	NA
+GO:0009069	serine family amino acid metabolic proce...	15	1	0.43	90	0.358	0.3581	NA	NA
+GO:0046039	GTP metabolic process	15	1	0.43	91	0.358	0.3581	NA	NA
+GO:0008610	lipid biosynthetic process	32	3	0.93	23	0.362	0.0618	NA	NA
+GO:0071702	organic substance transport	39	4	1.13	9	0.372	0.0233	NA	NA
+GO:0017144	drug metabolic process	104	3	3.01	166	0.389	0.5931	NA	NA
+GO:0007049	cell cycle	36	2	1.04	63	0.391	0.2798	NA	NA
+GO:0000160	phosphorelay signal transduction system	48	2	1.39	103	0.409	0.4091	NA	NA
+GO:0009168	purine ribonucleoside monophosphate bios...	44	2	1.27	93	0.410	0.3668	NA	NA
+GO:0006355	regulation of transcription, DNA-templat...	94	4	2.72	66	0.422	0.2860	NA	NA
+GO:0000902	cell morphogenesis	19	1	0.55	110	0.430	0.4302	NA	NA
+GO:0030001	metal ion transport	19	1	0.55	111	0.430	0.4302	NA	NA
+GO:0006073	cellular glucan metabolic process	20	1	0.58	118	0.447	0.4470	NA	NA
+GO:0042364	water-soluble vitamin biosynthetic proce...	22	1	0.64	129	0.479	0.4791	NA	NA
+GO:0044255	cellular lipid metabolic process	40	3	1.16	30	0.492	0.1053	NA	NA
+GO:0006418	tRNA aminoacylation for protein translat...	23	1	0.67	134	0.494	0.4945	NA	NA
+GO:0006575	cellular modified amino acid metabolic p...	23	1	0.67	135	0.494	0.4945	NA	NA
+GO:0071103	DNA conformation change	24	1	0.69	139	0.509	0.5094	NA	NA
+GO:0006400	tRNA modification	24	1	0.69	140	0.509	0.5094	NA	NA
+GO:0051128	regulation of cellular component organiz...	36	2	1.04	64	0.516	0.2798	NA	NA
+GO:0051301	cell division	44	2	1.27	94	0.533	0.3668	NA	NA
+GO:0006754	ATP biosynthetic process	26	1	0.75	149	0.538	0.5380	NA	NA
+GO:0010629	negative regulation of gene expression	27	1	0.78	152	0.552	0.5517	NA	NA
+GO:0016072	rRNA metabolic process	27	1	0.78	153	0.552	0.5517	NA	NA
+GO:0006733	oxidoreduction coenzyme metabolic proces...	27	1	0.78	154	0.552	0.5517	NA	NA
+GO:0006950	response to stress	91	3	2.63	136	0.563	0.4987	NA	NA
+GO:0007165	signal transduction	81	3	2.34	105	0.572	0.4200	NA	NA
+GO:0009152	purine ribonucleotide biosynthetic proce...	56	2	1.62	132	0.588	0.4895	NA	NA
+GO:0006310	DNA recombination	31	1	0.9	168	0.603	0.6026	NA	NA
+GO:1901137	carbohydrate derivative biosynthetic pro...	117	3	3.39	194	0.673	0.6762	NA	NA
+GO:0006790	sulfur compound metabolic process	40	1	1.16	198	0.698	0.6976	NA	NA
+GO:0009154	purine ribonucleotide catabolic process	42	1	1.22	204	0.715	0.7155	NA	NA
+GO:0009207	purine ribonucleoside triphosphate catab...	42	1	1.22	205	0.715	0.7155	NA	NA
+GO:0044260	cellular macromolecule metabolic process	435	12	12.59	186	0.717	0.6507	NA	NA
+GO:0005975	carbohydrate metabolic process	114	3	3.3	191	0.763	0.6582	NA	NA
+GO:0040007	growth	135	3	3.91	228	0.771	0.7708	NA	NA
+GO:0032259	methylation	55	1	1.59	235	0.809	0.8091	NA	NA
+GO:0009108	coenzyme biosynthetic process	55	1	1.59	236	0.809	0.8091	NA	NA
+GO:0006464	cellular protein modification process	63	1	1.82	252	0.851	0.8511	NA	NA
+GO:0006508	proteolysis	77	1	2.23	257	0.904	0.9040	NA	NA
+GO:1901607	alpha-amino acid biosynthetic process	85	1	2.46	260	0.926	0.9255	NA	NA
+GO:0055114	oxidation-reduction process	166	3	4.8	255	0.989	0.8821	NA	NA
+GO:0019438	aromatic compound biosynthetic process	308	8	8.91	203	1.000	0.7068	NA	NA
+GO:0015672	monovalent inorganic cation transport	20	1	0.58	119	1.000	0.4470	NA	NA
+GO:0044042	glucan metabolic process	21	1	0.61	127	1.000	0.4633	NA	NA
+GO:0019439	aromatic compound catabolic process	75	2	2.17	187	1.000	0.6524	NA	NA
+GO:0019219	regulation of nucleobase-containing comp...	103	4	2.98	84	1.000	0.3475	NA	NA
+GO:0050794	regulation of cellular process	205	7	5.93	100	1.000	0.3802	NA	NA
+GO:0043412	macromolecule modification	107	2	3.1	245	1.000	0.8335	NA	NA
+GO:0008652	cellular amino acid biosynthetic process	98	1	2.84	269	1.000	0.9509	NA	NA
+GO:0044262	cellular carbohydrate metabolic process	32	2	0.93	52	1.000	0.2360	NA	NA
+GO:0006928	movement of cell or subcellular componen...	22	3	0.64	282	1.000	1.0000	NA	NA
+GO:0044264	cellular polysaccharide metabolic proces...	27	2	0.78	40	1.000	0.1821	NA	NA
+GO:0034654	nucleobase-containing compound biosynthe...	259	8	7.49	131	1.000	0.4846	NA	NA
+GO:0006351	transcription, DNA-templated	104	4	3.01	86	1.000	0.3544	NA	NA
+GO:0044267	cellular protein metabolic process	182	2	5.27	273	1.000	0.9782	NA	NA
+GO:0006352	DNA-templated transcription, initiation	12	1	0.35	71	1.000	0.2982	NA	NA
+GO:0034656	nucleobase-containing small molecule cat...	45	1	1.3	216	1.000	0.7404	NA	NA

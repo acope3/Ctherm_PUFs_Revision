@@ -1,0 +1,9 @@
+Structure	Number
+tyrosine 3-monooxygenase	1
+uncharacterized protein	1
+putative prephenate dehydrogenase	1
+tyrosine hydroxylase	1
+protein (phenylalanine hydroxylase)	2
+takeout-like protein 1	2
+prephenate dehydrogenase	6
+prolyl endopeptidase	1

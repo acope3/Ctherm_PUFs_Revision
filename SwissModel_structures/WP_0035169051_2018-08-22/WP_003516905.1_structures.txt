@@ -1,0 +1,14 @@
+Structure	Number
+es27	1
+50s ribosomal protein l37ae	3
+dna-directed rna polymerase i subunit rpa12	8
+ranbp-type and c3hc4-type zinc finger-containing protein 1	4
+orff	4
+40s ribosomal protein s27-a	7
+uncharacterized protein pf0385	1
+transcription initiation factor iib	11
+tfiib	1
+macrolide export atp-binding/permease protein macb	4
+transcription factor iiib 70 kda subunit	3
+transcription factor ii b (tfiib)	1
+probable lysine biosynthesis protein	2

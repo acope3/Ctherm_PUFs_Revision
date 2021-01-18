@@ -1,0 +1,15 @@
+Structure	Number
+vascular endothelial growth factor receptor 2	2
+down syndrome cell adhesion molecule (dscam) isoform 1.30.30, n-terminal eight ig domains	6
+apoptotic protease-activating factor 1	5
+macrophage colony-stimulating factor 1 receptor	4
+cd166 antigen	2
+surface layer protein	4
+down syndrome cell adhesion molecule isoform 1.9	2
+intercellular adhesion molecule-1	2
+fl cytokine receptor	3
+invasin	2
+intercellular adhesion molecule 5	4
+mam domain-containing glycosylphosphatidylinositol anchor protein 1	6
+protein sidekick-1	4
+mast/stem cell growth factor receptor	4

@@ -1,0 +1,13 @@
+Structure	Number
+disks large homolog 1	1
+aspartokinase, alpha and beta subunits	2
+procarboxypeptidase b	2
+carboxypeptidase b	1
+escj	2
+aspartokinase	18
+nickel responsive regulator	3
+carboxypeptidase b2	8
+aspartokinase lysc beta subunit	1
+hypothetical protein rpa1041	1
+disks large homolog 4	1
+putative nickel-responsive regulator	10

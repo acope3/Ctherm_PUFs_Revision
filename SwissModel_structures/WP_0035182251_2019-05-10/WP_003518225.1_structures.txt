@@ -1,0 +1,23 @@
+Structure	Number
+cgmp-specific 3',5'-cyclic phosphodiesterase	1
+response regulator fixj	6
+uncharacterized protein bd1817	1
+response regulator receiver:metal-dependent phosphohydrolase, hd subdomain	1
+hd superfamily hydrolase	1
+transcriptional regulator (ntrc family)	4
+metal dependent phosphohydrolase	4
+nitrogen assimilation regulatory protein	4
+3'3'-cgamp-specific phosphodiesterase 3	3
+response regulator	4
+response regulator receiver protein	1
+two component transcriptional regulator, arac family	2
+cyclic di-gmp phosphodiesterase	2
+response regulator protein	1
+rod cgmp-specific 3',5'-cyclic phosphodiesterase subunit beta	2
+probable two-component response regulator	4
+bacterial regulatory, fis family protein	1
+rod cgmp-specific 3',5'-cyclic phosphodiesterase subunit alpha	1
+possible two component system response transcriptional positive regulator phop	2
+uncharacterized protein	1
+lmo1466 protein	3
+bh1327 protein	1

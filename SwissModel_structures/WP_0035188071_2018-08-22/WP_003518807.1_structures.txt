@@ -1,0 +1,14 @@
+Structure	Number
+cytochrome b-c1 complex subunit rieske, mitochondrial	5
+bud emergence protein 1	3
+lipopolysaccharide biosynthesis protein wzze	2
+integrin alpha-l	1
+5'-amp-activated protein kinase catalytic subunit alpha-1	2
+neutrophil cytosol factor 1	1
+mitochondrial ubiquinol-cytochrome c reductase iron-sulfur protein	1
+cytochrome b-c1 complex subunit 5, rieske ironsulfur protein, mitochondrial	2
+putative nucleic acid-binding lipoprotein	1
+monovalent cation/h+ antiporter subunit g	1
+e3 ubiquitin-protein ligase uhrf1	3
+scavenger receptor class b member 1	1
+ubiquinol-cytochrome c reductase iron-sulfur subunit	1

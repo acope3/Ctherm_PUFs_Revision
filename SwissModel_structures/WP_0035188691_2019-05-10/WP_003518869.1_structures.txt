@@ -1,0 +1,12 @@
+Structure	Number
+uncharacterized protein	1
+tyrosinase	1
+ci	3
+putative transposon-related dna-binding protein	4
+nucleoid-associated protein espr	2
+protein of unknown function duf433	2
+csp231i c protein	6
+protein (sinr protein)	1
+putative hth-type transcriptional regulator ybaq	2
+esx-1 secretion-associated regulator espr	6
+repressor	8

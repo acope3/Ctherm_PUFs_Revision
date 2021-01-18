@@ -1,0 +1,19 @@
+Structure	Number
+acyclase	1
+laminarinase 16a	1
+glycoside hydrolase family 31 alpha-glucosidase	1
+endo-1,4-beta-xylanase c	10
+cyclase a	1
+pesticidal crystal protein cry1ac	1
+glycoside hydrolase family 9	1
+endo-alpha-n-acetylgalactosaminidase	1
+s-layer associated multidomain endoglucanase	9
+12-epi-hapalindole u synthase	1
+arabinogalactan endo-1,4-beta-galactosidase	1
+xylanase	4
+12-epi-hapalindole c/u synthase	4
+cyclase	3
+aromatic prenyltransferase	5
+hyaluronate lyase	1
+cellulose 1,4-beta-cellobiosidase	1
+endo-1,4-beta-xylanase y	4

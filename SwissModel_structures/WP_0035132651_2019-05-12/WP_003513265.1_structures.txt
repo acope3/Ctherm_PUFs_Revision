@@ -1,0 +1,10 @@
+Structure	Number
+u6 snrna-associated sm-like protein lsm2	8
+uncharacterized protein	1
+u6 snrna-associated sm-like protein lsm6	12
+snurportin-1	8
+spindlin-like protein 2, isoform cra_a	2
+spindlin-4	1
+spindlin-1	8
+small nuclear ribonucleoprotein homolog	3
+small nuclear ribonucleoprotein g	7

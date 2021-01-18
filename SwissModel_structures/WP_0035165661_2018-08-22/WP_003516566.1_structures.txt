@@ -1,0 +1,21 @@
+Structure	Number
+bacterial dynamin-like protein	2
+leoa	1
+septum site-determining protein diviva	6
+6-phosphofructo-1-kinase gamma-subunit	1
+wlab protein	4
+lipid a export atp-binding/permease protein msba	7
+atp-driven flippase pglk	2
+cell cycle protein gpsb	6
+curli production assembly/transport component csgf	1
+uncharacterized abc transporter atp-binding protein tm_0288	2
+abc transporter (hlyb subfamily)	2
+amphiphysin	1
+dynamin family protein	2
+multidrug resistance abc transporter atp-binding and permease protein	2
+atp synthase subunit b	1
+abc transporter, atp-binding protein	1
+type 4 fimbrial assembly protein pilc	4
+sorting nexin-1	2
+protein glycosylation k	1
+abc transporter	2

@@ -1,0 +1,9 @@
+Structure	Number
+ec869 cdii	2
+dna polymerase ii large subunit	1
+immunity protein cdii-o11	2
+cdii immunity protein	2
+hypothetical protein nmb0488	2
+syndecan-2	1
+neurogenic locus notch homolog protein 1	1
+cdii toxin	2

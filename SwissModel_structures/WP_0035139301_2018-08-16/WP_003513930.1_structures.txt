@@ -1,0 +1,19 @@
+Structure	Number
+ribulose bisphosphate carboxylase small chain c	1
+ribulose bisphosphate carboxylase small chain	7
+ribulose 1,5 bisphosphate carboxylase/oxygenase (small chain)	3
+ribulose bisphosphate carboxylase small chain 1b, chloroplastic	1
+ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit	3
+ribulose bisphosphate carboxylase small chain, chloroplastic	2
+protein (ribulose bisphosphate carboxylase)	1
+reca	1
+rubisco (small subunit)	1
+ribulose bisphosphate carboxylase small chain 3a, chloroplastic	1
+ribulose bisphosphate carboxylase/oxygenase	1
+rubisco small subunit	2
+ribulose bisphosphate carboxylase small chain 1	1
+ribulose bisphosphate carboxylase small chain 2, ribulose bisphosphate carboxylase small chain	1
+small subunit of rubisco	1
+ribulose 1,5-bisphosphate carboxylase/oxygenase (form iv)	1
+ribulose bisphosphate carboxylase small chain 1, ribulose bisphosphate carboxylase small chain 2	1
+protein (ribulose bisphosphate carboxylase small chain)	1

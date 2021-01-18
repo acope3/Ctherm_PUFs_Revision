@@ -1,0 +1,16 @@
+Structure	Number
+peptide methionine sulfoxide reductase	2
+methionine-r-sulfoxide reductase	1
+uncharacterized protein	2
+engineered protein	2
+rna polymerase ii transcription factor b subunit 3	1
+e3 ubiquitin-protein ligase arih1	6
+rbr-type e3 ubiquitin transferase,rbr-type e3 ubiquitin transferase	1
+trans-acting t-cell-specific transcription factor gata-3	4
+e3 ubiquitin-protein ligase parkin,e3 ubiquitin-protein ligase parkin	1
+putative uncharacterized protein	3
+e3 ubiquitin-protein ligase parkin	10
+dna polymerase epsilon catalytic subunit a	1
+peptide methionine sulfoxide reductase msrb	1
+transcriptional regulator kaiso	5
+transcriptional repressor ctcf	10

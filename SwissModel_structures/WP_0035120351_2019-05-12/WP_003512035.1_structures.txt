@@ -1,0 +1,23 @@
+Structure	Number
+fibrinogen alpha chain	1
+apolipophorin-iii	1
+snap-25 c-terminal snare motif	1
+bacillus ps3 atp synthase subunit b	4
+atp synthase subunit b', chloroplastic	2
+synaptosomal-associated protein 29	1
+syntaxin-6	1
+hemagglutinin-esterase	1
+atp synthase subunit b, chloroplastic	2
+cg6831-pa (talin)	1
+protein (snap-25b)	3
+sherp	2
+chimera protein of high affinity copper uptake protein 1 and soluble cytochrome b562	1
+e2 glycoprotein	2
+nada	1
+syntaxin-1a	3
+fibrinogen beta chain	3
+s-snap25 fusion protein	1
+syntaxin 8	1
+synaptosomal-associated protein 25	6
+spike glycoprotein,spike glycoprotein,inhibitor ek1	3
+atp synthase subunit b	9

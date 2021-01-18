@@ -1,0 +1,8 @@
+Structure	Number
+putative sulfurtransferase dsre	1
+mannonate dehydratase	2
+rps18e	1
+40s ribosomal protein s18, putative	1
+40s ribosomal protein us13	3
+rps18_us13	1
+40s ribosomal protein rps18e	1

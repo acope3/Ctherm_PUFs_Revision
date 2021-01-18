@@ -1,0 +1,8 @@
+Structure	Number
+multidrug-efflux transporter regulator	4
+putative bacterial transcription regulation protein	6
+sa2223 protein	10
+multidrug-efflux transporter 1 regulator	9
+bmr promoter dna	2
+multidrug-efflux transporter 1 regulator bmrr	1
+lin2189 protein	8

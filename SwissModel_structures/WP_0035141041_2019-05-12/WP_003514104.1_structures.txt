@@ -1,0 +1,9 @@
+Structure	Number
+ul18	1
+hypothetical protein mg027	1
+ribosomal protein ul18	1
+dna ligase	1
+60s ribosomal protein l5, putative	1
+glutamine synthetase	1
+fusion inhibitor mt-sifuvirtide	3
+ribosomal protein l18	1

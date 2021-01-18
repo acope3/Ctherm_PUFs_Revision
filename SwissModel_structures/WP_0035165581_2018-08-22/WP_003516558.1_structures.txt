@@ -1,0 +1,23 @@
+Structure	Number
+type iii antifreeze protein 6	1
+dna replication licensing factor mcm3	6
+type iii antifreeze protein nfeafp11	2
+protein (antifreeze protein type iii)	5
+flagellar protein flga	1
+type-3 ice-structuring protein hplc 12	2
+type iii antifreeze protein	1
+antifreeze protein rd3 type iii	2
+type iii antifreeze protein isoform hplc 12	3
+ice-structuring protein	5
+homeobox protein nkx-2.5	2
+antifreeze protein 13	1
+polysialic acid capsule biosynthesis protein siac	4
+minichromosome maintenance 3	1
+probable spore coat polysaccharide biosynthesis protein e	2
+antifreeze peptide rd1	1
+flagella basal body p-ring formation protein flga	5
+sialic acid synthase	1
+spore coat polysaccharide biosynthesis protein spse	1
+antifreeze protein type iii	2
+protein ygiw	1
+antifreeze protein type iii isoform hplc12 mutant	1
